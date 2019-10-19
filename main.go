@@ -1,22 +1,66 @@
 package main
 
 import (
+	"analyzeit/verloader"
 	"fmt"
-	"io/ioutil"
-
-	"golang.org/x/text/encoding/charmap"
+	"strings"
 )
 
 func main() {
-	b, err := ioutil.ReadFile("rep.xls")
 
-	if err != nil {
-		fmt.Print(err)
+	verifications := verloader.LoadVerificationsFromFile("./rep.xls")
+
+	// O(N^2) FTW
+
+	notpaid := []verloader.Verification{}
+	for _, element := range verifications {
+		if strings.HasPrefix(element.Description, "MU") {
+
+			if !findMatchingMB(element, verifications) {
+				notpaid = append(notpaid, element)
+			}
+
+		}
 	}
 
-	str := string(b)
+	for _, element := range notpaid {
+		fmt.Println(element.Description)
+	}
 
-	f, err := charmap.ISO8859_1.NewDecoder().String(str)
+}
 
+func findMatchingMB(verification verloader.Verification, verifications []verloader.Verification) bool {
 
+	noPrefixDesc1 := removePrefix(verification.Description)
+	matchingExists := false
+
+	
+
+	for _, element := range verifications {
+		if (element.Vernr != verification.Vernr) {
+			continue
+		}
+
+		noPrefixDesc2 := removePrefix(element.Description)
+		if noPrefixDesc2 != noPrefixDesc1 {
+			continue
+		}
+
+		if()
+
+		matchingExists = true
+		fmt.Printf("%s matches with %s \n", verification.Vernr, element.Vernr)
+	}
+
+	return (matchingExists)
+}
+
+func removePrefix(verification string) string {
+
+	noPrefix := strings.Replace(verification, "FM", "", 1)
+	noPrefix = strings.Replace(verification, "FB", "", 1)
+	noPrefix = strings.Replace(verification, "MU", "", 1)
+	noPrefix = strings.Replace(verification, "MB", "", 1)
+
+	return noPrefix
 }
