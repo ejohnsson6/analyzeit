@@ -34,10 +34,8 @@ func findMatchingMB(verification verloader.Verification, verifications []verload
 	noPrefixDesc1 := removePrefix(verification.Description)
 	matchingExists := false
 
-	
-
 	for _, element := range verifications {
-		if (element.Vernr != verification.Vernr) {
+		if element.Vernr == verification.Vernr {
 			continue
 		}
 
@@ -45,8 +43,6 @@ func findMatchingMB(verification verloader.Verification, verifications []verload
 		if noPrefixDesc2 != noPrefixDesc1 {
 			continue
 		}
-
-		if()
 
 		matchingExists = true
 		fmt.Printf("%s matches with %s \n", verification.Vernr, element.Vernr)
