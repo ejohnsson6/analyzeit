@@ -1,1158 +1,987 @@
-Vernr	Bokfï¿½ringsdatum	Registreringsdatum	Konto	Benï¿½mning	Ks	Projnr	Verifikationstext	Transaktionsinfo	Debet	Kredit	
-A1	2018-07-01	2018-08-24	1790	ï¿½vriga fï¿½rutbetalda kostnader och upplupna intï¿½kter	10		Teambuilding StyrIT 1			300,49	
-A1	2018-07-01	2018-08-24	4510	Kostnader Intern Representation	10		Teambuilding StyrIT 1		300,49		
-A2	2018-07-01	2018-08-24	1790	ï¿½vriga fï¿½rutbetalda kostnader och upplupna intï¿½kter	10		Teambuilding StyrIT 2			702,00	
-A2	2018-07-01	2018-08-24	4510	Kostnader Intern Representation	10		Teambuilding StyrIT 2		702,00		
-A3	2018-07-04	2018-08-25	1610	Fordringar PRIT	10		Sunfleet inbetalad PRIT Januari			762,82	
-A3	2018-07-04	2018-08-25	1920	Bankkonto StyrIT	10		Sunfleet inbetalad PRIT Januari		762,82		
-A4	2018-07-05	2018-08-25	1920	Bankkonto StyrIT	10		Kunskapsprov ordfï¿½rande 1819			1200,00	
-A4	2018-07-05	2018-08-25	4521	Kostnader Kunskapsprov Ordfï¿½rande	10		Kunskapsprov ordfï¿½rande 1819		1200,00		
-A5	2018-07-10	2018-08-25	1920	Bankkonto StyrIT	10		Lï¿½n MRCIT			20000,00	
-A5	2018-07-10	2018-08-25	1616	Fordringar MRCIT	10		Lï¿½n MRCIT		20000,00		
-A6	2018-07-10	2018-08-25	1920	Bankkonto StyrIT	10		ï¿½verfï¿½ring ArmIT till StyrIT		200000,00		
-A6	2018-07-10	2018-08-25	1925	Bankkonto armIT	10		ï¿½verfï¿½ring ArmIT till StyrIT			200000,00	
-A7	2018-07-10	2018-08-25	1920	Bankkonto StyrIT	10		FB - Kandidatmiddagen			95122,00	
-A7	2018-07-10	2018-08-25	2440	Leverantï¿½rsskulder	10		FB - Kandidatmiddagen		95122,00		
-A8	2018-07-10	2018-08-25	1920	Bankkonto StyrIT	10		FB - Hyra motionshall			1000,00	
-A8	2018-07-10	2018-08-25	2440	Leverantï¿½rsskulder	10		FB - Hyra motionshall		1000,00		
-A9	2018-07-30	2018-08-25	1920	Bankkonto StyrIT	10		Serveringstillstï¿½nd HT 18			1000,00	
-A9	2018-07-30	2018-08-25	4213	Kostnader Serveringstillstï¿½nd	10		Serveringstillstï¿½nd HT 18		1000,00		
-A10	2018-07-31	2018-08-25	2440	Leverantï¿½rsskulder	10		FM - Sunfleet Juli			625,00	
-A10	2018-07-31	2018-08-25	5610	Kostnader bil	10		FM - Sunfleet Juli		625,00		
-A11	2018-08-06	2018-08-25	1920	Bankkonto StyrIT	10		FB - Sunfleet Juli			625,00	
-A11	2018-08-06	2018-08-25	2440	Leverantï¿½rsskulder	10		FB - Sunfleet Juli		625,00		
-A12	2018-08-06	2018-08-25	1920	Bankkonto StyrIT	10		FB - Sunfleet Juni			2099,50	
-A12	2018-08-06	2018-08-25	2440	Leverantï¿½rsskulder	10		FB - Sunfleet Juni		2099,50		
-A13	2018-08-11	2018-08-27	2918	Skulder medlemmar	10		MU - Frukt och Kaffe Utbildning			683,31	
-A13	2018-08-11	2018-08-27	4520	Kostnader Fï¿½reningsutbildningar	10		MU - Frukt och Kaffe Utbildning		683,31		
-A14	2018-08-11	2018-08-25	1920	Bankkonto StyrIT	10		Serveringstillstï¿½nd MRCITK			600,00	
-A14	2018-08-11	2018-08-25	4213	Kostnader Serveringstillstï¿½nd	10		Serveringstillstï¿½nd MRCITK		600,00		
-A15	2018-08-12	2018-08-27	2918	Skulder medlemmar	10		MU - Pizza utbildning			2370,00	
-A15	2018-08-12	2018-08-27	4520	Kostnader Fï¿½reningsutbildningar	10		MU - Pizza utbildning		2370,00		
-A16	2018-08-15	2018-08-27	1920	Bankkonto StyrIT	10		MB - Pizza EDMS			2370,00	
-A16	2018-08-15	2018-08-27	2918	Skulder medlemmar	10		MB - Pizza EDMS		2370,00		
-A17	2018-08-15	2018-08-25	1920	Bankkonto StyrIT	10		MB - Frukt och kaffe utbildning			683,31	
-A17	2018-08-15	2018-08-25	2918	Skulder medlemmar	10		MB - Frukt och kaffe utbildning		683,31		
-A18	2018-08-16	2018-08-27	2918	Skulder medlemmar	10		MU - Matbidrag 4h DPO			47,48	
-A18	2018-08-16	2018-08-27	4272	Matbidrag DPO	10		MU - Matbidrag 4h DPO		47,48		
-A19	2018-08-20	2018-08-27	1920	Bankkonto StyrIT	10		MB - Matbidrag DPO 4h			47,48	
-A19	2018-08-20	2018-08-27	2918	Skulder medlemmar	10		MB - Matbidrag DPO 4h		47,48		
-A20	2018-08-20	2018-08-25	1930	Bankkonto Swish	10		Inkommen swish IT-Hoodie		320,00		
-A20	2018-08-20	2018-08-25	2919	Skulder Swish	10		Inkommen swish IT-Hoodie			1,50	
-A20	2018-08-20	2018-08-25	3011	Fï¿½rsï¿½ljning sektionsprofilering	10		Inkommen swish IT-Hoodie			320,00	
-A20	2018-08-20	2018-08-25	4313	Kostnader Swish	10		Inkommen swish IT-Hoodie		1,50		
-A21	2018-08-20	2018-08-25	2918	Skulder medlemmar	10		MU - DPO matbidrag 4h			40,00	
-A21	2018-08-20	2018-08-25	4272	Matbidrag DPO	10		MU - DPO matbidrag 4h		40,00		
-A22	2018-08-21	2018-08-27	2918	Skulder medlemmar	10		MU - Matbidrag Walder 8h jobb			80,00	
-A22	2018-08-21	2018-08-27	4273	Matbidrag sektionsarbete	10		MU - Matbidrag Walder 8h jobb		80,00		
-A23	2018-08-22	2018-08-27	1930	Bankkonto Swish	10		Inkommen swish Mottagningsavgifter		24300,00		
-A23	2018-08-22	2018-08-27	2912	Skulder NollKIT	10		Inkommen swish Mottagningsavgifter			24178,50	
-A23	2018-08-22	2018-08-27	2919	Skulder Swish	10		Inkommen swish Mottagningsavgifter			121,50	
-A24	2018-08-23	2018-08-31	2912	Skulder NollKIT	10		Inkommen swish			4719,50	
-A24	2018-08-23	2018-08-31	2919	Skulder Swish	10		Inkommen swish			85,50	
-A24	2018-08-23	2018-08-31	1930	Bankkonto Swish	10		Inkommen swish		4805,00		
-A25	2018-08-24	2018-11-06	1930	Bankkonto Swish	10		Inkommen swish dag 3 mottagning		5220,00		
-A25	2018-08-24	2018-11-06	2919	Skulder Swish	10		Inkommen swish dag 3 mottagning			174,00	
-A25	2018-08-24	2018-11-06	2912	Skulder NollKIT	10		Inkommen swish dag 3 mottagning			5046,00	
-A26	2018-08-24	2018-08-27	2440	Leverantï¿½rsskulder	10		FM - StyrIT 18/19 Hoodies			5170,00	
-A26	2018-08-24	2018-08-27	5920	Profilklï¿½der och material	10		FM - StyrIT 18/19 Hoodies		4000,00		
-A26	2018-08-24	2018-08-27	1618	Fordringar Medlemmar	10		FM - StyrIT 18/19 Hoodies		1170,00		
-A28	2018-08-24	2018-08-27	1920	Bankkonto StyrIT	10		FB - StyrIT 18/19 hoodies			5170,00	
-A28	2018-08-24	2018-08-27	2440	Leverantï¿½rsskulder	10		FB - StyrIT 18/19 hoodies		5170,00		
-A29	2018-08-27	2018-08-27	1930	Bankkonto Swish	10		Inkommen swish Laserdome/Bastu/Beerpong/FestU		8610,00		
-A29	2018-08-27	2018-08-27	2912	Skulder NollKIT	10		Inkommen swish Laserdome/Bastu/Beerpong/FestU			8422,50	
-A29	2018-08-27	2018-08-27	2919	Skulder Swish	10		Inkommen swish Laserdome/Bastu/Beerpong/FestU			187,50	
-A30	2018-08-27	2018-09-05	2918	Skulder medlemmar	10		MU - Mat revisorer			90,00	
-A30	2018-08-27	2018-09-05	4260	Revisorer Matbidrag	10		MU - Mat revisorer		90,00		
-A31	2018-08-28	2018-09-05	1920	Bankkonto StyrIT	10		iZettle inkomst Phaddersittningar		1331,72		
-A31	2018-08-28	2018-09-05	2912	Skulder NollKIT	10		iZettle inkomst Phaddersittningar			1331,72	
-A32	2018-08-28	2018-09-05	1930	Bankkonto Swish	10		Swish spï¿½rvagnsfest + 1 festu		1400,00		
-A32	2018-08-28	2018-09-05	2919	Skulder Swish	10		Swish spï¿½rvagnsfest + 1 festu			30,00	
-A32	2018-08-28	2018-09-05	2912	Skulder NollKIT	10		Swish spï¿½rvagnsfest + 1 festu			1370,00	
-A33	2018-08-28	2018-09-05	2918	Skulder medlemmar	10		MU - Visitkort SAMO			365,00	
-A33	2018-08-28	2018-09-05	6990	ï¿½vriga kostnader	10		MU - Visitkort SAMO		365,00		
-A34	2018-08-29	2018-09-05	2918	Skulder medlemmar	10		MU - Matbidrag revisorer 8h x2			174,00	
-A34	2018-08-29	2018-09-05	4260	Revisorer Matbidrag	10		MU - Matbidrag revisorer 8h x2		174,00		
-A35	2018-08-29	2018-09-05	2918	Skulder medlemmar	10		MU - Mat revisorer 8h x 1			87,00	
-A35	2018-08-29	2018-09-05	4260	Revisorer Matbidrag	10		MU - Mat revisorer 8h x 1		87,00		
-A36	2018-08-29	2018-11-06	2919	Skulder Swish	10		Inkommen swish Vï¿½fflor och Spï¿½kfortet			327,00	
-A36	2018-08-29	2018-11-06	2912	Skulder NollKIT	10		Inkommen swish Vï¿½fflor och Spï¿½kfortet			847,50	
-A36	2018-08-29	2018-11-06	2910	Skulder PRIT	10		Inkommen swish Vï¿½fflor och Spï¿½kfortet			2846,85	
-A36	2018-08-29	2018-11-06	1930	Bankkonto Swish	10		Inkommen swish Vï¿½fflor och Spï¿½kfortet		4021,35		
-A37	2018-08-30	2018-09-05	2918	Skulder medlemmar	10		MB - Matbidrag Walder 8h jobb		80,00		
-A37	2018-08-30	2018-09-05	1920	Bankkonto StyrIT	10		MB - Matbidrag Walder 8h jobb			80,00	
-A38	2018-08-30	2018-11-06	2918	Skulder medlemmar	10		MB - Matbidrag revisorer 8h x 1		87,00		
-A38	2018-08-30	2018-11-06	1920	Bankkonto StyrIT	10		MB - Matbidrag revisorer 8h x 1			87,00	
-A39	2018-08-30	2018-09-05	1920	Bankkonto StyrIT	10		MB - Matbidrag revisorer 8h x 2			174,00	
-A39	2018-08-30	2018-09-05	2918	Skulder medlemmar	10		MB - Matbidrag revisorer 8h x 2		174,00		
-A40	2018-08-30	2018-09-05	1920	Bankkonto StyrIT	10		MU - Matbidrag revisorer 4h x2			90,00	
-A40	2018-08-30	2018-09-05	2918	Skulder medlemmar	10		MU - Matbidrag revisorer 4h x2		90,00		
-A41	2018-08-30	2018-09-05	1930	Bankkonto Swish	10		Inkommen swish Spï¿½kfortet och Armitlunchen		1605,00		
-A41	2018-08-30	2018-09-05	2912	Skulder NollKIT	10		Inkommen swish Spï¿½kfortet och Armitlunchen			193,00	
-A41	2018-08-30	2018-09-05	2914	Skulder armIT	10		Inkommen swish Spï¿½kfortet och Armitlunchen			1295,00	
-A41	2018-08-30	2018-09-05	2919	Skulder Swish	10		Inkommen swish Spï¿½kfortet och Armitlunchen			117,00	
-A42	2018-08-30	2018-09-05	4510	Kostnader Intern Representation	10		MU - Styrit teambuilding		202,50		
-A42	2018-08-30	2018-09-05	2918	Skulder medlemmar	10		MU - Styrit teambuilding			202,50	
-A43	2018-08-30	2018-09-05	2918	Skulder medlemmar	10		MU - Teambuilding styrit krï¿½ftor			517,50	
-A43	2018-08-30	2018-09-05	4510	Kostnader Intern Representation	10		MU - Teambuilding styrit krï¿½ftor		517,50		
-A44	2018-08-31	2018-09-05	1920	Bankkonto StyrIT	10		MB - Teambuilding styrit 			202,50	
-A44	2018-08-31	2018-09-05	2918	Skulder medlemmar	10		MB - Teambuilding styrit 		202,50		
-A45	2018-08-31	2018-09-05	1920	Bankkonto StyrIT	10		MB - Teambuilding styrit krï¿½ftor			517,50	
-A45	2018-08-31	2018-09-05	2918	Skulder medlemmar	10		MB - Teambuilding styrit krï¿½ftor		517,50		
-A46	2018-08-31	2018-09-05	2918	Skulder medlemmar	10		MB - Visitkort SAMO		365,00		
-A46	2018-08-31	2018-09-05	1920	Bankkonto StyrIT	10		MB - Visitkort SAMO			365,00	
-A47	2018-08-31	2018-09-05	1920	Bankkonto StyrIT	10		Fï¿½rsï¿½kring hubben 			3109,00	
-A47	2018-08-31	2018-09-05	6571	Fï¿½rsï¿½kringar	10		Fï¿½rsï¿½kring hubben 		3109,00		
-A48	2018-08-31	2018-10-17	1920	Bankkonto StyrIT	10		Inbetalning frï¿½n Kï¿½rledningen		66375,00		
-A48	2018-08-31	2018-10-17	1790	ï¿½vriga fï¿½rutbetalda kostnader och upplupna intï¿½kter	10		Inbetalning frï¿½n Kï¿½rledningen			66375,00	
-A49	2018-08-31	2018-09-05	2440	Leverantï¿½rsskulder	10		FM - Sunfleet Augusti			2794,00	
-A49	2018-08-31	2018-09-05	5610	Kostnader bil	10		FM - Sunfleet Augusti	Mï¿½nadskostnad Sunfleet	625,00		
-A49	2018-08-31	2018-09-05	1610	Fordringar PRIT	10		FM - Sunfleet Augusti		218,00		
-A49	2018-08-31	2018-09-05	1612	Fordringar NollKIT	10		FM - Sunfleet Augusti		1653,00		
-A49	2018-08-31	2018-09-05	1611	Fordringar sexIT	10		FM - Sunfleet Augusti		298,00		
-A50	2018-08-31	2018-09-05	2918	Skulder medlemmar	10		MU - Mat revisorer 4h x1			45,00	
-A50	2018-08-31	2018-09-05	4260	Revisorer Matbidrag	10		MU - Mat revisorer 4h x1		45,00		
-A51	2018-08-31	2018-09-05	2918	Skulder medlemmar	10		MU - Mat revisorer 4h x1			43,80	
-A51	2018-08-31	2018-09-05	4260	Revisorer Matbidrag	10		MU - Mat revisorer 4h x1		43,80		
-A52	2018-09-03	2018-09-05	1930	Bankkonto Swish	10		Inkommen swish tï¿½gvagnssittningen		1690,00		
-A52	2018-09-03	2018-09-05	2919	Skulder Swish	10		Inkommen swish tï¿½gvagnssittningen			61,50	
-A52	2018-09-03	2018-09-05	2912	Skulder NollKIT	10		Inkommen swish tï¿½gvagnssittningen			1628,50	
-A53	2018-09-04	2018-09-05	1930	Bankkonto Swish	10		Inkommande swish Sexit-sittning + 1 mottagningsavgift		2120,00		
-A53	2018-09-04	2018-09-05	2912	Skulder NollKIT	10		Inkommande swish Sexit-sittning + 1 mottagningsavgift			2067,50	
-A53	2018-09-04	2018-09-05	2919	Skulder Swish	10		Inkommande swish Sexit-sittning + 1 mottagningsavgift			52,50	
-A54	2018-09-04	2018-09-05	1920	Bankkonto StyrIT	10		 Inkomst iZettle spï¿½rvagnsfesten		2413,25		
-A54	2018-09-04	2018-09-05	2912	Skulder NollKIT	10		 Inkomst iZettle spï¿½rvagnsfesten			2413,25	
-A55	2018-09-05	2018-09-05	1920	Bankkonto StyrIT	10		FB - Sunfleet Augusti			2794,00	
-A55	2018-09-05	2018-09-05	2440	Leverantï¿½rsskulder	10		FB - Sunfleet Augusti		2794,00		
-A56	2018-09-05	2018-09-05	2918	Skulder medlemmar	10		MB - Matbidrag revisorer 4h x1		43,80		
-A56	2018-09-05	2018-09-05	1920	Bankkonto StyrIT	10		MB - Matbidrag revisorer 4h x1			43,80	
-A57	2018-09-05	2018-09-05	1920	Bankkonto StyrIT	10		MB - Matbidrag revisorer 4h x1 			45,00	
-A57	2018-09-05	2018-09-05	2918	Skulder medlemmar	10		MB - Matbidrag revisorer 4h x1 		45,00		
-A58	2018-09-05	2018-09-26	1930	Bankkonto Swish	10		Inkommande swish Lunch/Hoodie/Sittning		2255,00		
-A58	2018-09-05	2018-09-26	2919	Skulder Swish	10		Inkommande swish Lunch/Hoodie/Sittning			112,50	
-A58	2018-09-05	2018-09-26	2915	Skulder digIT	10		Inkommande swish Lunch/Hoodie/Sittning			1278,00	
-A58	2018-09-05	2018-09-26	2912	Skulder NollKIT	10		Inkommande swish Lunch/Hoodie/Sittning			546,00	
-A58	2018-09-05	2018-09-26	2917	Skulder StyrIT	10		Inkommande swish Lunch/Hoodie/Sittning			318,50	
-A59	2018-09-06	2018-09-26	1930	Bankkonto Swish	10		Inkommande swish Vï¿½fflor och Wildkidz		5220,00		
-A59	2018-09-06	2018-09-26	2919	Skulder Swish	10		Inkommande swish Vï¿½fflor och Wildkidz			312,00	
-A59	2018-09-06	2018-09-26	2910	Skulder PRIT	10		Inkommande swish Vï¿½fflor och Wildkidz			1462,50	
-A59	2018-09-06	2018-09-26	2912	Skulder NollKIT	10		Inkommande swish Vï¿½fflor och Wildkidz			3445,50	
-A60	2018-09-07	2019-07-04	2912	Skulder NollKIT	10		Inkommande swish 7 september			250,50	
-A60	2018-09-07	2019-07-04	2917	Skulder StyrIT	10		Inkommande swish 7 september			318,50	
-A60	2018-09-07	2019-07-04	2910	Skulder PRIT	10		Inkommande swish 7 september			1629,00	
-A60	2018-09-07	2019-07-04	1930	Bankkonto Swish	10		Inkommande swish 7 september		2600,00		
-A60	2018-09-07	2019-07-04	2919	Skulder Swish	10		Inkommande swish 7 september			162,00	
-A60	2018-09-07	2019-07-04	3999	ï¿½vriga intï¿½kter	10		Inkommande swish 7 september			240,00	
-A61	2018-09-10	2018-09-26	1930	Bankkonto Swish	10		Inkommande swish 10 september		10050,00		
-A61	2018-09-10	2018-09-26	2919	Skulder Swish	10		Inkommande swish 10 september			195,00	
-A61	2018-09-10	2018-09-26	2912	Skulder NollKIT	10		Inkommande swish 10 september			9855,00	
-A62	2018-09-11	2018-09-26	1930	Bankkonto Swish	10		Inkommande swish 11 september		1595,00		
-A62	2018-09-11	2018-09-26	2919	Skulder Swish	10		Inkommande swish 11 september			21,00	
-A62	2018-09-11	2018-09-26	2912	Skulder NollKIT	10		Inkommande swish 11 september			1574,00	
-A63	2018-09-11	2018-09-26	4330	Kostnader Sektionsmï¿½ten	10		Inkï¿½p SF-presentkort Sektionsmï¿½te 0		150,00		
-A63	2018-09-11	2018-09-26	1920	Bankkonto StyrIT	10		Inkï¿½p SF-presentkort Sektionsmï¿½te 0			150,00	
-A64	2018-09-11	2019-03-11	1920	Bankkonto StyrIT	10		Insï¿½ttning izettle pubrundan		21373,45		
-A64	2018-09-11	2019-03-11	2910	Skulder PRIT	10		Insï¿½ttning izettle pubrundan			17246,37	
-A64	2018-09-11	2019-03-11	2916	Skulder MRCIT	10		Insï¿½ttning izettle pubrundan			4127,08	
-A65	2018-09-11	2018-09-26	2918	Skulder medlemmar	10		MU - Mat revisorer 4h			45,00	
-A65	2018-09-11	2018-09-26	4260	Revisorer Matbidrag	10		MU - Mat revisorer 4h		45,00		
-A66	2018-09-12	2018-09-26	4331	Kostnader Sektionsmï¿½tesmat	10		Inkï¿½p mat Sektionsmï¿½te 0		3095,00		
-A66	2018-09-12	2018-09-26	1920	Bankkonto StyrIT	10		Inkï¿½p mat Sektionsmï¿½te 0			3095,00	
-A67	2018-09-13	2018-09-26	1930	Bankkonto Swish	10		Inkommande swish 13 september		1075,00		
-A67	2018-09-13	2018-09-26	2919	Skulder Swish	10		Inkommande swish 13 september			90,00	
-A67	2018-09-13	2018-09-26	2910	Skulder PRIT	10		Inkommande swish 13 september			726,00	
-A67	2018-09-13	2018-09-26	2912	Skulder NollKIT	10		Inkommande swish 13 september			259,00	
-A68	2018-09-13	2018-09-26	1920	Bankkonto StyrIT	10		Inkï¿½p glass motion sektionsmï¿½te			295,70	
-A68	2018-09-13	2018-09-26	4210	Kostnader arrangemang	10		Inkï¿½p glass motion sektionsmï¿½te		295,70		
-A69	2018-09-14	2018-09-26	1930	Bankkonto Swish	10		Inkommande swish sen oscargala		35,00		
-A69	2018-09-14	2018-09-26	2919	Skulder Swish	10		Inkommande swish sen oscargala			1,50	
-A69	2018-09-14	2018-09-26	2912	Skulder NollKIT	10		Inkommande swish sen oscargala			33,50	
-A70	2018-09-18	2018-09-26	1920	Bankkonto StyrIT	10		Inkï¿½p ordfï¿½randemï¿½te fika			132,97	
-A70	2018-09-18	2018-09-26	4522	Kostnader Kassï¿½rskvï¿½ll och Ordfï¿½randemï¿½ten	10		Inkï¿½p ordfï¿½randemï¿½te fika		132,97		
-A71	2018-09-18	2018-09-26	1920	Bankkonto StyrIT	10		Inkomst iZettle MRCIT sittning		2176,80		
-A71	2018-09-18	2018-09-26	2916	Skulder MRCIT	10		Inkomst iZettle MRCIT sittning			2176,80	
-A72	2018-09-20	2018-09-26	1920	Bankkonto StyrIT	10		MB - DPO mat 4h sen			40,00	
-A72	2018-09-20	2018-09-26	2918	Skulder medlemmar	10		MB - DPO mat 4h sen		40,00		
-A73	2018-09-20	2018-09-26	1920	Bankkonto StyrIT	10		MB - Revisor 4h jobb			45,00	
-A73	2018-09-20	2018-09-26	2918	Skulder medlemmar	10		MB - Revisor 4h jobb		45,00		
-A74	2018-09-20	2018-09-26	1930	Bankkonto Swish	10		Swishavgift avdragen			1075,50	
-A74	2018-09-20	2018-09-26	2919	Skulder Swish	10		Swishavgift avdragen		1075,50		
-A75	2018-09-21	2018-09-26	1920	Bankkonto StyrIT	10		Inkï¿½p kassï¿½rkvï¿½ll mat			331,13	
-A75	2018-09-21	2018-09-26	4522	Kostnader Kassï¿½rskvï¿½ll och Ordfï¿½randemï¿½ten	10		Inkï¿½p kassï¿½rkvï¿½ll mat		331,13		
-A76	2018-09-21	2018-09-26	1920	Bankkonto StyrIT	10		Betalning prit tivoli			2846,85	
-A76	2018-09-21	2018-09-26	2910	Skulder PRIT	10		Betalning prit tivoli		2846,85		
-A77	2018-09-21	2018-09-26	1920	Bankkonto StyrIT	10		Betalning PRIT pubrundan Izettle			17246,37	
-A77	2018-09-21	2018-09-26	2910	Skulder PRIT	10		Betalning PRIT pubrundan Izettle		17246,37		
-A78	2018-09-21	2018-09-26	1920	Bankkonto StyrIT	10		Sunfleet Juni inbetalning PRIT		1474,50		
-A78	2018-09-21	2018-09-26	1610	Fordringar PRIT	10		Sunfleet Juni inbetalning PRIT			1474,50	
-A79	2018-09-21	2018-09-26	1920	Bankkonto StyrIT	10		Betalning swish mottagningskampen			726,00	
-A79	2018-09-21	2018-09-26	2910	Skulder PRIT	10		Betalning swish mottagningskampen		726,00		
-A80	2018-09-26	2018-10-17	1930	Bankkonto Swish	10		ï¿½verfï¿½ring Swish Pubrundan			5295,00	
-A80	2018-09-26	2018-10-17	2910	Skulder PRIT	10		ï¿½verfï¿½ring Swish Pubrundan		5295,00		
-A81	2018-09-26	2018-10-17	1920	Bankkonto StyrIT	10		ï¿½verfï¿½ring Swishkonto styritkonto		726,00		
-A81	2018-09-26	2018-10-17	1930	Bankkonto Swish	10		ï¿½verfï¿½ring Swishkonto styritkonto			726,00	
-A82	2018-09-26	2018-10-17	1920	Bankkonto StyrIT	10		ï¿½verfï¿½ring swish till styritkonto		2846,85		
-A82	2018-09-26	2018-10-17	1930	Bankkonto Swish	10		ï¿½verfï¿½ring swish till styritkonto			2846,85	
-A83	2018-09-27	2018-10-17	2440	Leverantï¿½rsskulder	10		FM - Grant thornton tjï¿½nst			2023,00	
-A83	2018-09-27	2018-10-17	6572	Kostnader Bokfï¿½ringsprogram	10		FM - Grant thornton tjï¿½nst		2023,00		
-A84	2018-09-27	2018-10-17	2440	Leverantï¿½rsskulder	10		FM - Drawit Revisorer mat			60,00	
-A84	2018-09-27	2018-10-17	4260	Revisorer Matbidrag	10		FM - Drawit Revisorer mat		60,00		
-A85	2018-09-30	2018-10-17	2440	Leverantï¿½rsskulder	10		FM - Sunfleet September			4352,00	
-A85	2018-09-30	2018-10-17	5610	Kostnader bil	10		FM - Sunfleet September		625,00		
-A85	2018-09-30	2018-10-17	1612	Fordringar NollKIT	10		FM - Sunfleet September		2817,00		
-A85	2018-09-30	2018-10-17	1610	Fordringar PRIT	10		FM - Sunfleet September		910,00		
-A86	2018-10-01	2018-10-17	2918	Skulder medlemmar	10		MU - Aspning DPO 1			432,00	
-A86	2018-10-01	2018-10-17	4310	ï¿½skningar	10		MU - Aspning DPO 1		432,00		
-A87	2018-10-01	2018-10-17	2918	Skulder medlemmar	10		MU - Mat revisorer			90,00	
-A87	2018-10-01	2018-10-17	4260	Revisorer Matbidrag	10		MU - Mat revisorer		90,00		
-A88	2018-10-01	2018-10-17	1930	Bankkonto Swish	10		Inkommen swish finohm		3180,00		
-A88	2018-10-01	2018-10-17	2919	Skulder Swish	10		Inkommen swish finohm			30,00	
-A88	2018-10-01	2018-10-17	2911	Skulder sexIT	10		Inkommen swish finohm			3150,00	
-A89	2018-10-02	2018-10-17	1930	Bankkonto Swish	10		Swish sexit finohm		1280,00		
-A89	2018-10-02	2018-10-17	2919	Skulder Swish	10		Swish sexit finohm			12,00	
-A89	2018-10-02	2018-10-17	2911	Skulder sexIT	10		Swish sexit finohm			1268,00	
-A90	2018-10-03	2018-10-17	2918	Skulder medlemmar	10		MU - Mat revisorer			60,00	
-A90	2018-10-03	2018-10-17	4260	Revisorer Matbidrag	10		MU - Mat revisorer		60,00		
-A91	2018-10-03	2018-10-17	2918	Skulder medlemmar	10		MU - Kanelbull ï¿½skning			86,70	
-A91	2018-10-03	2018-10-17	4310	ï¿½skningar	10		MU - Kanelbull ï¿½skning		86,70		
-A92	2018-10-03	2018-10-17	1930	Bankkonto Swish	10		Swish finohm sexit		960,00		
-A92	2018-10-03	2018-10-17	2919	Skulder Swish	10		Swish finohm sexit			9,00	
-A92	2018-10-03	2018-10-17	2911	Skulder sexIT	10		Swish finohm sexit			951,00	
-A93	2018-10-03	2018-10-17	2918	Skulder medlemmar	10		MU - ï¿½skning kanelbullsdagen			10,00	
-A93	2018-10-03	2018-10-17	4310	ï¿½skningar	10		MU - ï¿½skning kanelbullsdagen		10,00		
-A94	2018-10-04	2018-10-17	2918	Skulder medlemmar	10		MU - DPO aspning 			481,34	
-A94	2018-10-04	2018-10-17	4310	ï¿½skningar	10		MU - DPO aspning 		481,34		
-A95	2018-10-04	2018-10-17	1930	Bankkonto Swish	10		Swish finohm sexit		460,00		
-A95	2018-10-04	2018-10-17	2919	Skulder Swish	10		Swish finohm sexit			4,50	
-A95	2018-10-04	2018-10-17	2911	Skulder sexIT	10		Swish finohm sexit			455,50	
-A96	2018-10-05	2018-10-17	2440	Leverantï¿½rsskulder	10		FB - Sunfleet september		4352,00		
-A96	2018-10-05	2018-10-17	1920	Bankkonto StyrIT	10		FB - Sunfleet september			4352,00	
-A97	2018-10-05	2018-10-17	2440	Leverantï¿½rsskulder	10		FB - Grant Thornton tjï¿½nst		2023,00		
-A97	2018-10-05	2018-10-17	1920	Bankkonto StyrIT	10		FB - Grant Thornton tjï¿½nst			2023,00	
-A98	2018-10-05	2018-10-17	2440	Leverantï¿½rsskulder	10		FB - Drawit Mat revisorer		60,00		
-A98	2018-10-05	2018-10-17	1920	Bankkonto StyrIT	10		FB - Drawit Mat revisorer			60,00	
-A99	2018-10-05	2018-10-17	2918	Skulder medlemmar	10		MB - Mat dpo aspning		432,00		
-A99	2018-10-05	2018-10-17	1920	Bankkonto StyrIT	10		MB - Mat dpo aspning			432,00	
-A100	2018-10-05	2018-10-17	1920	Bankkonto StyrIT	10		MB - DPO aspning			481,34	
-A100	2018-10-05	2018-10-17	2918	Skulder medlemmar	10		MB - DPO aspning		481,34		
-A101	2018-10-05	2018-10-17	1920	Bankkonto StyrIT	10		MB - MAt revisorer			60,00	
-A101	2018-10-05	2018-10-17	2918	Skulder medlemmar	10		MB - MAt revisorer		60,00		
-A102	2018-10-05	2018-10-17	1920	Bankkonto StyrIT	10		MB - ï¿½sjkning kanelbull			86,70	
-A102	2018-10-05	2018-10-17	2918	Skulder medlemmar	10		MB - ï¿½sjkning kanelbull		86,70		
-A103	2018-10-05	2018-10-17	1920	Bankkonto StyrIT	10		MB - Revisorer mat 4hx2			90,00	
-A103	2018-10-05	2018-10-17	2918	Skulder medlemmar	10		MB - Revisorer mat 4hx2		90,00		
-A104	2018-10-05	2018-10-17	1920	Bankkonto StyrIT	10		Betala Izeettle Mottagning			3744,97	
-A104	2018-10-05	2018-10-17	2912	Skulder NollKIT	10		Betala Izeettle Mottagning		3744,97		
-A105	2018-09-26	2018-10-17	1920	Bankkonto StyrIT	10		Nollanlunch digit 			1328,83	
-A105	2018-09-26	2018-10-17	2915	Skulder digIT	10		Nollanlunch digit 		1278,00		
-A105	2018-09-26	2018-10-17	4210	Kostnader arrangemang	10		Nollanlunch digit 		50,83		
-A106	2018-10-05	2018-10-17	1930	Bankkonto Swish	10		Swish finohm sexit		480,00		
-A106	2018-10-05	2018-10-17	2919	Skulder Swish	10		Swish finohm sexit			4,50	
-A106	2018-10-05	2018-10-17	2911	Skulder sexIT	10		Swish finohm sexit			475,50	
-A107	2018-10-07	2018-10-17	2918	Skulder medlemmar	10		MU - Planeringsdag Styrit 8hx3			270,00	
-A107	2018-10-07	2018-10-17	4273	Matbidrag sektionsarbete	10		MU - Planeringsdag Styrit 8hx3		270,00		
-A108	2018-10-07	2018-10-17	2918	Skulder medlemmar	10		MU - Planeringsdag styrit 8h x2			170,00	
-A108	2018-10-07	2018-10-17	4273	Matbidrag sektionsarbete	10		MU - Planeringsdag styrit 8h x2		170,00		
-A109	2018-10-07	2018-10-17	2918	Skulder medlemmar	10		MU - Styrit planeringsdag 8h x3			267,80	
-A109	2018-10-07	2018-10-17	4273	Matbidrag sektionsarbete	10		MU - Styrit planeringsdag 8h x3		267,80		
-A110	2018-10-07	2018-10-17	2918	Skulder medlemmar	10		MU - Frukt planeringsdag			65,74	
-A110	2018-10-07	2018-10-17	4910	ï¿½vriga Kostnader StyrIT	10		MU - Frukt planeringsdag		65,74		
-A111	2018-10-08	2018-10-17	1510	Kundfordringar	10		FI - Emerson kandidatmiddag			32400,00	
-A111	2018-10-08	2018-10-17	1920	Bankkonto StyrIT	10		FI - Emerson kandidatmiddag		32400,00		
-A112	2018-10-08	2018-10-17	1930	Bankkonto Swish	10		Swish oktobersittning finohm sexit		2740,00		
-A112	2018-10-08	2018-10-17	2919	Skulder Swish	10		Swish oktobersittning finohm sexit			43,50	
-A112	2018-10-08	2018-10-17	2911	Skulder sexIT	10		Swish oktobersittning finohm sexit			671,00	
-A112	2018-10-08	2018-10-17	2910	Skulder PRIT	10		Swish oktobersittning finohm sexit			2025,50	
-A113	2018-10-08	2018-10-17	2918	Skulder medlemmar	10		MU - Sektionsmï¿½tesfika			302,96	
-A113	2018-10-08	2018-10-17	4331	Kostnader Sektionsmï¿½tesmat	10		MU - Sektionsmï¿½tesfika		302,96		
-A114	2018-10-09	2018-10-17	1920	Bankkonto StyrIT	10		Kï¿½p av presentkort sektionsmï¿½te LP1			150,00	
-A114	2018-10-09	2018-10-17	4330	Kostnader Sektionsmï¿½ten	10		Kï¿½p av presentkort sektionsmï¿½te LP1		150,00		
-A115	2018-10-09	2018-10-17	1930	Bankkonto Swish	10		Swish oktobersittning		1240,00		
-A115	2018-10-09	2018-10-17	2919	Skulder Swish	10		Swish oktobersittning			21,00	
-A115	2018-10-09	2018-10-17	2910	Skulder PRIT	10		Swish oktobersittning			1219,00	
-A116	2018-10-10	2018-10-17	1920	Bankkonto StyrIT	10		Xamera betalat spons		2000,00		
-A116	2018-10-10	2018-10-17	2912	Skulder NollKIT	10		Xamera betalat spons			2000,00	
-A117	2018-10-10	2018-10-17	1930	Bankkonto Swish	10		Swish Oktobersittning		360,00		
-A117	2018-10-10	2018-10-17	2919	Skulder Swish	10		Swish Oktobersittning			6,00	
-A117	2018-10-10	2018-10-17	2910	Skulder PRIT	10		Swish Oktobersittning			354,00	
-A118	2018-10-11	2018-10-17	1930	Bankkonto Swish	10		Swish oktobersittning		90,00		
-A118	2018-10-11	2018-10-17	2919	Skulder Swish	10		Swish oktobersittning			1,50	
-A118	2018-10-11	2018-10-17	2910	Skulder PRIT	10		Swish oktobersittning			88,50	
-A119	2018-10-11	2018-10-17	2918	Skulder medlemmar	10		MU - Sektionsmï¿½tesmatsallader 			90,00	
-A119	2018-10-11	2018-10-17	4331	Kostnader Sektionsmï¿½tesmat	10		MU - Sektionsmï¿½tesmatsallader 		90,00		
-A120	2018-10-12	2019-03-11	1920	Bankkonto StyrIT	10		ï¿½verfï¿½ring Fritid budget			28530,00	
-A120	2018-10-12	2019-03-11	1924	Bankkonto FrITid	60		ï¿½verfï¿½ring Fritid budget		28530,00		
-A121	2018-10-12	2019-03-11	1929	Bankkonto Fanbï¿½rerIT	100		ï¿½verfï¿½ring Fanbï¿½rerit budget		14590,00		
-A121	2018-10-12	2019-03-11	1920	Bankkonto StyrIT	10		ï¿½verfï¿½ring Fanbï¿½rerit budget			14590,00	
-A122	2018-10-12	2018-10-17	1920	Bankkonto StyrIT	10		Inkï¿½p fï¿½r sektionsmï¿½te			88,60	
-A122	2018-10-12	2018-10-17	4330	Kostnader Sektionsmï¿½ten	10		Inkï¿½p fï¿½r sektionsmï¿½te		88,60		
-A123	2018-10-12	2018-10-17	1920	Bankkonto StyrIT	10		Inkï¿½p sektionsmï¿½te LP1			134,80	
-A123	2018-10-12	2018-10-17	4330	Kostnader Sektionsmï¿½ten	10		Inkï¿½p sektionsmï¿½te LP1		134,80		
-A124	2018-10-12	2018-10-17	1920	Bankkonto StyrIT	10		Gasquepengar sexit		54798,75		
-A124	2018-10-12	2018-10-17	2911	Skulder sexIT	10		Gasquepengar sexit			54798,75	
-A125	2018-10-12	2018-10-17	1930	Bankkonto Swish	10		swish oktobersittning		360,00		
-A125	2018-10-12	2018-10-17	2919	Skulder Swish	10		swish oktobersittning			6,00	
-A125	2018-10-12	2018-10-17	2910	Skulder PRIT	10		swish oktobersittning			354,00	
-A127	2018-10-15	2018-11-18	1930	Bankkonto Swish	10		Oktober sittning swish		80,00		
-A127	2018-10-15	2018-11-18	2919	Skulder Swish	10		Oktober sittning swish			1,50	
-A127	2018-10-15	2018-11-18	2910	Skulder PRIT	10		Oktober sittning swish			78,50	
-A128	2018-10-15	2018-10-17	1930	Bankkonto Swish	10		Felaktig betalning swish			10,00	
-A128	2018-10-15	2018-10-17	2918	Skulder medlemmar	10		Felaktig betalning swish		10,00		
-A129	2018-10-15	2018-10-17	1920	Bankkonto StyrIT	10		MB - Sektionsmï¿½tesfika			302,96	
-A129	2018-10-15	2018-10-17	2918	Skulder medlemmar	10		MB - Sektionsmï¿½tesfika		302,96		
-A130	2018-10-15	2018-10-17	1920	Bankkonto StyrIT	10		MB - Sektionsmï¿½tessmat sallader			90,00	
-A130	2018-10-15	2018-10-17	2918	Skulder medlemmar	10		MB - Sektionsmï¿½tessmat sallader		90,00		
-A131	2018-10-15	2018-10-17	1920	Bankkonto StyrIT	10		MB - Planeringsdag styrit 8h			170,00	
-A131	2018-10-15	2018-10-17	2918	Skulder medlemmar	10		MB - Planeringsdag styrit 8h		170,00		
-A132	2018-10-15	2018-10-17	1920	Bankkonto StyrIT	10		MB - ï¿½skning kanelbullsdagen			10,00	
-A132	2018-10-15	2018-10-17	2918	Skulder medlemmar	10		MB - ï¿½skning kanelbullsdagen		10,00		
-A133	2018-10-15	2018-10-17	1920	Bankkonto StyrIT	10		MB - Planeringsdag styrit 8h			270,00	
-A133	2018-10-15	2018-10-17	2918	Skulder medlemmar	10		MB - Planeringsdag styrit 8h		270,00		
-A134	2018-10-15	2018-10-17	1920	Bankkonto StyrIT	10		Betalning av medlemsutlï¿½gg			267,80	
-A134	2018-10-15	2018-10-17	2918	Skulder medlemmar	10		Betalning av medlemsutlï¿½gg		267,80		
-A135	2018-10-15	2018-10-17	1920	Bankkonto StyrIT	10		MB - Fika styrit			65,74	
-A135	2018-10-15	2018-10-17	2918	Skulder medlemmar	10		MB - Fika styrit		65,74		
-A136	2018-09-26	2018-10-17	1930	Bankkonto Swish	10		ï¿½verfï¿½r swish mottagning nollkit			62420,00	
-A136	2018-09-26	2018-10-17	2912	Skulder NollKIT	10		ï¿½verfï¿½r swish mottagning nollkit		62420,00		
-A137	2018-10-15	2018-10-17	1930	Bankkonto Swish	10		ï¿½verfï¿½ring swish sexit finohm			6962,50	
-A137	2018-10-15	2018-10-17	2911	Skulder sexIT	10		ï¿½verfï¿½ring swish sexit finohm		6962,50		
-A138	2018-10-15	2018-10-17	1920	Bankkonto StyrIT	10		ï¿½verfï¿½ring sexit gasquepengar			54798,75	
-A138	2018-10-15	2018-10-17	2911	Skulder sexIT	10		ï¿½verfï¿½ring sexit gasquepengar		54798,75		
-A139	2018-10-16	2018-10-17	1920	Bankkonto StyrIT	10		iZettle oktobersittning inkommen		5097,17		
-A139	2018-10-16	2018-10-17	2910	Skulder PRIT	10		iZettle oktobersittning inkommen			5097,17	
-A140	2018-10-16	2018-11-19	4331	Kostnader Sektionsmï¿½tesmat	10		FM - Sektionsmï¿½tesmat		4140,00		
-A140	2018-10-16	2018-11-19	2440	Leverantï¿½rsskulder	10		FM - Sektionsmï¿½tesmat			4140,00	
-A141	2018-10-16	2018-11-19	2918	Skulder medlemmar	10		MU - Equalitkvï¿½ll Lisa Fahlbeck			62,38	
-A141	2018-10-16	2018-11-19	4310	ï¿½skningar	10		MU - Equalitkvï¿½ll Lisa Fahlbeck		62,38		
-A142	2018-10-16	2018-11-19	2918	Skulder medlemmar	10		MU - EqualIT Lisa Fahlbeck			18,90	
-A142	2018-10-16	2018-11-19	4310	ï¿½skningar	10		MU - EqualIT Lisa Fahlbeck		18,90		
-A143	2018-10-16	2018-11-19	2918	Skulder medlemmar	10		MU - EqualIT Kajsa Bjï¿½rï¿½ng			78,40	
-A143	2018-10-16	2018-11-19	4310	ï¿½skningar	10		MU - EqualIT Kajsa Bjï¿½rï¿½ng		78,40		
-A144	2018-10-16	2018-11-19	2918	Skulder medlemmar	10		MU - EqualIT Viktoria Enderstein			286,51	
-A144	2018-10-16	2018-11-19	4310	ï¿½skningar	10		MU - EqualIT Viktoria Enderstein		286,51		
-A145	2018-10-16	2018-11-19	4310	ï¿½skningar	10		MU - Equalit Alice Olsson		17,90		
-A145	2018-10-16	2018-11-19	2918	Skulder medlemmar	10		MU - Equalit Alice Olsson			17,90	
-A146	2018-10-16	2018-11-19	2918	Skulder medlemmar	10		MU - Ordfï¿½randemï¿½te			105,70	
-A146	2018-10-16	2018-11-19	4522	Kostnader Kassï¿½rskvï¿½ll och Ordfï¿½randemï¿½ten	10		MU - Ordfï¿½randemï¿½te		105,70		
-A147	2018-10-22	2018-11-19	2440	Leverantï¿½rsskulder	10		FM - Faktura Bulten EqualIT			1500,00	
-A147	2018-10-22	2018-11-19	4310	ï¿½skningar	10		FM - Faktura Bulten EqualIT		1500,00		
-A148	2018-10-25	2018-11-19	2918	Skulder medlemmar	10		MU - ï¿½verlï¿½mning ValleB			1255,00	
-A148	2018-10-25	2018-11-19	4241	Kostnader ï¿½verlï¿½mningar	10		MU - ï¿½verlï¿½mning ValleB		1255,00		
-A149	2018-10-25	2018-11-19	2918	Skulder medlemmar	10		MU - ValleB ï¿½verlï¿½mning			276,00	
-A149	2018-10-25	2018-11-19	4241	Kostnader ï¿½verlï¿½mningar	10		MU - ValleB ï¿½verlï¿½mning		276,00		
-A150	2018-10-26	2018-11-19	2912	Skulder NollKIT	10		Insï¿½ttning spons Nollkit			8000,00	
-A150	2018-10-26	2018-11-19	1920	Bankkonto StyrIT	10		Insï¿½ttning spons Nollkit		8000,00		
-A151	2018-10-26	2018-11-19	2916	Skulder MRCIT	10		Insï¿½ttning MRcit spons			5800,00	
-A151	2018-10-26	2018-11-19	1920	Bankkonto StyrIT	10		Insï¿½ttning MRcit spons		5800,00		
-A152	2018-11-07	2018-11-19	2911	Skulder sexIT	10		Insï¿½ttning sexit gasquepengar			19590,00	
-A152	2018-11-07	2018-11-19	1920	Bankkonto StyrIT	10		Insï¿½ttning sexit gasquepengar		19590,00		
-A153	2018-11-08	2019-03-11	1922	Bankkonto SexIT	20		Aspningsbidrag sexIT		3000,00		
-A153	2018-11-08	2019-03-11	1920	Bankkonto StyrIT	10		Aspningsbidrag sexIT			3000,00	
-A154	2018-11-08	2019-03-11	1920	Bankkonto StyrIT	10		Aspningsbidrag NollKIt			3000,00	
-A154	2018-11-08	2019-03-11	1923	Bankkonto NollkIT	50		Aspningsbidrag NollKIt		3000,00		
-A155	2018-11-08	2019-03-11	1920	Bankkonto StyrIT	10		Aspningsbidrag PRIT			3000,00	
-A155	2018-11-08	2019-03-11	1921	Bankkonto PRIT	40		Aspningsbidrag PRIT		3000,00		
-A156	2018-11-08	2019-03-11	1920	Bankkonto StyrIT	10		Lï¿½n Prit			20000,00	
-A156	2018-11-08	2019-03-11	1921	Bankkonto PRIT	40		Lï¿½n Prit		20000,00		
-A157	2018-10-22	2018-11-19	1930	Bankkonto Swish	10		Swishavgift avdragen			1027,50	
-A157	2018-10-22	2018-11-19	2919	Skulder Swish	10		Swishavgift avdragen		1027,50		
-A158	2018-10-31	2018-11-19	2440	Leverantï¿½rsskulder	10		FM - Sunfleet Oktober			1601,00	
-A158	2018-10-31	2018-11-19	5610	Kostnader bil	10		FM - Sunfleet Oktober	Mï¿½nadskostnader	625,00		
-A158	2018-10-31	2018-11-19	1611	Fordringar sexIT	10		FM - Sunfleet Oktober		198,00		
-A158	2018-10-31	2018-11-19	1621	Fordringar Fanbï¿½rerIT	10		FM - Sunfleet Oktober		84,00		
-A158	2018-10-31	2018-11-19	1610	Fordringar PRIT	10		FM - Sunfleet Oktober		694,00		
-A159	2018-11-08	2018-11-19	1930	Bankkonto Swish	10		Inkommen swish vï¿½fflor		3675,00		
-A159	2018-11-08	2018-11-19	2919	Skulder Swish	10		Inkommen swish vï¿½fflor			265,50	
-A159	2018-11-08	2018-11-19	2910	Skulder PRIT	10		Inkommen swish vï¿½fflor			3409,50	
-A160	2018-11-09	2018-11-19	1930	Bankkonto Swish	10		Inkommen Swish vï¿½fflor/sekreten/hallowwen		4666,00		
-A160	2018-11-09	2018-11-19	2919	Skulder Swish	10		Inkommen Swish vï¿½fflor/sekreten/hallowwen			96,00	
-A160	2018-11-09	2018-11-19	2911	Skulder sexIT	10		Inkommen Swish vï¿½fflor/sekreten/hallowwen			592,00	
-A160	2018-11-09	2018-11-19	2910	Skulder PRIT	10		Inkommen Swish vï¿½fflor/sekreten/hallowwen			1283,50	
-A160	2018-11-09	2018-11-19	2912	Skulder NollKIT	10		Inkommen Swish vï¿½fflor/sekreten/hallowwen			2694,50	
-A161	2018-11-11	2018-11-19	2918	Skulder medlemmar	10		MU - ValleB 4h Jerge			45,00	
-A161	2018-11-11	2018-11-19	4271	Valberedningen Matbidrag	10		MU - ValleB 4h Jerge		45,00		
-A162	2018-11-11	2018-11-19	2918	Skulder medlemmar	10		MU - Matbidrag PI 4h ValleB			40,00	
-A162	2018-11-11	2018-11-19	4271	Valberedningen Matbidrag	10		MU - Matbidrag PI 4h ValleB		40,00		
-A163	2018-11-12	2018-11-19	1920	Bankkonto StyrIT	10		Utbetalning spons Nollkit			10000,00	
-A163	2018-11-12	2018-11-19	2912	Skulder NollKIT	10		Utbetalning spons Nollkit		10000,00		
-A164	2018-11-12	2018-11-19	1920	Bankkonto StyrIT	10		Betalat PRIT swish pubrunda			4001,50	
-A164	2018-11-12	2018-11-19	2910	Skulder PRIT	10		Betalat PRIT swish pubrunda		4001,50		
-A165	2018-11-12	2018-11-19	1920	Bankkonto StyrIT	10		MB - ValleB 4h PI			40,00	
-A165	2018-11-12	2018-11-19	2918	Skulder medlemmar	10		MB - ValleB 4h PI		40,00		
-A166	2018-11-12	2018-11-19	1920	Bankkonto StyrIT	10		MB - VAlleb 4h Jerge			45,00	
-A166	2018-11-12	2018-11-19	2918	Skulder medlemmar	10		MB - VAlleb 4h Jerge		45,00		
-A167	2018-11-12	2018-11-19	1920	Bankkonto StyrIT	10		MB - VAlleB ï¿½verlï¿½mning			276,00	
-A167	2018-11-12	2018-11-19	2918	Skulder medlemmar	10		MB - VAlleB ï¿½verlï¿½mning		276,00		
-A168	2018-11-12	2018-11-19	1920	Bankkonto StyrIT	10		Utbetalning iZettle prit			19422,77	
-A168	2018-11-12	2018-11-19	2910	Skulder PRIT	10		Utbetalning iZettle prit		19422,77		
-A169	2018-11-12	2018-11-19	1920	Bankkonto StyrIT	10		Utbetalning pengar sexit			19590,00	
-A169	2018-11-12	2018-11-19	2911	Skulder sexIT	10		Utbetalning pengar sexit		19590,00		
-A170	2018-11-12	2018-11-19	1920	Bankkonto StyrIT	10		MB - Ordfï¿½randemï¿½te Ludd			105,70	
-A170	2018-11-12	2018-11-19	2918	Skulder medlemmar	10		MB - Ordfï¿½randemï¿½te Ludd		105,70		
-A171	2018-11-12	2018-11-19	1920	Bankkonto StyrIT	10		MB - ï¿½verlï¿½ming VAlleB			1255,00	
-A171	2018-11-12	2018-11-19	2918	Skulder medlemmar	10		MB - ï¿½verlï¿½ming VAlleB		1255,00		
-A172	2018-11-12	2018-11-19	2440	Leverantï¿½rsskulder	10		FB - EqualIT Bulten ï¿½skning		1500,00		
-A172	2018-11-12	2018-11-19	1920	Bankkonto StyrIT	10		FB - EqualIT Bulten ï¿½skning			1500,00	
-A173	2018-11-12	2018-11-19	2440	Leverantï¿½rsskulder	10		FB - Sunfleet Oktober		1601,00		
-A173	2018-11-12	2018-11-19	1920	Bankkonto StyrIT	10		FB - Sunfleet Oktober			1601,00	
-A174	2018-11-12	2018-11-19	2440	Leverantï¿½rsskulder	10		FB - MAt Sektionsmï¿½te		4140,00		
-A174	2018-11-12	2018-11-19	1920	Bankkonto StyrIT	10		FB - MAt Sektionsmï¿½te			4140,00	
-A175	2018-11-12	2019-07-04	2912	Skulder NollKIT	10		Inkommen swish halloween/Sekreten			1485,00	
-A175	2018-11-12	2019-07-04	2911	Skulder sexIT	10		Inkommen swish halloween/Sekreten			2587,00	
-A175	2018-11-12	2019-07-04	1930	Bankkonto Swish	10		Inkommen swish halloween/Sekreten		4000,00		
-A175	2018-11-12	2019-07-04	2919	Skulder Swish	10		Inkommen swish halloween/Sekreten			46,50	
-A175	2018-11-12	2019-07-04	4568	Preskiberade verifikat	10		Inkommen swish halloween/Sekreten		118,50		
-A176	2018-11-13	2018-11-19	1920	Bankkonto StyrIT	10		Insï¿½ttning iZettle pubrunda		19422,77		
-A176	2018-11-13	2018-11-19	2910	Skulder PRIT	10		Insï¿½ttning iZettle pubrunda			19422,77	
-A177	2018-11-13	2018-11-19	1930	Bankkonto Swish	10		Inkommen swish halloween		600,00		
-A177	2018-11-13	2018-11-19	2919	Skulder Swish	10		Inkommen swish halloween			7,50	
-A177	2018-11-13	2018-11-19	2911	Skulder sexIT	10		Inkommen swish halloween			592,50	
-A178	2018-11-13	2018-11-19	2918	Skulder medlemmar	10		MU - ï¿½verlï¿½ming DPO			601,41	
-A178	2018-11-13	2018-11-19	4241	Kostnader ï¿½verlï¿½mningar	10		MU - ï¿½verlï¿½ming DPO		601,41		
-A179	2018-11-13	2018-11-19	2918	Skulder medlemmar	10		MU - ï¿½verlï¿½ming revisorer			601,41	
-A179	2018-11-13	2018-11-19	4241	Kostnader ï¿½verlï¿½mningar	10		MU - ï¿½verlï¿½ming revisorer		601,41		
-A180	2018-11-14	2018-11-19	1930	Bankkonto Swish	10		Inkommen swish Halloween		1200,00		
-A180	2018-11-14	2018-11-19	2919	Skulder Swish	10		Inkommen swish Halloween			15,00	
-A180	2018-11-14	2018-11-19	2911	Skulder sexIT	10		Inkommen swish Halloween			1185,00	
-A181	2018-11-15	2018-11-19	1930	Bankkonto Swish	10		Inkommen swish halloween		360,00		
-A181	2018-11-15	2018-11-19	2919	Skulder Swish	10		Inkommen swish halloween			4,50	
-A181	2018-11-15	2018-11-19	2911	Skulder sexIT	10		Inkommen swish halloween			355,50	
-A182	2018-11-15	2018-11-19	2918	Skulder medlemmar	10		MU - Arbete 4h Karl Wikstrï¿½m			45,00	
-A182	2018-11-15	2018-11-19	4273	Matbidrag sektionsarbete	10		MU - Arbete 4h Karl Wikstrï¿½m		45,00		
-A183	2018-11-15	2018-11-19	2918	Skulder medlemmar	10		MU - Kassï¿½rkvï¿½ll			360,00	
-A183	2018-11-15	2018-11-19	4522	Kostnader Kassï¿½rskvï¿½ll och Ordfï¿½randemï¿½ten	10		MU - Kassï¿½rkvï¿½ll		360,00		
-A184	2018-11-16	2018-11-19	1920	Bankkonto StyrIT	10		MB - Revisorer ï¿½verlï¿½mning			601,41	
-A184	2018-11-16	2018-11-19	2918	Skulder medlemmar	10		MB - Revisorer ï¿½verlï¿½mning		601,41		
-A185	2018-11-16	2018-11-19	1920	Bankkonto StyrIT	10		MB - DPO ï¿½verlï¿½mning			601,41	
-A185	2018-11-16	2018-11-19	2918	Skulder medlemmar	10		MB - DPO ï¿½verlï¿½mning		601,41		
-A186	2018-11-16	2018-11-19	1920	Bankkonto StyrIT	10		MB - Arbete 4h KArl wikstrï¿½m			45,00	
-A186	2018-11-16	2018-11-19	2918	Skulder medlemmar	10		MB - Arbete 4h KArl wikstrï¿½m		45,00		
-A187	2018-11-16	2018-11-19	1920	Bankkonto StyrIT	10		MB - Kassï¿½rkvï¿½ll LP2			360,00	
-A187	2018-11-16	2018-11-19	2918	Skulder medlemmar	10		MB - Kassï¿½rkvï¿½ll LP2		360,00		
-A188	2018-11-17	2018-11-19	4273	Matbidrag sektionsarbete	10		MU - Ludd job 4h stadga		45,00		
-A188	2018-11-17	2018-11-19	2918	Skulder medlemmar	10		MU - Ludd job 4h stadga			45,00	
-A189	2018-11-17	2018-11-19	4273	Matbidrag sektionsarbete	10		MU - Arbete 4h Karl Wikstrï¿½m		45,00		
-A189	2018-11-17	2018-11-19	2918	Skulder medlemmar	10		MU - Arbete 4h Karl Wikstrï¿½m			45,00	
-A190	2018-11-19	2018-11-19	1920	Bankkonto StyrIT	10		MB - EqualIT Lisa Fahlbeck			62,38	
-A190	2018-11-19	2018-11-19	2918	Skulder medlemmar	10		MB - EqualIT Lisa Fahlbeck		62,38		
-A191	2018-11-19	2018-11-19	1920	Bankkonto StyrIT	10		MB - Equalit Viktoria Enderstein			286,51	
-A191	2018-11-19	2018-11-19	2918	Skulder medlemmar	10		MB - Equalit Viktoria Enderstein		286,51		
-A192	2018-11-19	2018-11-19	1920	Bankkonto StyrIT	10		MB - Equalit Lisa Fahlbeck			18,90	
-A192	2018-11-19	2018-11-19	2918	Skulder medlemmar	10		MB - Equalit Lisa Fahlbeck		18,90		
-A193	2018-11-19	2018-11-19	1920	Bankkonto StyrIT	10		MB - Ludd jobb 4h			45,00	
-A193	2018-11-19	2018-11-19	2918	Skulder medlemmar	10		MB - Ludd jobb 4h		45,00		
-A194	2018-11-19	2018-11-19	2918	Skulder medlemmar	10		MB - EqualIT Kajsa Bjï¿½rï¿½ng		78,40		
-A194	2018-11-19	2018-11-19	1920	Bankkonto StyrIT	10		MB - EqualIT Kajsa Bjï¿½rï¿½ng			78,40	
-A195	2018-11-19	2018-11-19	1920	Bankkonto StyrIT	10		MB - EqualIT Alice Olsson			17,90	
-A195	2018-11-19	2018-11-19	2918	Skulder medlemmar	10		MB - EqualIT Alice Olsson		17,90		
-A196	2018-11-19	2018-11-19	1920	Bankkonto StyrIT	10		MB - Karl Wikstrï¿½m 4h jobb			45,00	
-A196	2018-11-19	2018-11-19	2918	Skulder medlemmar	10		MB - Karl Wikstrï¿½m 4h jobb		45,00		
-A197	2018-11-19	2018-11-19	1930	Bankkonto Swish	10		Inkommen Swish Halloween		120,00		
-A197	2018-11-19	2018-11-19	2919	Skulder Swish	10		Inkommen Swish Halloween			1,50	
-A197	2018-11-19	2018-11-19	2911	Skulder sexIT	10		Inkommen Swish Halloween			118,50	
-A198	2018-11-19	2019-07-04	2910	Skulder PRIT	10		Inkommen swish ASpung 			314,00	
-A198	2018-11-19	2019-07-04	1930	Bankkonto Swish	10		Inkommen swish ASpung 		910,00		
-A198	2018-11-19	2019-07-04	2919	Skulder Swish	10		Inkommen swish ASpung 			15,00	
-A198	2018-11-19	2019-07-04	4568	Preskiberade verifikat	10		Inkommen swish ASpung 			581,00	
-A199	2018-11-20	2018-12-19	4273	Matbidrag sektionsarbete	10		Mat 4h Omar Johan		85,00		
-A199	2018-11-20	2018-12-19	1920	Bankkonto StyrIT	10		Mat 4h Omar Johan			85,00	
-A200	2018-11-20	2018-12-19	1920	Bankkonto StyrIT	10		PQ Omar			300,00	
-A200	2018-11-20	2018-12-19	6110	Kontorsmaterial	10		PQ Omar		300,00		
-A201	2018-11-20	2018-12-19	1930	Bankkonto Swish	10		Swish avgift dragen			139,50	
-A201	2018-11-20	2018-12-19	2919	Skulder Swish	10		Swish avgift dragen		139,50		
-A202	2018-11-20	2018-12-19	1930	Bankkonto Swish	10		Aspun PRIT swish		1440,10		
-A202	2018-11-20	2018-12-19	2919	Skulder Swish	10		Aspun PRIT swish			27,00	
-A202	2018-11-20	2018-12-19	2910	Skulder PRIT	10		Aspun PRIT swish			1413,10	
-A203	2018-11-21	2018-12-19	2918	Skulder medlemmar	10		MU - ValleB 4h Jacob Pedersen			45,00	
-A203	2018-11-21	2018-12-19	4271	Valberedningen Matbidrag	10		MU - ValleB 4h Jacob Pedersen		45,00		
-A204	2018-11-22	2018-12-19	2918	Skulder medlemmar	10		MU - Kassï¿½rskvï¿½ll			152,90	
-A204	2018-11-22	2018-12-19	4522	Kostnader Kassï¿½rskvï¿½ll och Ordfï¿½randemï¿½ten	10		MU - Kassï¿½rskvï¿½ll		152,90		
-A205	2018-11-22	2018-12-19	2918	Skulder medlemmar	10		MU - Extrainsatt SM Fika Farzad			282,96	
-A205	2018-11-22	2018-12-19	4331	Kostnader Sektionsmï¿½tesmat	10		MU - Extrainsatt SM Fika Farzad		282,96		
-A206	2018-11-22	2018-12-19	2918	Skulder medlemmar	10		MU - ValleB Intervjuer Farzad			386,78	
-A206	2018-11-22	2018-12-19	4270	Valberedningen Intervjuer	10		MU - ValleB Intervjuer Farzad		386,78		
-A207	2018-11-23	2018-12-19	1930	Bankkonto Swish	10		Mexico Swish Sexit		1510,00		
-A207	2018-11-23	2018-12-19	2919	Skulder Swish	10		Mexico Swish Sexit			25,50	
-A207	2018-11-23	2018-12-19	2911	Skulder sexIT	10		Mexico Swish Sexit			1484,50	
-A208	2018-11-25	2018-12-19	2918	Skulder medlemmar	10		MU - ValleB 4hx2 Carolina & Ludd			90,00	
-A208	2018-11-25	2018-12-19	4271	Valberedningen Matbidrag			MU - ValleB 4hx2 Carolina & Ludd		90,00		
-A209	2018-11-25	2018-12-19	2918	Skulder medlemmar	10		MU - VAlleB 4h jerges			45,00	
-A209	2018-11-25	2018-12-19	4271	Valberedningen Matbidrag	10		MU - VAlleB 4h jerges		45,00		
-A210	2018-11-25	2018-12-19	2918	Skulder medlemmar	10		MU - VAlleB 4h Jacob Pedersen			45,00	
-A210	2018-11-25	2018-12-19	4271	Valberedningen Matbidrag			MU - VAlleB 4h Jacob Pedersen		45,00		
-A211	2018-11-26	2018-12-19	1920	Bankkonto StyrIT	10		Serveringstillstï¿½nd			600,00	
-A211	2018-11-26	2018-12-19	4213	Kostnader Serveringstillstï¿½nd	10		Serveringstillstï¿½nd		600,00		
-A212	2018-11-26	2018-12-19	1920	Bankkonto StyrIT	10		Sektionsavgift Razz		40,00		
-A212	2018-11-26	2018-12-19	3270	Sektionsavgifter	10		Sektionsavgift Razz			40,00	
-A213	2018-11-26	2018-12-19	1930	Bankkonto Swish	10		Mexico Swish 2		1780,00		
-A213	2018-11-26	2018-12-19	2919	Skulder Swish	10		Mexico Swish 2			30,00	
-A213	2018-11-26	2018-12-19	2911	Skulder sexIT	10		Mexico Swish 2			1750,00	
-A214	2018-11-28	2018-12-19	2918	Skulder medlemmar	10		MU - SM Mat Johan			540,00	
-A214	2018-11-28	2018-12-19	4331	Kostnader Sektionsmï¿½tesmat	10		MU - SM Mat Johan		540,00		
-A215	2018-11-28	2018-12-19	2918	Skulder medlemmar	10		MU - SM Mat Johan extra			90,00	
-A215	2018-11-28	2018-12-19	4331	Kostnader Sektionsmï¿½tesmat	10		MU - SM Mat Johan extra		90,00		
-A216	2018-11-28	2018-12-19	2918	Skulder medlemmar	10		MU - Sektionsmï¿½teskostnader maja			73,00	
-A216	2018-11-28	2018-12-19	4330	Kostnader Sektionsmï¿½ten	10		MU - Sektionsmï¿½teskostnader maja		73,00		
-A217	2018-11-29	2018-12-19	1920	Bankkonto StyrIT	10		Sektionsmï¿½teskostnader godis/Korte			379,40	
-A217	2018-11-29	2018-12-19	4330	Kostnader Sektionsmï¿½ten	10		Sektionsmï¿½teskostnader godis/Korte		379,40		
-A218	2018-11-30	2018-12-19	1920	Bankkonto StyrIT	10		MB - Ordfmï¿½te LP2			152,90	
-A218	2018-11-30	2018-12-19	2918	Skulder medlemmar	10		MB - Ordfmï¿½te LP2		152,90		
-A219	2018-11-30	2018-12-19	1920	Bankkonto StyrIT	10		MB - Maja Extrasaker sektionsmï¿½te			73,00	
-A219	2018-11-30	2018-12-19	2918	Skulder medlemmar	10		MB - Maja Extrasaker sektionsmï¿½te		73,00		
-A220	2018-11-30	2018-12-19	1920	Bankkonto StyrIT	10		MB - VAlleB 4h			45,00	
-A220	2018-11-30	2018-12-19	2918	Skulder medlemmar	10		MB - VAlleB 4h		45,00		
-A221	2018-11-30	2018-12-19	1920	Bankkonto StyrIT	10		Betalning av medlemsutlï¿½gg			386,78	
-A221	2018-11-30	2018-12-19	2918	Skulder medlemmar	10		Betalning av medlemsutlï¿½gg		386,78		
-A222	2018-11-30	2018-12-19	1920	Bankkonto StyrIT	10		MB - Sektionsmï¿½tesFika Farzad Extrainsatt			282,96	
-A222	2018-11-30	2018-12-19	2918	Skulder medlemmar	10		MB - Sektionsmï¿½tesFika Farzad Extrainsatt		282,96		
-A223	2018-11-30	2018-12-19	1920	Bankkonto StyrIT	10		MB - Extra SM Mat Johan			630,00	
-A223	2018-11-30	2018-12-19	2918	Skulder medlemmar	10		MB - Extra SM Mat Johan		630,00		
-A224	2018-11-30	2018-12-19	5610	Kostnader bil	10		FM - Sunfleet November		625,00		
-A224	2018-11-30	2018-12-19	1610	Fordringar PRIT	10		FM - Sunfleet November		990,75		
-A224	2018-11-30	2018-12-19	1611	Fordringar sexIT	10		FM - Sunfleet November		1675,00		
-A224	2018-11-30	2018-12-19	2440	Leverantï¿½rsskulder	10		FM - Sunfleet November			3290,75	
-A225	2018-11-30	2018-12-19	2440	Leverantï¿½rsskulder	10		FM - Sektionsmï¿½tes mat extra			2000,00	
-A225	2018-11-30	2018-12-19	4331	Kostnader Sektionsmï¿½tesmat	10		FM - Sektionsmï¿½tes mat extra		2000,00		
-A226	2018-12-01	2018-12-19	2918	Skulder medlemmar	10		MU - VAlleB 4h + 8h			120,00	
-A226	2018-12-01	2018-12-19	4271	Valberedningen Matbidrag			MU - VAlleB 4h + 8h		120,00		
-A227	2018-12-01	2018-12-19	2918	Skulder medlemmar	10		MB - ValleB 8hx5 carolina			285,00	
-A227	2018-12-01	2018-12-19	4271	Valberedningen Matbidrag			MB - ValleB 8hx5 carolina		285,00		
-A228	2018-12-02	2018-12-19	2918	Skulder medlemmar	10		MB - VAlleB 2x8h Farzad			180,00	
-A228	2018-12-02	2018-12-19	4271	Valberedningen Matbidrag			MB - VAlleB 2x8h Farzad		180,00		
-A229	2018-12-02	2018-12-19	2918	Skulder medlemmar	10		MB - VAlleB 8hx1 Jacob 			85,00	
-A229	2018-12-02	2018-12-19	4271	Valberedningen Matbidrag			MB - VAlleB 8hx1 Jacob 		85,00		
-A230	2018-12-03	2019-03-11	1920	Bankkonto StyrIT	10		Lï¿½n tillbaka frï¿½n PRIT		20000,00		
-A230	2018-12-03	2019-03-11	1921	Bankkonto PRIT	40		Lï¿½n tillbaka frï¿½n PRIT			20000,00	
-A231	2018-12-04	2018-12-19	2918	Skulder medlemmar	10		MU - ValleB 4hx2 Jerge			89,00	
-A231	2018-12-04	2018-12-19	4271	Valberedningen Matbidrag			MU - ValleB 4hx2 Jerge		89,00		
-A232	2018-12-04	2018-12-19	2918	Skulder medlemmar	10		MU - 4hx2 Erik Jergeus			85,00	
-A232	2018-12-04	2018-12-19	4271	Valberedningen Matbidrag			MU - 4hx2 Erik Jergeus		85,00		
-A233	2018-12-04	2018-12-19	1920	Bankkonto StyrIT	10		Samarr Daltonz PRIT		900,00		
-A233	2018-12-04	2018-12-19	2910	Skulder PRIT	10		Samarr Daltonz PRIT			900,00	
-A234	2018-12-05	2018-12-19	2918	Skulder medlemmar	10		MU - Julmys Johan Pï¿½rlor			404,82	
-A234	2018-12-05	2018-12-19	4210	Kostnader arrangemang	10		MU - Julmys Johan Pï¿½rlor		404,82		
-A235	2018-12-05	2018-12-19	2918	Skulder medlemmar	10		MU - Julmys julmust Johan			59,70	
-A235	2018-12-05	2018-12-19	4210	Kostnader arrangemang	10		MU - Julmys julmust Johan		59,70		
-A236	2018-12-05	2018-12-19	2918	Skulder medlemmar	10		MU - Julmys julmust Johan 2			116,10	
-A236	2018-12-05	2018-12-19	4210	Kostnader arrangemang	10		MU - Julmys julmust Johan 2		116,10		
-A237	2018-12-05	2018-12-19	1920	Bankkonto StyrIT	10		Betalning av medlemsutlï¿½gg			120,00	
-A237	2018-12-05	2018-12-19	2918	Skulder medlemmar	10		Betalning av medlemsutlï¿½gg		120,00		
-A238	2018-12-05	2018-12-19	1920	Bankkonto StyrIT	10		MB - VAlleB 8h			85,00	
-A238	2018-12-05	2018-12-19	2918	Skulder medlemmar	10		MB - VAlleB 8h		85,00		
-A239	2018-12-05	2018-12-19	1920	Bankkonto StyrIT	10		MB - ValleB 8hx2			180,00	
-A239	2018-12-05	2018-12-19	2918	Skulder medlemmar	10		MB - ValleB 8hx2		180,00		
-A240	2018-12-05	2018-12-19	1920	Bankkonto StyrIT	10		MB - Johan Julmys			580,62	
-A240	2018-12-05	2018-12-19	2918	Skulder medlemmar	10		MB - Johan Julmys		580,62		
-A241	2018-12-05	2018-12-19	2440	Leverantï¿½rsskulder	10		FB - Sunfleet November		3290,75		
-A241	2018-12-05	2018-12-19	1920	Bankkonto StyrIT	10		FB - Sunfleet November			3290,75	
-A242	2018-12-06	2018-12-19	2918	Skulder medlemmar	10		MU - FikIT ï¿½skning julmys			803,35	
-A242	2018-12-06	2018-12-19	4310	ï¿½skningar	10		MU - FikIT ï¿½skning julmys		803,35		
-A243	2018-12-07	2018-12-19	4310	ï¿½skningar	10		MU - Digit ï¿½skning glï¿½ggg		303,80		
-A243	2018-12-07	2018-12-19	2918	Skulder medlemmar	10		MU - Digit ï¿½skning glï¿½ggg			303,80	
-A244	2018-12-11	2018-12-19	1930	Bankkonto Swish	10		Fanbï¿½rerIT swish glï¿½ggmys		520,00		
-A244	2018-12-11	2018-12-19	2919	Skulder Swish	10		Fanbï¿½rerIT swish glï¿½ggmys			19,50	
-A244	2018-12-11	2018-12-19	2921	Skulder Fanbï¿½rerIT	10		Fanbï¿½rerIT swish glï¿½ggmys			500,50	
-A245	2018-12-12	2018-12-19	1920	Bankkonto StyrIT	10		Betalning av medlemsutlï¿½gg			285,00	
-A245	2018-12-12	2018-12-19	2918	Skulder medlemmar	10		Betalning av medlemsutlï¿½gg		285,00		
-A246	2018-12-12	2018-12-19	2916	Skulder MRCIT	10		MRCIT pengar tillbaka		7976,80		
-A246	2018-12-12	2018-12-19	1920	Bankkonto StyrIT	10		MRCIT pengar tillbaka			7976,80	
-A247	2018-12-12	2018-12-19	1920	Bankkonto StyrIT	10		MB - ValleB 4hx2			90,00	
-A247	2018-12-12	2018-12-19	2918	Skulder medlemmar	10		MB - ValleB 4hx2		90,00		
-A248	2018-12-12	2018-12-19	1920	Bankkonto StyrIT	10		Betalning av medlemsutlï¿½gg			89,00	
-A248	2018-12-12	2018-12-19	2918	Skulder medlemmar	10		Betalning av medlemsutlï¿½gg		89,00		
-A249	2018-12-12	2018-12-19	1920	Bankkonto StyrIT	10		MB - ValleB 4hx1			45,00	
-A249	2018-12-12	2018-12-19	2918	Skulder medlemmar	10		MB - ValleB 4hx1		45,00		
-A250	2018-12-12	2018-12-19	1920	Bankkonto StyrIT	10		MB - ValleB 4hx1			45,00	
-A250	2018-12-12	2018-12-19	2918	Skulder medlemmar	10		MB - ValleB 4hx1		45,00		
-A251	2018-12-12	2019-03-11	1920	Bankkonto StyrIT	10		Aspningsbidrag MRCIT			3000,00	
-A251	2018-12-12	2019-03-11	1927	Bankkonto MRCIT	80		Aspningsbidrag MRCIT		3000,00		
-A252	2018-12-12	2018-12-19	1920	Bankkonto StyrIT	10		PL Hjï¿½lp			6987,00	
-A252	2018-12-12	2018-12-19	1619	Fordringar PL	10		PL Hjï¿½lp		6987,00		
-A253	2018-12-12	2018-12-19	1920	Bankkonto StyrIT	10		MB - ï¿½skning Julmys Ananas			803,35	
-A253	2018-12-12	2018-12-19	2918	Skulder medlemmar	10		MB - ï¿½skning Julmys Ananas		803,35		
-A254	2018-12-12	2018-12-19	1920	Bankkonto StyrIT	10		Betalning av medlemsutlï¿½gg			85,00	
-A254	2018-12-12	2018-12-19	2918	Skulder medlemmar	10		Betalning av medlemsutlï¿½gg		85,00		
-A255	2018-12-12	2018-12-19	1920	Bankkonto StyrIT	10		FB - SEktionsmï¿½tesmat extra			2000,00	
-A255	2018-12-12	2018-12-19	2440	Leverantï¿½rsskulder	10		FB - SEktionsmï¿½tesmat extra		2000,00		
-A256	2018-12-13	2018-12-19	2918	Skulder medlemmar	10		MU - Sektionsmï¿½tesFika Lammbi			98,85	
-A256	2018-12-13	2018-12-19	4330	Kostnader Sektionsmï¿½ten	10		MU - Sektionsmï¿½tesFika Lammbi		98,85		
-A257	2018-12-13	2018-12-19	4331	Kostnader Sektionsmï¿½tesmat	10		MU - SM fika LExit		334,00		
-A257	2018-12-13	2018-12-19	2918	Skulder medlemmar	10		MU - SM fika LExit			334,00	
-A258	2018-12-13	2018-12-19	2440	Leverantï¿½rsskulder	10		FM - Grant Thornton tjï¿½ns			2313,00	
-A258	2018-12-13	2018-12-19	6572	Kostnader Bokfï¿½ringsprogram	10		FM - Grant Thornton tjï¿½ns		2313,00		
-A259	2018-12-14	2018-12-19	1920	Bankkonto StyrIT	10		Sektionsmï¿½tesgodis LP2			125,20	
-A259	2018-12-14	2018-12-19	4330	Kostnader Sektionsmï¿½ten	10		Sektionsmï¿½tesgodis LP2		125,20		
-A260	2018-12-14	2018-12-19	1920	Bankkonto StyrIT	10		Snit pengar frï¿½n PL		40000,00		
-A260	2018-12-14	2018-12-19	2922	Skulder snIT	10		Snit pengar frï¿½n PL			40000,00	
-A261	2018-12-17	2018-12-19	1920	Bankkonto StyrIT	10		Fika tentaanmï¿½lan LP2			179,80	
-A261	2018-12-17	2018-12-19	4210	Kostnader arrangemang	10		Fika tentaanmï¿½lan LP2		179,80		
-A262	2018-12-17	2018-12-19	1930	Bankkonto Swish	10		Julsittning swish prit		6300,00		
-A262	2018-12-17	2018-12-19	2919	Skulder Swish	10		Julsittning swish prit			105,00	
-A262	2018-12-17	2018-12-19	2910	Skulder PRIT	10		Julsittning swish prit			6195,00	
-A263	2018-12-18	2018-12-19	4331	Kostnader Sektionsmï¿½tesmat	10		FM - Sektionsmï¿½tesmat LP2		3950,00		
-A263	2018-12-18	2018-12-19	2440	Leverantï¿½rsskulder	10		FM - Sektionsmï¿½tesmat LP2			3950,00	
-A264	2018-12-18	2018-12-19	2919	Skulder Swish	10		Julsittning swish prit			4,50	
-A264	2018-12-18	2018-12-19	2910	Skulder PRIT	10		Julsittning swish prit			265,50	
-A264	2018-12-18	2018-12-19	1930	Bankkonto Swish	10		Julsittning swish prit		270,00		
-A265	2018-12-19	2018-12-19	1920	Bankkonto StyrIT	10		MB - Sektionsmï¿½tesgrejer Lambi 			98,85	
-A265	2018-12-19	2018-12-19	2918	Skulder medlemmar	10		MB - Sektionsmï¿½tesgrejer Lambi 		98,85		
-A266	2018-12-19	2018-12-19	1920	Bankkonto StyrIT	10		Betalning av medlemsutlï¿½gg			334,00	
-A266	2018-12-19	2018-12-19	2918	Skulder medlemmar	10		Betalning av medlemsutlï¿½gg		334,00		
-A267	2018-12-19	2018-12-19	2440	Leverantï¿½rsskulder	10		FB - SM mat Lp2		3950,00		
-A267	2018-12-19	2018-12-19	1920	Bankkonto StyrIT	10		FB - SM mat Lp2			3950,00	
-A268	2018-12-19	2018-12-19	2440	Leverantï¿½rsskulder	10		FB - Grant Thornton tjï¿½nst		2313,00		
-A268	2018-12-19	2018-12-19	1920	Bankkonto StyrIT	10		FB - Grant Thornton tjï¿½nst			2313,00	
-A269	2018-12-20	2019-01-30	1920	Bankkonto StyrIT	10		Inkommen betalning sunfleet sexit		2171,00		
-A269	2018-12-20	2019-01-30	1611	Fordringar sexIT	10		Inkommen betalning sunfleet sexit			2171,00	
-A270	2018-12-20	2019-01-30	1920	Bankkonto StyrIT	10		Inkommen Sunfleet NollKIT		4470,00		
-A270	2018-12-20	2019-01-30	1612	Fordringar NollKIT	10		Inkommen Sunfleet NollKIT			4470,00	
-A271	2018-12-20	2019-01-30	1920	Bankkonto StyrIT	10		Ordfï¿½randemï¿½te LP2 #2			146,89	
-A271	2018-12-20	2019-01-30	4522	Kostnader Kassï¿½rskvï¿½ll och Ordfï¿½randemï¿½ten	10		Ordfï¿½randemï¿½te LP2 #2		146,89		
-A272	2018-12-20	2019-01-30	2918	Skulder medlemmar	10		Sï¿½kerhetsutbildning			97,50	
-A272	2018-12-20	2019-01-30	4520	Kostnader Fï¿½reningsutbildningar	10		Sï¿½kerhetsutbildning		97,50		
-A273	2018-12-20	2019-01-30	1930	Bankkonto Swish	10		Swishavgift avdragen december			532,50	
-A273	2018-12-20	2019-01-30	2919	Skulder Swish	10		Swishavgift avdragen december		532,50		
-A274	2018-12-21	2019-01-30	1920	Bankkonto StyrIT	10		Sï¿½kerhetsutbildning			1865,00	
-A274	2018-12-21	2019-01-30	4520	Kostnader Fï¿½reningsutbildningar	10		Sï¿½kerhetsutbildning		1865,00		
-A275	2018-12-21	2019-01-30	1920	Bankkonto StyrIT	10		Swish till Fanbererit			500,50	
-A275	2018-12-21	2019-01-30	2921	Skulder Fanbï¿½rerIT	10		Swish till Fanbererit		500,50		
-A276	2018-12-21	2019-01-30	1920	Bankkonto StyrIT	10		Swish aspun			1727,10	
-A276	2018-12-21	2019-01-30	2910	Skulder PRIT	10		Swish aspun		1727,10		
-A277	2018-12-21	2019-01-30	1920	Bankkonto StyrIT	10		Swish sekreten			4179,50	
-A277	2018-12-21	2019-01-30	2912	Skulder NollKIT	10		Swish sekreten		4179,50		
-A278	2018-12-21	2019-01-30	1920	Bankkonto StyrIT	10		Fordran sexit			6704,50	
-A278	2018-12-21	2019-01-30	2911	Skulder sexIT	10		Fordran sexit		6704,50		
-A279	2018-12-21	2019-01-30	1920	Bankkonto StyrIT	10		Fordran PRIT			9216,67	
-A279	2018-12-21	2019-01-30	2910	Skulder PRIT	10		Fordran PRIT		9216,67		
-A280	2018-12-21	2019-01-30	1920	Bankkonto StyrIT	10		Betala Ut Snit PL pengar			40000,00	
-A280	2018-12-21	2019-01-30	2922	Skulder snIT	10		Betala Ut Snit PL pengar		40000,00		
-A281	2018-12-21	2019-01-30	1920	Bankkonto StyrIT	10		Sunfleet inbetalat Fanbï¿½rerit		84,00		
-A281	2018-12-21	2019-01-30	1621	Fordringar Fanbï¿½rerIT	10		Sunfleet inbetalat Fanbï¿½rerit			84,00	
-A282	2018-12-28	2019-01-30	1920	Bankkonto StyrIT	10		Sektionsavgifter HT18		27650,00		
-A282	2018-12-28	2019-01-30	3270	Sektionsavgifter	10		Sektionsavgifter HT18			27650,00	
-A283	2018-12-28	2019-01-30	1920	Bankkonto StyrIT	10		iZettle julpub		8340,62		
-A283	2018-12-28	2019-01-30	2910	Skulder PRIT	10		iZettle julpub			8340,62	
-A284	2018-12-31	2019-01-30	2440	Leverantï¿½rsskulder	10		FM Sunfleet December			877,00	
-A284	2018-12-31	2019-01-30	5610	Kostnader bil	10		FM Sunfleet December		625,00		
-A284	2018-12-31	2019-01-30	1610	Fordringar PRIT	10		FM Sunfleet December		252,00		
-A285	2019-01-02	2019-01-30	1920	Bankkonto StyrIT	10		Utbetalning iZettle + sittning			14801,12	
-A285	2019-01-02	2019-01-30	2910	Skulder PRIT	10		Utbetalning iZettle + sittning		14801,12		
-A286	2019-01-02	2019-01-30	1920	Bankkonto StyrIT	10		Mexico ï¿½verfï¿½ring			3234,50	
-A286	2019-01-02	2019-01-30	2911	Skulder sexIT	10		Mexico ï¿½verfï¿½ring		3234,50		
-A287	2019-01-07	2019-01-30	1920	Bankkonto StyrIT	10		Serveringstillstï¿½nd LP3LP4			700,00	
-A287	2019-01-07	2019-01-30	4213	Kostnader Serveringstillstï¿½nd	10		Serveringstillstï¿½nd LP3LP4		700,00		
-A288	2019-01-07	2019-01-30	1920	Bankkonto StyrIT	10		MRCIT Pengar		20200,00		
-A288	2019-01-07	2019-01-30	2916	Skulder MRCIT	10		MRCIT Pengar			20200,00	
-A289	2019-01-08	2019-01-30	1920	Bankkonto StyrIT	10		Kontorsmaterial			85,00	
-A289	2019-01-08	2019-01-30	6110	Kontorsmaterial	10		Kontorsmaterial		85,00		
-A290	2019-01-18	2019-01-30	1920	Bankkonto StyrIT	10		Inbetalning PROSEX		486,30		
-A290	2019-01-18	2019-01-30	2910	Skulder PRIT	10		Inbetalning PROSEX			486,30	
-A291	2019-01-19	2019-01-30	2918	Skulder medlemmar	10		MU - TeambuildingMat Sune			288,25	
-A291	2019-01-19	2019-01-30	4510	Kostnader Intern Representation	10		MU - TeambuildingMat Sune		288,25		
-A292	2019-01-21	2019-01-30	1920	Bankkonto StyrIT	10		Betala fï¿½r banktjï¿½nster Swedbanks			1474,00	
-A292	2019-01-21	2019-01-30	6570	Bankkostnader	10		Betala fï¿½r banktjï¿½nster Swedbanks		1474,00		
-A293	2019-01-21	2019-01-30	2918	Skulder medlemmar	10		MB - DPO fika		97,50		
-A293	2019-01-21	2019-01-30	1920	Bankkonto StyrIT	10		MB - DPO fika			97,50	
-A294	2019-01-21	2019-01-30	1920	Bankkonto StyrIT	10		Susutbildning prit nollkit			400,00	
-A294	2019-01-21	2019-01-30	4520	Kostnader Fï¿½reningsutbildningar	10		Susutbildning prit nollkit	Sus utbildning	400,00		
-A295	2019-01-21	2019-01-30	1920	Bankkonto StyrIT	10		Sektionsavgift Razz		40,00		
-A295	2019-01-21	2019-01-30	3270	Sektionsavgifter	10		Sektionsavgift Razz			40,00	
-A296	2019-01-21	2019-01-30	2919	Skulder Swish	10		Swishavgift avdragen Januari		129,00		
-A296	2019-01-21	2019-01-30	1930	Bankkonto Swish	10		Swishavgift avdragen Januari			129,00	
-A297	2019-01-22	2019-03-11	1920	Bankkonto StyrIT	10		Uppstartslï¿½n PRIT			20000,00	
-A297	2019-01-22	2019-03-11	1921	Bankkonto PRIT	40		Uppstartslï¿½n PRIT		20000,00		
-A298	2019-01-22	2019-01-30	1920	Bankkonto StyrIT	10		DAltonz pengar till PRIT			900,00	
-A298	2019-01-22	2019-01-30	2910	Skulder PRIT	10		DAltonz pengar till PRIT		900,00		
-A299	2019-01-24	2019-01-30	1930	Bankkonto Swish	10		Inkommen Swish pubrunda LP3		2235,00		
-A299	2019-01-24	2019-01-30	2910	Skulder PRIT	10		Inkommen Swish pubrunda LP3			2073,00	
-A299	2019-01-24	2019-01-30	2919	Skulder Swish	10		Inkommen Swish pubrunda LP3			162,00	
-A300	2019-01-25	2019-01-30	1930	Bankkonto Swish	10		Inkommen Swish pubrunda LP3		1200,00		
-A300	2019-01-25	2019-01-30	2919	Skulder Swish	10		Inkommen Swish pubrunda LP3			109,50	
-A300	2019-01-25	2019-01-30	2910	Skulder PRIT	10		Inkommen Swish pubrunda LP3			1090,50	
-A301	2019-01-27	2019-01-30	2918	Skulder medlemmar	10		MU - Mjï¿½lk till utbildning			29,90	
-A301	2019-01-27	2019-01-30	4520	Kostnader Fï¿½reningsutbildningar	10		MU - Mjï¿½lk till utbildning		29,90		
-A302	2019-01-28	2019-01-30	1920	Bankkonto StyrIT	10		Bowling utbildning			800,00	
-A302	2019-01-28	2019-01-30	4520	Kostnader Fï¿½reningsutbildningar	10		Bowling utbildning		800,00		
-A303	2019-01-28	2019-01-30	1920	Bankkonto StyrIT	10		MAt utbildning EDMS Januari			899,38	
-A303	2019-01-28	2019-01-30	4520	Kostnader Fï¿½reningsutbildningar	10		MAt utbildning EDMS Januari		899,38		
-A304	2019-01-28	2019-01-30	2440	Leverantï¿½rsskulder	10		FB - Sunfleet december		877,00		
-A304	2019-01-28	2019-01-30	1920	Bankkonto StyrIT	10		FB - Sunfleet december			877,00	
-A305	2019-01-28	2019-01-30	2440	Leverantï¿½rsskulder	10		FM - Kandidatmiddagssï¿½nghï¿½ften SEN			588,00	
-A305	2019-01-28	2019-01-30	4211	Kostnader kandidatmiddag	10		FM - Kandidatmiddagssï¿½nghï¿½ften SEN		588,00		
-A306	2019-01-28	2019-01-30	2440	Leverantï¿½rsskulder	10		FB - Kandidatmiddagssï¿½nghï¿½ften SEN		588,00		
-A306	2019-01-28	2019-01-30	1920	Bankkonto StyrIT	10		FB - Kandidatmiddagssï¿½nghï¿½ften SEN			588,00	
-A307	2019-01-28	2019-01-30	1920	Bankkonto StyrIT	10		MB - Teambuilding Sune			288,25	
-A307	2019-01-28	2019-01-30	2918	Skulder medlemmar	10		MB - Teambuilding Sune		288,25		
-A308	2019-01-28	2019-01-30	1920	Bankkonto StyrIT	10		MB - Mjï¿½lk till utbildning			29,90	
-A308	2019-01-28	2019-01-30	2918	Skulder medlemmar	10		MB - Mjï¿½lk till utbildning		29,90		
-A309	2019-01-28	2019-01-30	2440	Leverantï¿½rsskulder	10		FM - Grant Thornton Tjï¿½nst			1156,00	
-A309	2019-01-28	2019-01-30	6572	Kostnader Bokfï¿½ringsprogram	10		FM - Grant Thornton Tjï¿½nst		1156,00		
-A310	2019-01-29	2019-05-27	1920	Bankkonto StyrIT	10		iZettle Pubrunda LP3		15823,31		
-A310	2019-01-29	2019-05-27	2910	Skulder PRIT	10		iZettle Pubrunda LP3			15823,31	
-A311	2019-01-30	2019-01-30	2440	Leverantï¿½rsskulder	10		FB - Grant Thornton tjï¿½nst		1156,00		
-A311	2019-01-30	2019-01-30	1920	Bankkonto StyrIT	10		FB - Grant Thornton tjï¿½nst			1156,00	
-A312	2019-01-21	2019-01-30	1920	Bankkonto StyrIT	10		Sunfleet inbetalat PRIT		2812,75		
-A312	2019-01-21	2019-01-30	1610	Fordringar PRIT	10		Sunfleet inbetalat PRIT			2812,75	
-A313	2019-02-01	2019-03-11	1930	Bankkonto Swish	10		inkommen swish Armit LFS		1680,00		
-A313	2019-02-01	2019-03-11	2914	Skulder armIT	10		inkommen swish Armit LFS			1648,50	
-A313	2019-02-01	2019-03-11	2919	Skulder Swish	10		inkommen swish Armit LFS			31,50	
-A314	2019-02-05	2019-03-11	1920	Bankkonto StyrIT	10		Uppstartslï¿½n NollKIT			20000,00	
-A314	2019-02-05	2019-03-11	1923	Bankkonto NollkIT	50		Uppstartslï¿½n NollKIT		20000,00		
-A315	2019-02-06	2019-03-11	6990	ï¿½vriga kostnader	10		Kassï¿½rkvï¿½ll slï¿½ngd mat LP3		389,75		
-A315	2019-02-06	2019-03-11	1920	Bankkonto StyrIT	10		Kassï¿½rkvï¿½ll slï¿½ngd mat LP3			389,75	
-A316	2019-02-06	2019-03-11	1920	Bankkonto StyrIT	10		Pizza Kassï¿½rkvï¿½ll LP3			595,00	
-A316	2019-02-06	2019-03-11	4522	Kostnader Kassï¿½rskvï¿½ll och Ordfï¿½randemï¿½ten	10		Pizza Kassï¿½rkvï¿½ll LP3		595,00		
-A317	2019-02-07	2019-03-11	4522	Kostnader Kassï¿½rskvï¿½ll och Ordfï¿½randemï¿½ten	10		Ordfmï¿½tes fika LP3		157,22		
-A317	2019-02-07	2019-03-11	1920	Bankkonto StyrIT	10		Ordfmï¿½tes fika LP3			157,22	
-A318	2019-02-10	2019-03-11	2918	Skulder medlemmar	10		MU - ValleB intervjuer och diskussion	Carolina		45,00	
-A318	2019-02-10	2019-03-11	2918	Skulder medlemmar	10		MU - ValleB intervjuer och diskussion	Farzad		45,00	
-A318	2019-02-10	2019-03-11	2918	Skulder medlemmar	10		MU - ValleB intervjuer och diskussion	Erik Jergeus		45,00	
-A318	2019-02-10	2019-03-11	2918	Skulder medlemmar	10		MU - ValleB intervjuer och diskussion	Jacob		45,00	
-A318	2019-02-10	2019-03-11	4271	Valberedningen Matbidrag	10		MU - ValleB intervjuer och diskussion		180,00		
-A318	2019-02-10	2019-03-11	4270	Valberedningen Intervjuer	10		MU - ValleB intervjuer och diskussion		39,30		
-A318	2019-02-10	2019-03-11	2918	Skulder medlemmar	10		MU - ValleB intervjuer och diskussion	Farzad		39,30	
-A319	2019-02-14	2019-03-11	1920	Bankkonto StyrIT	10		Mï¿½te med inspektor			810,00	
-A319	2019-02-14	2019-03-11	4511	Kostnader Extern Representation	10		Mï¿½te med inspektor		810,00		
-A320	2019-02-16	2019-03-11	2918	Skulder medlemmar	10		MU - ValleB 4hx4 och fika	Ludd		180,00	
-A320	2019-02-16	2019-03-11	4271	Valberedningen Matbidrag	10		MU - ValleB 4hx4 och fika		180,00		
-A320	2019-02-16	2019-03-11	2918	Skulder medlemmar	10		MU - ValleB 4hx4 och fika	Farzad		39,30	
-A320	2019-02-16	2019-03-11	4270	Valberedningen Intervjuer	10		MU - ValleB 4hx4 och fika		39,30		
-A321	2019-02-17	2019-03-11	2918	Skulder medlemmar	10		MU - ValleB 4hx4 och Fika	Ludvig		180,00	
-A321	2019-02-17	2019-03-11	4271	Valberedningen Matbidrag	10		MU - ValleB 4hx4 och Fika		180,00		
-A321	2019-02-17	2019-03-11	2918	Skulder medlemmar	10		MU - ValleB 4hx4 och Fika			39,30	
-A321	2019-02-17	2019-03-11	4270	Valberedningen Intervjuer	10		MU - ValleB 4hx4 och Fika		39,30		
-A322	2019-02-18	2019-03-11	2918	Skulder medlemmar	10		MU - ValleB 4hx4			180,00	
-A322	2019-02-18	2019-03-11	4271	Valberedningen Matbidrag	10		MU - ValleB 4hx4		180,00		
-A323	2019-02-19	2019-03-11	1920	Bankkonto StyrIT	10		iZettle inkomst		4993,95		
-A323	2019-02-19	2019-03-11	2911	Skulder sexIT	10		iZettle inkomst			4993,95	
-A324	2019-02-19	2019-03-11	4271	Valberedningen Matbidrag	10		MU - ValleB 4hx4		180,00		
-A324	2019-02-19	2019-03-11	2918	Skulder medlemmar	10		MU - ValleB 4hx4			180,00	
-A325	2019-02-20	2019-03-11	1920	Bankkonto StyrIT	10		MB - ValleB 4hx2			45,00	
-A325	2019-02-20	2019-03-11	2918	Skulder medlemmar	10		MB - ValleB 4hx2		45,00		
-A326	2019-02-20	2019-03-11	1920	Bankkonto StyrIT	10		MB - ValleB 4h			45,00	
-A326	2019-02-20	2019-03-11	2918	Skulder medlemmar	10		MB - ValleB 4h		45,00		
-A327	2019-02-20	2019-03-11	1920	Bankkonto StyrIT	10		Utbetalning Datajej hjï¿½lp			5000,00	
-A327	2019-02-20	2019-03-11	1619	Fordringar PL	10		Utbetalning Datajej hjï¿½lp		5000,00		
-A328	2019-02-20	2019-03-11	1920	Bankkonto StyrIT	10		MB - ValleB FIKA			39,30	
-A328	2019-02-20	2019-03-11	2918	Skulder medlemmar	10		MB - ValleB FIKA		39,30		
-A329	2019-02-20	2019-03-11	1920	Bankkonto StyrIT	10		MB - ValleB 4hx2			90,00	
-A329	2019-02-20	2019-03-11	2918	Skulder medlemmar	10		MB - ValleB 4hx2		90,00		
-A330	2019-02-11	2019-03-11	4310	ï¿½skningar	10		MU - ï¿½skning Lundresa		908,00		
-A330	2019-02-11	2019-03-11	2918	Skulder medlemmar	10		MU - ï¿½skning Lundresa			908,00	
-A331	2019-02-20	2019-03-11	1920	Bankkonto StyrIT	10		MB - ï¿½skning Lundres			908,00	
-A331	2019-02-20	2019-03-11	2918	Skulder medlemmar	10		MB - ï¿½skning Lundres		908,00		
-A332	2019-02-20	2019-03-11	1920	Bankkonto StyrIT	10		MB - ValleB 4h			45,00	
-A332	2019-02-20	2019-03-11	2918	Skulder medlemmar	10		MB - ValleB 4h		45,00		
-A333	2019-02-20	2019-03-11	1920	Bankkonto StyrIT	10		ï¿½skning + sittning Armit			4575,65	
-A333	2019-02-20	2019-03-11	4310	ï¿½skningar	10		ï¿½skning + sittning Armit		2927,15		
-A333	2019-02-20	2019-03-11	2914	Skulder armIT	10		ï¿½skning + sittning Armit		1648,50		
-A334	2019-01-31	2019-03-11	5610	Kostnader bil	10		FM - Sunfleet Januari		625,00		
-A334	2019-01-31	2019-03-11	1610	Fordringar PRIT	10		FM - Sunfleet Januari		460,50		
-A334	2019-01-31	2019-03-11	1611	Fordringar sexIT	10		FM - Sunfleet Januari		908,50		
-A334	2019-01-31	2019-03-11	2440	Leverantï¿½rsskulder	10		FM - Sunfleet Januari			1994,00	
-A335	2019-02-20	2019-03-11	1920	Bankkonto StyrIT	10		FB - Sunfleet Januari			1994,00	
-A335	2019-02-20	2019-03-11	2440	Leverantï¿½rsskulder	10		FB - Sunfleet Januari		1994,00		
-A336	2019-02-20	2019-03-11	4535	Kostbnader SUS	10		SUS x4		800,00		
-A336	2019-02-20	2019-03-11	1920	Bankkonto StyrIT	10		SUS x4			800,00	
-A337	2019-02-20	2019-03-11	1930	Bankkonto Swish	10		Swishavgift dragen Februari			271,50	
-A337	2019-02-20	2019-03-11	2919	Skulder Swish	10		Swishavgift dragen Februari		271,50		
-A338	2019-02-21	2019-03-11	1920	Bankkonto StyrIT	10		Betalning av medlemsutlï¿½gg			300,00	
-A338	2019-02-21	2019-03-11	2918	Skulder medlemmar	10		Betalning av medlemsutlï¿½gg		300,00		
-A339	2019-02-22	2019-03-11	6572	Kostnader Bokfï¿½ringsprogram	10		FM - Grant Thornton tjï¿½nst		1156,00		
-A339	2019-02-22	2019-03-11	2440	Leverantï¿½rsskulder	10		FM - Grant Thornton tjï¿½nst			1156,00	
-A340	2019-02-26	2019-03-11	1920	Bankkonto StyrIT	10		Inkommen izettle		3752,85		
-A340	2019-02-26	2019-03-11	2911	Skulder sexIT	10		Inkommen izettle			3122,45	
-A340	2019-02-26	2019-03-11	2910	Skulder PRIT	10		Inkommen izettle			630,40	
-A341	2019-02-27	2019-03-11	4331	Kostnader Sektionsmï¿½tesmat	10		MU - Fika sektmï¿½te LP3		356,70		
-A341	2019-02-27	2019-03-11	2918	Skulder medlemmar	10		MU - Fika sektmï¿½te LP3			356,70	
-A342	2019-02-28	2019-03-11	1619	Fordringar PL	10		FI - PL hjï¿½lp utbytes			6987,00	
-A342	2019-02-28	2019-03-11	1920	Bankkonto StyrIT	10		FI - PL hjï¿½lp utbytes		6987,00		
-A343	2019-02-28	2019-04-17	5610	Kostnader bil	10		FM - Sunfleet Februari		625,00		
-A343	2019-02-28	2019-04-17	1610	Fordringar PRIT	10		FM - Sunfleet Februari		543,75		
-A343	2019-02-28	2019-04-17	2440	Leverantï¿½rsskulder	10		FM - Sunfleet Februari			1168,75	
-A344	2019-03-01	2019-03-11	4331	Kostnader Sektionsmï¿½tesmat	10		Extra mat Sektmï¿½te LP3		59,00		
-A344	2019-03-01	2019-03-11	1920	Bankkonto StyrIT	10		Extra mat Sektmï¿½te LP3			59,00	
-A345	2019-03-01	2019-03-11	4330	Kostnader Sektionsmï¿½ten	10		Sektionsmï¿½tesgodis och presentkort		270,00		
-A345	2019-03-01	2019-03-11	1920	Bankkonto StyrIT	10		Sektionsmï¿½tesgodis och presentkort			270,00	
-A346	2019-03-04	2019-03-11	2913	Skulder frITid	10		CM- Fritid			480,00	
-A346	2019-03-04	2019-03-11	1920	Bankkonto StyrIT	10		CM- Fritid		480,00		
-A347	2019-03-05	2019-03-11	2913	Skulder frITid	10		CM - Fritid			480,00	
-A347	2019-03-05	2019-03-11	1920	Bankkonto StyrIT	10		CM - Fritid		480,00		
-A348	2019-03-10	2019-03-11	4520	Kostnader Fï¿½reningsutbildningar	10		MU - EDMS Extra		41,90		
-A348	2019-03-10	2019-03-11	2918	Skulder medlemmar	10		MU - EDMS Extra			41,90	
-A349	2019-03-11	2019-03-11	1920	Bankkonto StyrIT	10		EDMS Mat mars			1190,04	
-A349	2019-03-11	2019-03-11	4520	Kostnader Fï¿½reningsutbildningar	10		EDMS Mat mars		1190,04		
-A350	2019-03-11	2019-03-11	1920	Bankkonto StyrIT	10		FB - Bokfï¿½ringsprogram			1156,00	
-A350	2019-03-11	2019-03-11	2440	Leverantï¿½rsskulder	10		FB - Bokfï¿½ringsprogram		1156,00		
-A351	2019-03-11	2019-03-11	1920	Bankkonto StyrIT	10		FB - Sunfleet Februari			1168,75	
-A351	2019-03-11	2019-03-11	2440	Leverantï¿½rsskulder	10		FB - Sunfleet Februari		1168,75		
-A352	2019-03-11	2019-03-11	1920	Bankkonto StyrIT	10		MB - ValleB fika x2			78,60	
-A352	2019-03-11	2019-03-11	2918	Skulder medlemmar	10		MB - ValleB fika x2		78,60		
-A353	2019-03-11	2019-03-11	1920	Bankkonto StyrIT	10		MB - ValleB 4hx4x2			360,00	
-A353	2019-03-11	2019-03-11	2918	Skulder medlemmar	10		MB - ValleB 4hx4x2		360,00		
-A354	2019-03-11	2019-03-11	1920	Bankkonto StyrIT	10		MB - VAlleB 4hx4			180,00	
-A354	2019-03-11	2019-03-11	2918	Skulder medlemmar	10		MB - VAlleB 4hx4		180,00		
-A355	2019-03-11	2019-03-11	1920	Bankkonto StyrIT	10		MB - VAlleB 4hx4			180,00	
-A355	2019-03-11	2019-03-11	2918	Skulder medlemmar	10		MB - VAlleB 4hx4		180,00		
-A356	2019-03-11	2019-03-11	1920	Bankkonto StyrIT	10		MB - Sektmï¿½tefika LP3			356,70	
-A356	2019-03-11	2019-03-11	2918	Skulder medlemmar	10		MB - Sektmï¿½tefika LP3		356,70		
-A357	2019-03-11	2019-03-11	1920	Bankkonto StyrIT	10		Bowling EDMS			1000,00	
-A357	2019-03-11	2019-03-11	4520	Kostnader Fï¿½reningsutbildningar	10		Bowling EDMS		1000,00		
-A358	2019-03-11	2019-03-11	4520	Kostnader Fï¿½reningsutbildningar	10		DPO utbildningmat		765,00		
-A358	2019-03-11	2019-03-11	1920	Bankkonto StyrIT	10		DPO utbildningmat			765,00	
-A359	2019-03-11	2019-03-11	1920	Bankkonto StyrIT	10		Pengar ï¿½verfï¿½rda till MRCIT			24327,08	
-A359	2019-03-11	2019-03-11	2916	Skulder MRCIT	10		Pengar ï¿½verfï¿½rda till MRCIT		24327,08		
-A360	2019-03-11	2019-03-11	1920	Bankkonto StyrIT	10		MB - EDMS extra saker			41,90	
-A360	2019-03-11	2019-03-11	2918	Skulder medlemmar	10		MB - EDMS extra saker		41,90		
-A361	2019-03-11	2019-04-11	1610	Fordringar PRIT	10		Borttagning av fordringar		3075,08		
-A361	2019-03-11	2019-04-11	4568	Preskiberade verifikat	10		Borttagning av fordringar			3075,08	
-A362	2019-03-11	2019-04-11	3740	ï¿½res- och kronutjï¿½mning	10		ï¿½resavrundning		0,20		
-A362	2019-03-11	2019-04-11	1610	Fordringar PRIT	10		ï¿½resavrundning			0,20	
-A363	2019-03-11	2019-04-11	3740	ï¿½res- och kronutjï¿½mning	10		Vision 0			0,20	
-A363	2019-03-11	2019-04-11	2917	Skulder StyrIT	10		Vision 0		0,20		
-A364	2019-03-11	2019-04-11	4568	Preskiberade verifikat	10		Vision 0		1827,63		
-A364	2019-03-11	2019-04-11	1610	Fordringar PRIT	10		Vision 0			1827,63	
-A365	2019-03-11	2019-04-11	4568	Preskiberade verifikat	10		Vision 0			16750,77	
-A365	2019-03-11	2019-04-11	1611	Fordringar sexIT	10		Vision 0		16750,77		
-A366	2019-03-11	2019-04-11	4568	Preskiberade verifikat	10		Vision 0		378,45		
-A366	2019-03-11	2019-04-11	1611	Fordringar sexIT	10		Vision 0			378,45	
-A367	2019-03-11	2019-04-11	4568	Preskiberade verifikat	10		Vision 0		163,00		
-A367	2019-03-11	2019-04-11	1612	Fordringar NollKIT	10		Vision 0			163,00	
-A368	2019-03-11	2019-04-11	4568	Preskiberade verifikat	10		Vision 0		1000,00		
-A368	2019-03-11	2019-04-11	1612	Fordringar NollKIT	10		Vision 0			1000,00	
-A369	2019-03-11	2019-04-11	4568	Preskiberade verifikat	10		Vision 0		53,00		
-A369	2019-03-11	2019-04-11	1613	Fordringar frITid	10		Vision 0			53,00	
-A370	2019-03-11	2019-04-11	4568	Preskiberade verifikat	10		Vision 0			275359,75	
-A370	2019-03-11	2019-04-11	1614	Fordringar armIT	10		Vision 0		275359,75		
-A371	2019-03-11	2019-04-11	4568	Preskiberade verifikat	10		Vision 0			2659,66	
-A371	2019-03-11	2019-04-11	1615	Fordringar digIT	10		Vision 0		2659,66		
-A372	2019-03-11	2019-04-11	4568	Preskiberade verifikat	10		Vision 0		556,44		
-A372	2019-03-11	2019-04-11	1616	Fordringar MRCIT	10		Vision 0			556,44	
-A373	2019-03-11	2019-04-11	4568	Preskiberade verifikat	10		Vision 0		157,00		
-A373	2019-03-11	2019-04-11	1617	Fordringar StyrIT	10		Vision 0			157,00	
-A374	2019-03-11	2019-04-17	4568	Preskiberade verifikat	10		Vision 0			5255,35	
-A374	2019-03-11	2019-04-17	2910	Skulder PRIT	10		Vision 0		5255,35		
-A375	2019-03-11	2019-04-17	4568	Preskiberade verifikat	10		Vision 0		6564,10		
-A375	2019-03-11	2019-04-17	2911	Skulder sexIT	10		Vision 0			6564,10	
-A376	2019-03-11	2019-04-17	4568	Preskiberade verifikat	10		Vision 0			1449,18	
-A376	2019-03-11	2019-04-17	2911	Skulder sexIT	10		Vision 0		1449,18		
-A377	2019-03-11	2019-04-17	4568	Preskiberade verifikat	10		Vision 0			1778,78	
-A377	2019-03-11	2019-04-17	2912	Skulder NollKIT	10		Vision 0		1778,78		
-A378	2019-03-11	2019-04-17	4568	Preskiberade verifikat	10		Vision 0			913,87	
-A378	2019-03-11	2019-04-17	2912	Skulder NollKIT	10		Vision 0		913,87		
-A379	2019-03-11	2019-04-17	4568	Preskiberade verifikat	10		Vision 0		8000,00		
-A379	2019-03-11	2019-04-17	2913	Skulder frITid	10		Vision 0			8000,00	
-A380	2019-03-11	2019-04-17	4568	Preskiberade verifikat	10		Vision 0			0,23	
-A380	2019-03-11	2019-04-17	2917	Skulder StyrIT	10		Vision 0		0,23		
-A381	2019-03-11	2019-04-17	4568	Preskiberade verifikat	10		Vision 0		11587,95		
-A381	2019-03-11	2019-04-17	2920	ï¿½vriga skulder	10		Vision 0			11587,95	
-A382	2019-03-11	2019-05-07	2918	Skulder medlemmar	10		MU - ValleB 4hx5			225,00	
-A382	2019-03-11	2019-05-07	4271	Valberedningen Matbidrag	10		MU - ValleB 4hx5		225,00		
-A383	2019-03-11	2019-05-07	2918	Skulder medlemmar	10		MU - Matarbete Gustav Lahti			45,00	
-A383	2019-03-11	2019-05-07	4273	Matbidrag sektionsarbete	10		MU - Matarbete Gustav Lahti		45,00		
-A385	2019-03-12	2019-05-07	2440	Leverantï¿½rsskulder	10		FM - Sektionsmï¿½tesmap LP3			3450,00	
-A385	2019-03-12	2019-05-07	4331	Kostnader Sektionsmï¿½tesmat	10		FM - Sektionsmï¿½tesmap LP3		3450,00		
-A386	2019-03-13	2019-05-07	4273	Matbidrag sektionsarbete	10		Matarbete omar 4h		40,00		
-A386	2019-03-13	2019-05-07	1920	Bankkonto StyrIT	10		Matarbete omar 4h			40,00	
-A387	2019-03-13	2019-05-07	2440	Leverantï¿½rsskulder	10		FM - GT tjï¿½nst			1156,00	
-A387	2019-03-13	2019-05-07	6572	Kostnader Bokfï¿½ringsprogram	10		FM - GT tjï¿½nst		1156,00		
-A388	2019-03-15	2019-05-07	4213	Kostnader Serveringstillstï¿½nd	10		Serveringstillstï¿½nd 		700,00		
-A388	2019-03-15	2019-05-07	1920	Bankkonto StyrIT	10		Serveringstillstï¿½nd 			700,00	
-A389	2019-03-26	2019-05-07	2913	Skulder frITid	10		CM fritid			560,00	
-A389	2019-03-26	2019-05-07	1920	Bankkonto StyrIT	10		CM fritid		560,00		
-A390	2019-03-26	2019-05-07	2440	Leverantï¿½rsskulder	10		FM - Skatteverket fï¿½rseningsavgift			625,00	
-A390	2019-03-26	2019-05-07	6991	Ofï¿½rutsedda utgifter	10		FM - Skatteverket fï¿½rseningsavgift		625,00		
-A391	2019-03-27	2019-05-07	2913	Skulder frITid	10		CM Fritid			160,00	
-A391	2019-03-27	2019-05-07	1920	Bankkonto StyrIT	10		CM Fritid		160,00		
-A392	2019-03-28	2019-05-07	4242	Kostnader Aspning	10		Fika aspkickoff		20,50		
-A392	2019-03-28	2019-05-07	1920	Bankkonto StyrIT	10		Fika aspkickoff			20,50	
-A393	2019-03-28	2019-07-04	2919	Skulder Swish	10		Swish pubrunda Lp4			186,00	
-A393	2019-03-28	2019-07-04	2910	Skulder PRIT	10		Swish pubrunda Lp4			2424,10	
-A393	2019-03-28	2019-07-04	1930	Bankkonto Swish	10		Swish pubrunda Lp4		2610,20		
-A393	2019-03-28	2019-07-04	4568	Preskiberade verifikat	10		Swish pubrunda Lp4			0,10	
-A394	2019-03-29	2019-05-07	1930	Bankkonto Swish	10		Swish pubrunda lp4		990,00		
-A394	2019-03-29	2019-05-07	2919	Skulder Swish	10		Swish pubrunda lp4			78,00	
-A394	2019-03-29	2019-05-07	2910	Skulder PRIT	10		Swish pubrunda lp4			912,00	
-A395	2019-03-30	2019-05-07	4242	Kostnader Aspning	10		MU - chillkvï¿½ll aspning		458,39		
-A395	2019-03-30	2019-05-07	2918	Skulder medlemmar	10		MU - chillkvï¿½ll aspning			458,39	
-A396	2019-03-31	2019-05-07	2440	Leverantï¿½rsskulder	10		FM - Sunfleet Mars			1503,75	
-A396	2019-03-31	2019-05-07	5610	Kostnader bil	10		FM - Sunfleet Mars		625,00		
-A396	2019-03-31	2019-05-07	1610	Fordringar PRIT	10		FM - Sunfleet Mars		878,75		
-A397	2019-04-01	2019-05-07	2440	Leverantï¿½rsskulder	10		FB - Sektionsmï¿½tesmat lp3		3450,00		
-A397	2019-04-01	2019-05-07	1920	Bankkonto StyrIT	10		FB - Sektionsmï¿½tesmat lp3			3450,00	
-A398	2019-04-01	2019-05-07	2440	Leverantï¿½rsskulder	10		FB - GT tjï¿½nst		1156,00		
-A398	2019-04-01	2019-05-07	1920	Bankkonto StyrIT	10		FB - GT tjï¿½nst			1156,00	
-A399	2019-04-01	2019-05-07	1920	Bankkonto StyrIT	10		aspning fritid			3000,00	
-A399	2019-04-01	2019-05-07	1924	Bankkonto FrITid	60		aspning fritid		3000,00		
-A400	2019-04-01	2019-05-07	1920	Bankkonto StyrIT	10		Aspning Snit			3000,00	
-A400	2019-04-01	2019-05-07	1928	Bankkonto snIT	90		Aspning Snit		3000,00		
-A401	2019-04-01	2019-05-07	1920	Bankkonto StyrIT	10		Aspning Fanbï¿½rerit			3000,00	
-A401	2019-04-01	2019-05-07	1929	Bankkonto Fanbï¿½rerIT	10		Aspning Fanbï¿½rerit		3000,00		
-A402	2019-04-01	2019-05-07	1920	Bankkonto StyrIT	10		Sektionshoodies			3980,00	
-A402	2019-04-01	2019-05-07	5921	Inkï¿½p sektionsprofilering	10		Sektionshoodies		3980,00		
-A403	2019-04-02	2019-05-07	1920	Bankkonto StyrIT	10		iZettle Pubrunda lp4		20959,70		
-A403	2019-04-02	2019-05-07	2910	Skulder PRIT	10		iZettle Pubrunda lp4			20959,70	
-A404	2019-04-02	2019-05-07	2440	Leverantï¿½rsskulder	10		FM - Studenrï¿½sten aspning			420,00	
-A404	2019-04-02	2019-05-07	4242	Kostnader Aspning	10		FM - Studenrï¿½sten aspning		420,00		
-A405	2019-04-04	2019-05-07	4273	Matbidrag sektionsarbete	10		MU - Matarbete Johan och Omar 8h		170,00		
-A405	2019-04-04	2019-05-07	2918	Skulder medlemmar	10		MU - Matarbete Johan och Omar 8h			170,00	
-A406	2019-04-08	2019-05-07	4242	Kostnader Aspning	10		Pizza till aspning		775,00		
-A406	2019-04-08	2019-05-07	1920	Bankkonto StyrIT	10		Pizza till aspning			775,00	
-A407	2019-04-12	2019-05-07	4273	Matbidrag sektionsarbete	10		Matarbete 8h Johan OMar		175,00		
-A407	2019-04-12	2019-05-07	1920	Bankkonto StyrIT	10		Matarbete 8h Johan OMar			175,00	
-A408	2019-04-12	2019-05-07	1920	Bankkonto StyrIT	10		Vplan budget aspning			257,54	
-A408	2019-04-12	2019-05-07	4242	Kostnader Aspning	10		Vplan budget aspning		257,54		
-A409	2019-04-12	2019-05-07	4522	Kostnader Kassï¿½rskvï¿½ll och Ordfï¿½randemï¿½ten	10		Ordfmï¿½te fika lp4		143,20		
-A409	2019-04-12	2019-05-07	1920	Bankkonto StyrIT	10		Ordfmï¿½te fika lp4			143,20	
-A410	2019-04-14	2019-05-07	2918	Skulder medlemmar	10		MU - Teambuilding Chokladbollar			25,00	
-A410	2019-04-14	2019-05-07	4510	Kostnader Intern Representation	10		MU - Teambuilding Chokladbollar		25,00		
-A411	2019-04-15	2019-05-07	4510	Kostnader Intern Representation	10		Teambuilding Styrit		695,00		
-A411	2019-04-15	2019-05-07	1920	Bankkonto StyrIT	10		Teambuilding Styrit			695,00	
-A412	2019-04-15	2019-05-07	2918	Skulder medlemmar	10		MB - Arbete 4h Gustav Lahti		45,00		
-A412	2019-04-15	2019-05-07	1920	Bankkonto StyrIT	10		MB - Arbete 4h Gustav Lahti			45,00	
-A413	2019-04-15	2019-05-07	1920	Bankkonto StyrIT	10		MB - ValleB 4hx5			225,00	
-A413	2019-04-15	2019-05-07	2918	Skulder medlemmar	10		MB - ValleB 4hx5		225,00		
-A414	2019-04-15	2019-05-07	1920	Bankkonto StyrIT	10		MB - Chillkvï¿½ll aspning			458,39	
-A414	2019-04-15	2019-05-07	2918	Skulder medlemmar	10		MB - Chillkvï¿½ll aspning		458,39		
-A415	2019-04-15	2019-05-07	1920	Bankkonto StyrIT	10		FB - Sunfleet Mars			1503,75	
-A415	2019-04-15	2019-05-07	2440	Leverantï¿½rsskulder	10		FB - Sunfleet Mars		1503,75		
-A416	2019-04-15	2019-05-07	1920	Bankkonto StyrIT	10		FB - Studentrï¿½sten aspning			420,00	
-A416	2019-04-15	2019-05-07	2440	Leverantï¿½rsskulder	10		FB - Studentrï¿½sten aspning		420,00		
-A417	2019-04-15	2019-05-07	1920	Bankkonto StyrIT	10		FB - Fï¿½resningsavgift skatteverket			625,00	
-A417	2019-04-15	2019-05-07	2440	Leverantï¿½rsskulder	10		FB - Fï¿½resningsavgift skatteverket		625,00		
-A418	2019-04-15	2019-05-07	1920	Bankkonto StyrIT	10		Betalning av skatt			13647,16	
-A418	2019-04-15	2019-05-07	2510	Skattekostnader	10		Betalning av skatt		13647,16		
-A419	2019-04-15	2019-05-07	1619	Fordringar PL	10		PL hjï¿½lp ï¿½ka hem		495,00		
-A419	2019-04-15	2019-05-07	1920	Bankkonto StyrIT	10		PL hjï¿½lp ï¿½ka hem			495,00	
-A420	2019-04-16	2019-05-07	1920	Bankkonto StyrIT	10		iZettle PTS		4220,60		
-A420	2019-04-16	2019-05-07	2912	Skulder NollKIT	10		iZettle PTS			4220,60	
-A421	2019-04-17	2019-05-07	2918	Skulder medlemmar	10		MU - Omar johan 5h Arbete			90,00	
-A421	2019-04-17	2019-05-07	4273	Matbidrag sektionsarbete	10		MU - Omar johan 4h Arbete		90,00		
-A422	2019-04-18	2019-05-07	2913	Skulder frITid	10		CM fritid			400,00	
-A422	2019-04-18	2019-05-07	1920	Bankkonto StyrIT	10		CM fritid		400,00		
-A423	2019-04-18	2019-05-07	2918	Skulder medlemmar	10		MB - Digit ï¿½skning sen		303,80		
-A423	2019-04-18	2019-05-07	1920	Bankkonto StyrIT	10		MB - Digit ï¿½skning sen			303,80	
-A424	2019-04-18	2019-05-07	2440	Leverantï¿½rsskulder	10		FM - Sektionshoodies tryck			2331,00	
-A424	2019-04-18	2019-05-07	5921	Inkï¿½p sektionsprofilering	10		FM - Sektionshoodies tryck		2331,00		
-A425	2019-04-20	2019-05-07	2919	Skulder Swish	10		Swishavgift dragen april		295,50		
-A425	2019-04-20	2019-05-07	1930	Bankkonto Swish	10		Swishavgift dragen april			295,50	
-A426	2019-04-23	2019-05-07	4522	Kostnader Kassï¿½rskvï¿½ll och Ordfï¿½randemï¿½ten	10		Kassï¿½rkvï¿½ll Pizza LP4		348,00		
-A426	2019-04-23	2019-05-07	1920	Bankkonto StyrIT	10		Kassï¿½rkvï¿½ll Pizza LP4			348,00	
-A427	2019-04-23	2019-05-07	1618	Fordringar Medlemmar	10		Insï¿½ttning profilering Omar SEN			1170,00	
-A427	2019-04-23	2019-05-07	1920	Bankkonto StyrIT	10		Insï¿½ttning profilering Omar SEN		1170,00		
-A428	2019-04-23	2019-05-07	4310	ï¿½skningar	10		FM - ï¿½skning Marbelympics		413,66		
-A428	2019-04-23	2019-05-07	2440	Leverantï¿½rsskulder	10		FM - ï¿½skning Marbelympics			413,66	
-A429	2019-04-23	2019-05-07	4242	Kostnader Aspning	10		MU - Lunch nya aspar		325,00		
-A429	2019-04-23	2019-05-07	2918	Skulder medlemmar	10		MU - Lunch nya aspar			325,00	
-A430	2019-04-24	2019-05-07	1920	Bankkonto StyrIT	10		iZettle Oklar		216,64		
-A430	2019-04-24	2019-05-07	2910	Skulder PRIT	10		iZettle Oklar			216,64	
-A431	2019-04-24	2019-05-07	2440	Leverantï¿½rsskulder	10		FM - GT tjï¿½nst			1750,00	
-A431	2019-04-24	2019-05-07	6572	Kostnader Bokfï¿½ringsprogram	10		FM - GT tjï¿½nst		1750,00		
-A432	2019-04-24	2019-05-07	4260	Revisorer Matbidrag	10		MU - Revisorer mat 4hx2 + Matbidrag 4hx2		90,00		
-A432	2019-04-24	2019-05-07	4273	Matbidrag sektionsarbete	10		MU - Revisorer mat 4hx2 + Matbidrag 4hx2		90,00		
-A432	2019-04-24	2019-05-07	2918	Skulder medlemmar	10		MU - Revisorer mat 4hx2 + Matbidrag 4hx2			180,00	
-A433	2019-04-25	2019-05-07	4510	Kostnader Intern Representation	10		MU - Teambuilding StyrIT 7st		630,00		
-A433	2019-04-25	2019-05-07	2918	Skulder medlemmar	10		MU - Teambuilding StyrIT 7st			630,00	
-A434	2019-04-30	2019-05-07	2911	Skulder sexIT	10		iZettle CM biljetter			10972,90	
-A434	2019-04-30	2019-05-07	1920	Bankkonto StyrIT	10		iZettle CM biljetter		10972,90		
-A435	2019-03-11	2019-05-07	1920	Bankkonto StyrIT	10		Lï¿½n tillbaka MRCIT		20000,00		
-A435	2019-03-11	2019-05-07	1616	Fordringar MRCIT	10		Lï¿½n tillbaka MRCIT			20000,00	
-A436	2019-04-30	2019-05-07	4310	ï¿½skningar	10		FM - ï¿½skning WB pennor		328,00		
-A436	2019-04-30	2019-05-07	2440	Leverantï¿½rsskulder	10		FM - ï¿½skning WB pennor			328,00	
-A437	2019-04-30	2019-05-07	2440	Leverantï¿½rsskulder	10		FM - Sunfleet April			3722,00	
-A437	2019-04-30	2019-05-07	5610	Kostnader bil	10		FM - Sunfleet April		909,25		
-A437	2019-04-30	2019-05-07	1611	Fordringar sexIT	10		FM - Sunfleet April		1899,25		
-A437	2019-04-30	2019-05-07	1610	Fordringar PRIT	10		FM - Sunfleet April		669,75		
-A437	2019-04-30	2019-05-07	1621	Fordringar Fanbï¿½rerIT	10		FM - Sunfleet April		243,75		
-A438	2019-05-02	2019-05-07	2918	Skulder medlemmar	10		MU - Aspning chillkvï¿½ll 2			807,17	
-A438	2019-05-02	2019-05-07	4242	Kostnader Aspning	10		MU - Aspning chillkvï¿½ll 2		807,17		
-A439	2019-05-04	2019-05-07	2918	Skulder medlemmar	10		MU - Valberedningsfika			138,00	
-A439	2019-05-04	2019-05-07	4270	Valberedningen Intervjuer	10		MU - Valberedningsfika		138,00		
-A440	2019-05-04	2019-05-07	2918	Skulder medlemmar	10		MU - ValleB 8hx4			360,00	
-A440	2019-05-04	2019-05-07	4271	Valberedningen Matbidrag	10		MU - ValleB 8hx4		360,00		
-A441	2019-05-04	2019-05-07	4270	Valberedningen Intervjuer	10		MU - ValleB fika		39,80		
-A441	2019-05-04	2019-05-07	2918	Skulder medlemmar	10		MU - ValleB fika			39,80	
-A442	2019-05-05	2019-05-07	4270	Valberedningen Intervjuer	10		MU - ValleB fika		54,00		
-A442	2019-05-05	2019-05-07	2918	Skulder medlemmar	10		MU - ValleB fika			54,00	
-A443	2019-05-05	2019-05-07	2918	Skulder medlemmar	10		MU - ValleB 4hx1 8hx1			125,00	
-A443	2019-05-05	2019-05-07	4271	Valberedningen Matbidrag	10		MU - ValleB 4hx1 8hx1		125,00		
-A444	2019-05-05	2019-05-07	2918	Skulder medlemmar	10		MU - ValleB 4hx1 8hx1			115,00	
-A444	2019-05-05	2019-05-07	4271	Valberedningen Matbidrag	10		MU - ValleB 4hx1 8hx1		115,00		
-A445	2019-05-06	2019-05-07	2918	Skulder medlemmar	10		MU - Jï¿½mlikhetsfika			361,10	
-A445	2019-05-06	2019-05-07	4299	Jï¿½mlikhetskonto	10		MU - Jï¿½mlikhetsfika		361,10		
-A446	2019-05-07	2019-05-07	3999	ï¿½vriga intï¿½kter	10		Insï¿½ttning ogiltiga sedlar			3660,00	
-A446	2019-05-07	2019-05-07	1920	Bankkonto StyrIT	10		Insï¿½ttning ogiltiga sedlar		3660,00		
-A447	2019-05-07	2019-05-07	1920	Bankkonto StyrIT	10		MB - ASpning + arbete Johan			1222,17	
-A447	2019-05-07	2019-05-07	2918	Skulder medlemmar	10		MB - ASpning + arbete Johan		1222,17		
-A448	2019-05-07	2019-05-07	1920	Bankkonto StyrIT	10		MB - Jï¿½mlikhetsfika			361,10	
-A448	2019-05-07	2019-05-07	2918	Skulder medlemmar	10		MB - Jï¿½mlikhetsfika		361,10		
-A449	2019-05-07	2019-05-07	1920	Bankkonto StyrIT	10		MB - Teambuilding 			25,00	
-A449	2019-05-07	2019-05-07	2918	Skulder medlemmar	10		MB - Teambuilding 		25,00		
-A450	2019-05-07	2019-05-07	1920	Bankkonto StyrIT	10		MB - Teambuilding			630,00	
-A450	2019-05-07	2019-05-07	2918	Skulder medlemmar	10		MB - Teambuilding		630,00		
-A451	2019-05-07	2019-05-07	1920	Bankkonto StyrIT	10		MB - Fika ValleB			39,80	
-A451	2019-05-07	2019-05-07	2918	Skulder medlemmar	10		MB - Fika ValleB		39,80		
-A452	2019-05-07	2019-05-07	1920	Bankkonto StyrIT	10		MB - Erik Jergeus			179,00	
-A452	2019-05-07	2019-05-07	2918	Skulder medlemmar	10		MB - Erik Jergeus		179,00		
-A453	2019-05-07	2019-05-07	1920	Bankkonto StyrIT	10		MB - fika ValleB			138,00	
-A453	2019-05-07	2019-05-07	2918	Skulder medlemmar	10		MB - fika ValleB		138,00		
-A454	2019-05-07	2019-05-24	1618	Fordringar Medlemmar	10		MB - Mat ValleB 		20,00		
-A454	2019-05-07	2019-05-24	1920	Bankkonto StyrIT	10		MB - Mat ValleB 			495,00	
-A454	2019-05-07	2019-05-24	2918	Skulder medlemmar	10		MB - Mat ValleB 		475,00		
-A455	2019-05-07	2019-05-07	1920	Bankkonto StyrIT	10		FB - Sunfleet April			3722,75	
-A455	2019-05-07	2019-05-07	2440	Leverantï¿½rsskulder	10		FB - Sunfleet April		3722,75		
-A456	2019-05-07	2019-05-07	1920	Bankkonto StyrIT	10		 FB - GT tjï¿½nst			1750,00	
-A456	2019-05-07	2019-05-07	2440	Leverantï¿½rsskulder	10		 FB - GT tjï¿½nst		1750,00		
-A457	2019-05-07	2019-05-07	1920	Bankkonto StyrIT	10		FB - ï¿½skning marbleympics			413,66	
-A457	2019-05-07	2019-05-07	2440	Leverantï¿½rsskulder	10		FB - ï¿½skning marbleympics		413,66		
-A458	2019-05-07	2019-05-07	1920	Bankkonto StyrIT	10		MB - revisorer mat och mat sektionsarbete			180,00	
-A458	2019-05-07	2019-05-07	2918	Skulder medlemmar	10		MB - revisorer mat och mat sektionsarbete		180,00		
-A459	2019-04-18	2019-05-23	2440	Leverantï¿½rsskulder	10		FB - Tryck Sektionshoodies		2331,00		
-A459	2019-04-18	2019-05-23	1920	Bankkonto StyrIT	10		FB - Tryck Sektionshoodies			2331,00	
-A460	2019-05-07	2019-05-23	2440	Leverantï¿½rsskulder	10		FB - WB pennor ï¿½skning		328,00		
-A460	2019-05-07	2019-05-23	1920	Bankkonto StyrIT	10		FB - WB pennor ï¿½skning			328,00	
-A461	2019-05-07	2019-05-27	2440	Leverantï¿½rsskulder	10		FM - Charlies bistro Tjejmiddag			2574,00	
-A461	2019-05-07	2019-05-27	4299	Jï¿½mlikhetskonto	10		FM - Charlies bistro Tjejmiddag		2574,00		
-A462	2019-05-08	2019-06-25	2440	Leverantï¿½rsskulder	10		FM - Bulten tjejmiddag			1500,00	
-A462	2019-05-08	2019-06-25	4299	Jï¿½mlikhetskonto	10		FM - Bulten tjejmiddag		1500,00		
-A463	2019-05-08	2019-06-25	4299	Jï¿½mlikhetskonto	10		Tjejmiddag frukt och annat		500,69		
-A463	2019-05-08	2019-06-25	1920	Bankkonto StyrIT	10		Tjejmiddag frukt och annat			500,69	
-A464	2019-05-08	2019-06-25	1920	Bankkonto StyrIT	10		MAt och kalas			2574,00	
-A464	2019-05-08	2019-06-25	4217	Kostnader Bulten	10		MAt och kalas		2574,00		
-A465	2019-05-09	2019-06-25	1920	Bankkonto StyrIT	10		CM FrTID		320,00		
-A465	2019-05-09	2019-06-25	2913	Skulder frITid	10		CM FrTID			320,00	
-A466	2019-05-10	2019-06-25	2440	Leverantï¿½rsskulder	10		FM - Kandidatmiddag sï¿½nghï¿½ften 2019			1746,00	
-A466	2019-05-10	2019-06-25	4211	Kostnader kandidatmiddag	10		FM - Kandidatmiddag sï¿½nghï¿½ften 2019		1746,00		
-A467	2019-05-14	2019-06-25	1920	Bankkonto StyrIT	10		Insï¿½ttning izettle tjemiddag + kaffeprovning		1380,97		
-A467	2019-05-14	2019-06-25	2921	Skulder Fanbï¿½rerIT	10		Insï¿½ttning izettle tjemiddag + kaffeprovning			711,17	
-A467	2019-05-14	2019-06-25	3217	Intï¿½kter Bulten	10		Insï¿½ttning izettle tjemiddag + kaffeprovning			669,80	
-A468	2019-05-16	2019-06-25	1920	Bankkonto StyrIT	10		ï¿½verfï¿½ring pengar frï¿½n armit		750000,00		
-A468	2019-05-16	2019-06-25	1925	Bankkonto armIT	30		ï¿½verfï¿½ring pengar frï¿½n armit			750000,00	
-A469	2019-05-16	2019-06-25	2918	Skulder medlemmar	10		MU - sektionsmï¿½tesfika LP4			349,10	
-A469	2019-05-16	2019-06-25	4330	Kostnader Sektionsmï¿½ten	10		MU - sektionsmï¿½tesfika LP4		349,10		
-A470	2019-05-17	2019-06-25	1920	Bankkonto StyrIT	10		Sektionsmï¿½tesgodis och presentkort LP4			386,10	
-A470	2019-05-17	2019-06-25	4330	Kostnader Sektionsmï¿½ten	10		Sektionsmï¿½tesgodis och presentkort LP4		386,10		
-A471	2019-05-18	2019-06-25	4211	Kostnader kandidatmiddag	10		FM - Kandidatmiddag 2019		84775,00		
-A471	2019-05-18	2019-06-25	2440	Leverantï¿½rsskulder	10		FM - Kandidatmiddag 2019			84775,00	
-A472	2019-05-20	2019-06-25	4310	ï¿½skningar	10		ï¿½skning klï¿½ttring fritid		1820,00		
-A472	2019-05-20	2019-06-25	1920	Bankkonto StyrIT	10		ï¿½skning klï¿½ttring fritid			1820,00	
-A473	2019-05-20	2019-06-25	4310	ï¿½skningar	10		ï¿½skning sushiprovning		440,00		
-A473	2019-05-20	2019-06-25	1920	Bankkonto StyrIT	10		ï¿½skning sushiprovning			420,00	
-A473	2019-05-20	2019-06-25	1618	Fordringar Medlemmar	10		ï¿½skning sushiprovning			20,00	
-A474	2019-05-20	2019-06-25	1920	Bankkonto StyrIT	10		MB - Sektionsmï¿½tesfika LP4			349,10	
-A474	2019-05-20	2019-06-25	2918	Skulder medlemmar	10		MB - Sektionsmï¿½tesfika LP4		349,10		
-A475	2019-05-20	2019-06-25	4520	Kostnader Fï¿½reningsutbildningar	10		Inkï¿½p EDMS lp4		65,85		
-A475	2019-05-20	2019-06-25	1920	Bankkonto StyrIT	10		Inkï¿½p EDMS lp4			65,85	
-A476	2019-05-20	2019-06-25	4520	Kostnader Fï¿½reningsutbildningar	10		Inkï¿½p mat EDMS lp4		1059,97		
-A476	2019-05-20	2019-06-25	1920	Bankkonto StyrIT	10		Inkï¿½p mat EDMS lp4			1059,97	
-A477	2019-05-20	2019-06-25	2440	Leverantï¿½rsskulder	10		FB - KM Sï¿½nghï¿½ften 2019		1746,00		
-A477	2019-05-20	2019-06-25	1920	Bankkonto StyrIT	10		FB - KM Sï¿½nghï¿½ften 2019			1746,00	
-A478	2019-05-20	2019-06-25	1920	Bankkonto StyrIT	10		FB- Tjejmiddag mat			2574,00	
-A478	2019-05-20	2019-06-25	2440	Leverantï¿½rsskulder	10		FB- Tjejmiddag mat		2574,00		
-A479	2019-05-20	2019-06-25	1920	Bankkonto StyrIT	10		FB - Bulten tjejmiddag			1500,00	
-A479	2019-05-20	2019-06-25	2440	Leverantï¿½rsskulder	10		FB - Bulten tjejmiddag		1500,00		
-A480	2019-05-20	2019-06-25	4535	Kostbnader SUS	10		Sus armit		200,00		
-A480	2019-05-20	2019-06-25	1920	Bankkonto StyrIT	10		Sus armit			200,00	
-A481	2019-05-20	2019-06-25	4520	Kostnader Fï¿½reningsutbildningar	10		Bowling EDMS LP4		1000,00		
-A481	2019-05-20	2019-06-25	1920	Bankkonto StyrIT	10		Bowling EDMS LP4			1000,00	
-A482	2019-05-21	2019-06-25	1920	Bankkonto StyrIT	10		iZettle Maj		10598,14		
-A482	2019-05-21	2019-06-25	3011	Fï¿½rsï¿½ljning sektionsprofilering	10		iZettle Maj			5673,60	
-A482	2019-05-21	2019-06-25	2910	Skulder PRIT	10		iZettle Maj			4924,54	
-A483	2019-05-22	2019-06-25	2910	Skulder PRIT	10		Prosex betalning prit		486,30		
-A483	2019-05-22	2019-06-25	1920	Bankkonto StyrIT	10		Prosex betalning prit			486,30	
-A484	2019-05-22	2019-06-25	1920	Bankkonto StyrIT	10		FB - KM 2019			84775,00	
-A484	2019-05-22	2019-06-25	2440	Leverantï¿½rsskulder	10		FB - KM 2019		84775,00		
-A485	2019-05-23	2019-06-25	4520	Kostnader Fï¿½reningsutbildningar	10		MU - Utbildning DPO		1115,00		
-A485	2019-05-23	2019-06-25	2918	Skulder medlemmar	10		MU - Utbildning DPO			1115,00	
-A486	2019-05-27	2019-06-25	1619	Fordringar PL	10		FS - PL hjï¿½lp och utbetalningar		40000,00		
-A486	2019-05-27	2019-06-25	3521	PL Stï¿½d	10		FS - PL hjï¿½lp och utbetalningar			40000,00	
-A487	2019-05-27	2019-06-25	2910	Skulder PRIT	10		ï¿½verfï¿½ring pengar PRIT		43103,95		
-A487	2019-05-27	2019-06-25	1920	Bankkonto StyrIT	10		ï¿½verfï¿½ring pengar PRIT			43103,95	
-A488	2019-05-28	2019-06-25	4522	Kostnader Kassï¿½rskvï¿½ll och Ordfï¿½randemï¿½ten	10		Ordfmï¿½te LP4		82,00		
-A488	2019-05-28	2019-06-25	1920	Bankkonto StyrIT	10		Ordfmï¿½te LP4			82,00	
-A489	2019-05-28	2019-06-25	4522	Kostnader Kassï¿½rskvï¿½ll och Ordfï¿½randemï¿½ten	10		Ordfmï¿½te lp4 mer		154,00		
-A489	2019-05-28	2019-06-25	1920	Bankkonto StyrIT	10		Ordfmï¿½te lp4 mer			154,00	
-A490	2019-05-28	2019-06-25	4010	Inkï¿½p material och varor	10		Bord till hubben		9779,00		
-A490	2019-05-28	2019-06-25	1920	Bankkonto StyrIT	10		Bord till hubben			9779,00	
-A491	2019-05-28	2019-06-25	6572	Kostnader Bokfï¿½ringsprogram	10		FM - GT tjï¿½nst LP4		3013,00		
-A491	2019-05-28	2019-06-25	2440	Leverantï¿½rsskulder	10		FM - GT tjï¿½nst LP4			3013,00	
-A492	2019-05-28	2019-06-25	4212	Kostnader Avtackningar	10		Tï¿½rta till tï¿½rtkalas		1685,00		
-A492	2019-05-28	2019-06-25	1920	Bankkonto StyrIT	10		Tï¿½rta till tï¿½rtkalas			1685,00	
-A493	2019-05-28	2019-06-25	4212	Kostnader Avtackningar	10		Fï¿½rbrukning tï¿½rtkalas		76,90		
-A493	2019-05-28	2019-06-25	1920	Bankkonto StyrIT	10		Fï¿½rbrukning tï¿½rtkalas			76,90	
-A494	2019-05-29	2019-06-25	1510	Kundfordringar	10		FS - Marknadsfï¿½ringsbidrag bulten		2979,35		
-A494	2019-05-29	2019-06-25	3217	Intï¿½kter Bulten	10		FS - Marknadsfï¿½ringsbidrag bulten			2383,48	
-A494	2019-05-29	2019-06-25	2611	Utgï¿½ende moms pï¿½ fï¿½rsï¿½ljning inom Sverige 25%	10		FS - Marknadsfï¿½ringsbidrag bulten			595,87	
-A495	2019-05-29	2019-06-25	1510	Kundfordringar	10		FS - Google pengar		18400,00		
-A495	2019-05-29	2019-06-25	3999	ï¿½vriga intï¿½kter	10		FS - Google pengar			18400,00	
-A496	2019-05-31	2019-06-25	4511	Kostnader Extern Representation	10		Mï¿½te med inspektor LP4		1110,00		
-A496	2019-05-31	2019-06-25	1920	Bankkonto StyrIT	10		Mï¿½te med inspektor LP4			1110,00	
-A497	2019-05-31	2019-06-25	4212	Kostnader Avtackningar	10		Avtackning kommittï¿½er		1429,99		
-A497	2019-05-31	2019-06-25	1920	Bankkonto StyrIT	10		Avtackning kommittï¿½er			1429,99	
-A498	2019-05-31	2019-06-25	2440	Leverantï¿½rsskulder	10		FM - sunfleet Maj			1459,25	
-A498	2019-05-31	2019-06-25	5610	Kostnader bil	10		FM - sunfleet Maj		625,00		
-A498	2019-05-31	2019-06-25	1610	Fordringar PRIT	10		FM - sunfleet Maj		834,25		
-A499	2019-06-02	2019-06-25	2918	Skulder medlemmar	10		MU - ï¿½verlï¿½mning mat			1094,77	
-A499	2019-06-02	2019-06-25	4241	Kostnader ï¿½verlï¿½mningar	10		MU - ï¿½verlï¿½mning mat		1094,77		
-A500	2019-06-02	2019-06-25	4241	Kostnader ï¿½verlï¿½mningar	10		ï¿½verlï¿½mning liseberg		1660,00		
-A500	2019-06-02	2019-06-25	1920	Bankkonto StyrIT	10		ï¿½verlï¿½mning liseberg			1660,00	
-A501	2019-06-04	2019-06-25	2921	Skulder Fanbï¿½rerIT	10		iZettle 			916,03	
-A501	2019-06-04	2019-06-25	1920	Bankkonto StyrIT	10		iZettle 		916,03		
-A502	2019-06-10	2019-06-25	1920	Bankkonto StyrIT	10		SnIT felbetalning		3000,00		
-A502	2019-06-10	2019-06-25	1928	Bankkonto snIT	90		SnIT felbetalning			3000,00	
-A503	2019-06-24	2019-06-25	1920	Bankkonto StyrIT	10		Insï¿½ttning pengar NollKIT		115000,00		
-A503	2019-06-24	2019-06-25	2912	Skulder NollKIT	10		Insï¿½ttning pengar NollKIT			115000,00	
-A504	2019-06-25	2019-06-26	1920	Bankkonto StyrIT	10		FB - Sunfleet Maj			1459,25	
-A504	2019-06-25	2019-06-26	2440	Leverantï¿½rsskulder	10		FB - Sunfleet Maj		1459,25		
-A505	2019-06-25	2019-06-26	1920	Bankkonto StyrIT	10		FB - Bokfï¿½ringtjï¿½nst LP4			3013,00	
-A505	2019-06-25	2019-06-26	2440	Leverantï¿½rsskulder	10		FB - Bokfï¿½ringtjï¿½nst LP4		3013,00		
-A506	2019-06-25	2019-06-26	4213	Kostnader Serveringstillstï¿½nd	10		Serveringstillstï¿½nd mottagning 2019		700,00		
-A506	2019-06-25	2019-06-26	1920	Bankkonto StyrIT	10		Serveringstillstï¿½nd mottagning 2019			700,00	
-A507	2019-06-25	2019-06-26	1920	Bankkonto StyrIT	10		MB - Mat DPO utbildning			1115,00	
-A507	2019-06-25	2019-06-26	2918	Skulder medlemmar	10		MB - Mat DPO utbildning		1115,00		
-A508	2019-06-25	2019-06-26	1920	Bankkonto StyrIT	10		MB - Mat ï¿½verlï¿½mning styrit			1094,77	
-A508	2019-06-25	2019-06-26	2918	Skulder medlemmar	10		MB - Mat ï¿½verlï¿½mning styrit		1094,77		
-A509	2019-06-25	2019-06-26	2914	Skulder armIT	10		Skulder armit		1295,00		
-A509	2019-06-25	2019-06-26	1920	Bankkonto StyrIT	10		Skulder armit			1295,00	
-A510	2019-06-25	2019-06-26	2911	Skulder sexIT	10		Skulder sexit		18223,80		
-A510	2019-06-25	2019-06-26	1920	Bankkonto StyrIT	10		Skulder sexit			18223,80	
-A511	2019-06-25	2019-06-26	1924	Bankkonto FrITid	60		Felbetalning fritid			3000,00	
-A511	2019-06-25	2019-06-26	1920	Bankkonto StyrIT	10		Felbetalning fritid		3000,00		
-A512	2019-06-25	2019-06-26	2912	Skulder NollKIT	10		Skulder nollkit		121237,10		
-A512	2019-06-25	2019-06-26	1920	Bankkonto StyrIT	10		Skulder nollkit			121237,10	
-A513	2019-06-25	2019-06-26	2913	Skulder frITid	10		Skulder fritid		2400,00		
-A513	2019-06-25	2019-06-26	1920	Bankkonto StyrIT	10		Skulder fritid			2400,00	
-A514	2019-06-25	2019-06-26	4273	Matbidrag sektionsarbete	10		Mat arbete omar 8h		90,00		
-A514	2019-06-25	2019-06-26	1920	Bankkonto StyrIT	10		Mat arbete omar 8h			90,00	
-A515	2019-06-26	2019-06-26	1920	Bankkonto StyrIT	10		Mat arbete omar 8h			85,00	
-A515	2019-06-26	2019-06-26	4273	Matbidrag sektionsarbete	10		Mat arbete omar 8h		85,00		
-A516	2019-06-27	2019-06-28	4273	Matbidrag sektionsarbete	10		MU - Matarbete omar 4h		45,00		
-A516	2019-06-27	2019-06-28	2918	Skulder medlemmar	10		MU - Matarbete omar 4h			45,00	
-A517	2019-06-27	2019-06-28	1920	Bankkonto StyrIT	10		FI - PL faktura		45495,00		
-A517	2019-06-27	2019-06-28	1619	Fordringar PL	10		FI - PL faktura			45495,00	
-A518	2019-06-28	2019-06-28	1621	Fordringar Fanbï¿½rerIT	10		Sunfleet fanbï¿½rerit			243,75	
-A518	2019-06-28	2019-06-28	1920	Bankkonto StyrIT	10		Sunfleet fanbï¿½rerit		243,75		
-A519	2019-06-28	2019-06-28	1610	Fordringar PRIT	10		Sunfleet prit			3639,00	
-A519	2019-06-28	2019-06-28	1920	Bankkonto StyrIT	10		Sunfleet prit		3639,00		
-A520	2019-06-28	2019-06-28	1611	Fordringar sexIT	10		Sunfleet sexit			2807,75	
-A520	2019-06-28	2019-06-28	1920	Bankkonto StyrIT	10		Sunfleet sexit		2807,75		
-A521	2019-06-28	2019-06-28	1920	Bankkonto StyrIT	10		Sektionsavgifter och marknadsfï¿½ringsbidrag		28219,35		
-A521	2019-06-28	2019-06-28	1510	Kundfordringar	10		Sektionsavgifter och marknadsfï¿½ringsbidrag			2979,35	
-A521	2019-06-28	2019-06-28	3270	Sektionsavgifter	10		Sektionsavgifter och marknadsfï¿½ringsbidrag			25240,00	
-A522	2019-06-28	2019-06-28	2918	Skulder medlemmar	10		MB - Matarbete omar 4h		45,00		
-A522	2019-06-28	2019-06-28	1920	Bankkonto StyrIT	10		MB - Matarbete omar 4h			45,00	
-A523	2019-06-28	2019-06-28	1920	Bankkonto StyrIT	10		ï¿½verfï¿½ring swish		50061,80		
-A523	2019-06-28	2019-06-28	1930	Bankkonto Swish	10		ï¿½verfï¿½ring swish			50061,80	
-A524	2019-05-21	2019-07-09	2440	Leverantï¿½rsskulder	10		FM - Sektionsmï¿½tesmat LP4			3400,00	
-A524	2019-05-21	2019-07-09	4331	Kostnader Sektionsmï¿½tesmat	10		FM - Sektionsmï¿½tesmat LP4		3400,00		
-A525	2019-06-28	2019-07-09	1920	Bankkonto StyrIT	10		FB - Sektionsmï¿½tesmat LP4			3400,00	
-A525	2019-06-28	2019-07-09	2440	Leverantï¿½rsskulder	10		FB - Sektionsmï¿½tesmat LP4		3400,00		
-A526	2019-06-28	2019-07-09	6110	Kontorsmaterial	10		PQ omar		300,00		
-A526	2019-06-28	2019-07-09	1920	Bankkonto StyrIT	10		PQ omar			300,00	
-A527	2019-06-28	2019-07-09	1920	Bankkonto StyrIT	10		ï¿½verfï¿½ring fond			330000,00	
-A527	2019-06-28	2019-07-09	1940	Placeringskonto	10		ï¿½verfï¿½ring fond		330000,00		
-A528	2019-06-30	2019-07-09	2440	Leverantï¿½rsskulder	10		FM - Sunfleet Juni			1930,75	
-A528	2019-06-30	2019-07-09	5610	Kostnader bil	10		FM - Sunfleet Juni		625,00		
-A528	2019-06-30	2019-07-09	1610	Fordringar PRIT	10		FM - Sunfleet Juni		1305,75		
-A529	2019-06-30	2019-07-09	6571	Fï¿½rsï¿½kringar	10		FM - Fï¿½rsï¿½kring		1200,00		
-A529	2019-06-30	2019-07-09	2440	Leverantï¿½rsskulder	10		FM - Fï¿½rsï¿½kring			1200,00	
+Vernr	Bokföringsdatum	Registreringsdatum	Konto	Benämning	Ks	Projnr	Verifikationstext	Transaktionsinfo	Debet	Kredit	
+A1	2019-07-01	2019-09-16	6110	Kontorsmaterial	10		PQ Omar		300,00		
+A1	2019-07-01	2019-09-16	1920	Bankkonto StyrIT	10		PQ Omar			300,00	
+A2	2019-07-09	2019-09-16	2918	Skulder medlemmar	10		MU - Mat 4H (Ouei/Tubas)			85,00	
+A2	2019-07-09	2019-09-16	4273	Matbidrag sektionsarbete	10		MU - Mat 4H (Ouei/Tubas)		85,00		
+A3	2019-07-16	2019-09-16	6572	Kostnader Bokföringsprogram	10		FM - Grant Thornton 19-07		1856,00		
+A3	2019-07-16	2019-09-16	2440	Leverantörsskulder	10		FM - Grant Thornton 19-07			1856,00	
+A4	2019-07-27	2019-09-16	4510	Kostnader Intern Representation	10		MU - StyrIT Teambuilding 1		720,00		
+A4	2019-07-27	2019-09-16	2918	Skulder medlemmar	10		MU - StyrIT Teambuilding 1			720,00	
+A5	2019-07-27	2019-09-16	2918	Skulder medlemmar	10		MU - StyrIT Teambuilding 2			664,87	
+A5	2019-07-27	2019-09-16	4510	Kostnader Intern Representation	10		MU - StyrIT Teambuilding 2		664,87		
+A6	2019-07-28	2019-09-16	2918	Skulder medlemmar	10		MU - StyrIT Teambuilding 2 Veganmat			65,90	
+A6	2019-07-28	2019-09-16	4510	Kostnader Intern Representation	10		MU - StyrIT Teambuilding 2 Veganmat		65,90		
+A7	2019-07-30	2019-09-16	1920	Bankkonto StyrIT	10		FB - Sunfleet Juni			1930,75	
+A7	2019-07-30	2019-09-16	2440	Leverantörsskulder	10		FB - Sunfleet Juni		1930,75		
+A8	2019-07-30	2019-09-16	2440	Leverantörsskulder	10		FB - Försäkring		1200,00		
+A8	2019-07-30	2019-09-16	1920	Bankkonto StyrIT	10		FB - Försäkring			1200,00	
+A9	2019-07-30	2019-09-16	2440	Leverantörsskulder	10		FB - Grant Thornton 19-07		1856,00		
+A9	2019-07-30	2019-09-16	1920	Bankkonto StyrIT	10		FB - Grant Thornton 19-07			1856,00	
+A10	2019-07-31	2019-09-16	5610	Kostnader bil	10		FM - Sunfleet Juli		625,00		
+A10	2019-07-31	2019-09-16	2440	Leverantörsskulder	10		FM - Sunfleet Juli			625,00	
+A11	2019-08-06	2019-09-18	4310	Äskningar	10		IFM - NollKIT Äskning Första Hjälpen		698,00		
+A11	2019-08-06	2019-09-18	2912	Skulder NollKIT	10		IFM - NollKIT Äskning Första Hjälpen			698,00	
+A12	2019-08-07	2019-09-16	4510	Kostnader Intern Representation	10		MU - StyrIT Teambuilding 3		430,00		
+A12	2019-08-07	2019-09-16	2918	Skulder medlemmar	10		MU - StyrIT Teambuilding 3			430,00	
+A13	2019-08-09	2019-09-16	2440	Leverantörsskulder	10		FM - Hoodies StyrIT 19/20			5405,00	
+A13	2019-08-09	2019-09-16	5920	Profilkläder och material	10		FM - Hoodies StyrIT 19/20		4800,00		
+A13	2019-08-09	2019-09-16	1618	Fordringar Medlemmar	10		FM - Hoodies StyrIT 19/20		605,00		
+A14	2019-08-14	2019-09-16	2912	Skulder NollKIT	10		IFB - NollKIT Äskning Första Hjälpen		698,00		
+A14	2019-08-14	2019-09-16	1920	Bankkonto StyrIT	10		IFB - NollKIT Äskning Första Hjälpen			698,00	
+A15	2019-08-17	2019-09-16	2918	Skulder medlemmar	10		MU - Sektionsteambuilding tacos			1105,42	
+A15	2019-08-17	2019-09-16	4520	Kostnader Föreningsutbildningar	10		MU - Sektionsteambuilding tacos		1105,42		
+A16	2019-08-17	2019-09-16	4520	Kostnader Föreningsutbildningar	10		MU - Sektionsteambuilding brunch		976,83		
+A16	2019-08-17	2019-09-16	2918	Skulder medlemmar	10		MU - Sektionsteambuilding brunch			976,83	
+A17	2019-08-18	2019-09-16	1920	Bankkonto StyrIT	10		Lån Rustbidrag P.R.I.T.			35000,00	
+A17	2019-08-18	2019-09-16	1610	Fordringar PRIT	10		Lån Rustbidrag P.R.I.T.		35000,00		
+A18	2019-08-19	2019-09-16	1920	Bankkonto StyrIT	10		Sunfleet juni PRIT		1305,75		
+A18	2019-08-19	2019-09-16	1610	Fordringar PRIT	10		Sunfleet juni PRIT			1305,75	
+A19	2019-08-19	2019-09-16	4310	Äskningar	10		MU - FikIT äskning Chokladbollar  Liten		217,60		
+A19	2019-08-19	2019-09-16	2918	Skulder medlemmar	10		MU - FikIT äskning Chokladbollar  Liten			217,60	
+A20	2019-08-19	2019-09-16	2918	Skulder medlemmar	10		MU - FikIT äskning Chokladbollar Hoidi			23,90	
+A20	2019-08-19	2019-09-16	4310	Äskningar	10		MU - FikIT äskning Chokladbollar Hoidi		23,90		
+A21	2019-08-19	2019-09-16	6120	Telefonkostnader	10		MU - Simkort Jourtelefon StyrIT		149,00		
+A21	2019-08-19	2019-09-16	2918	Skulder medlemmar	10		MU - Simkort Jourtelefon StyrIT			149,00	
+A22	2019-08-20	2019-09-16	2440	Leverantörsskulder	10		FM - Ledarskapsföreläsning Sektionsteambuilding			6250,00	
+A22	2019-08-20	2019-09-16	4520	Kostnader Föreningsutbildningar	10		FM - Ledarskapsföreläsning Sektionsteambuilding		6250,00		
+A23	2019-08-27	2019-09-16	1920	Bankkonto StyrIT	10		IZettle inbetalning MV1		43042,19		
+A23	2019-08-27	2019-09-16	2912	Skulder NollKIT	10		IZettle inbetalning MV1			40466,43	
+A23	2019-08-27	2019-09-16	2913	Skulder frITid	10		IZettle inbetalning MV1			1241,10	
+A23	2019-08-27	2019-09-16	2911	Skulder sexIT	10		IZettle inbetalning MV1			1334,66	
+A24	2019-08-28	2019-09-16	2440	Leverantörsskulder	10		FM - Grant Thornton 19-08			1856,00	
+A24	2019-08-28	2019-09-16	6572	Kostnader Bokföringsprogram	10		FM - Grant Thornton 19-08		1856,00		
+A25	2019-08-28	2019-09-17	2918	Skulder medlemmar	10		MU - 8/4H Revisorer + Latte			190,00	
+A25	2019-08-28	2019-09-17	4273	Matbidrag sektionsarbete	10		MU - 8/4H Revisorer + Latte		76,00		
+A25	2019-08-28	2019-09-17	4260	Revisorer Matbidrag	10		MU - 8/4H Revisorer + Latte		114,00		
+A26	2019-08-28	2019-09-16	1920	Bankkonto StyrIT	10		IZettle Nollanlunch frITid			1241,10	
+A26	2019-08-28	2019-09-16	2913	Skulder frITid	10		IZettle Nollanlunch frITid		1241,10		
+A27	2019-08-30	2019-09-16	2440	Leverantörsskulder	10		FB - Sunfleet Juli		625,00		
+A27	2019-08-30	2019-09-16	1920	Bankkonto StyrIT	10		FB - Sunfleet Juli			625,00	
+A28	2019-08-30	2019-09-16	6571	Försäkringar	10		Försäkring Hubben		3109,00		
+A28	2019-08-30	2019-09-16	1920	Bankkonto StyrIT	10		Försäkring Hubben			3109,00	
+A29	2019-09-03	2019-09-16	2440	Leverantörsskulder	10		FB - Ledarskapsutbildning		6250,00		
+A29	2019-09-03	2019-09-16	1920	Bankkonto StyrIT	10		FB - Ledarskapsutbildning			6250,00	
+A30	2019-09-03	2019-09-16	1920	Bankkonto StyrIT	10		IZettle Inbetalning MV2		25398,25		
+A30	2019-09-03	2019-09-16	2912	Skulder NollKIT	10		IZettle Inbetalning MV2			22818,15	
+A30	2019-09-03	2019-09-16	2910	Skulder PRIT	10		IZettle Inbetalning MV2			2580,10	
+A31	2019-09-04	2019-09-16	1920	Bankkonto StyrIT	10		IZettle P.R.I.T. Våfflor Tivoli			1595,29	
+A31	2019-09-04	2019-09-16	2910	Skulder PRIT	10		IZettle P.R.I.T. Våfflor Tivoli		1595,29		
+A32	2019-09-04	2019-09-16	2910	Skulder PRIT	10		IZettle P.R.I.T. Nollanlunch		984,81		
+A32	2019-09-04	2019-09-16	1920	Bankkonto StyrIT	10		IZettle P.R.I.T. Nollanlunch			984,81	
+A33	2019-09-04	2019-09-16	2915	Skulder digIT	10		IZettle Nollanlunch digIT		1260,80		
+A33	2019-09-04	2019-09-16	1920	Bankkonto StyrIT	10		IZettle Nollanlunch digIT			1260,80	
+A34	2019-09-05	2019-09-16	2918	Skulder medlemmar	10		MU - Sektionsmöte 0 Mat Yeti			4420,00	
+A34	2019-09-05	2019-09-16	4331	Kostnader Sektionsmötesmat	10		MU - Sektionsmöte 0 Mat Yeti		4420,00		
+A35	2019-09-05	2019-09-16	2918	Skulder medlemmar	10		MU - Sektionsmöte 0 Extra Mat Putte			660,00	
+A35	2019-09-05	2019-09-16	4331	Kostnader Sektionsmötesmat	10		MU - Sektionsmöte 0 Extra Mat Putte		660,00		
+A36	2019-09-06	2019-09-16	1920	Bankkonto StyrIT	10		FB - Hoodies StyrIT 19/20			5405,00	
+A36	2019-09-06	2019-09-16	2440	Leverantörsskulder	10		FB - Hoodies StyrIT 19/20		5405,00		
+A37	2019-09-09	2019-09-16	1920	Bankkonto StyrIT	10		frITid lån innan budget			15000,00	
+A37	2019-09-09	2019-09-16	1613	Fordringar frITid	10		frITid lån innan budget		15000,00		
+A38	2019-09-10	2019-09-16	6572	Kostnader Bokföringsprogram	10		FM - Grant Thornton 19-09		2356,00		
+A38	2019-09-10	2019-09-16	2440	Leverantörsskulder	10		FM - Grant Thornton 19-09			2356,00	
+A39	2019-09-10	2019-09-16	1920	Bankkonto StyrIT	10		IZettle Inbetalning MV3		34197,30		
+A39	2019-09-10	2019-09-16	2912	Skulder NollKIT	10		IZettle Inbetalning MV3			8387,27	
+A39	2019-09-10	2019-09-16	2910	Skulder PRIT	10		IZettle Inbetalning MV3			24549,23	
+A39	2019-09-10	2019-09-16	2915	Skulder digIT	10		IZettle Inbetalning MV3			1260,80	
+A40	2019-09-12	2019-09-16	1920	Bankkonto StyrIT	10		Inköp Pärm styrIT 19/20			59,80	
+A40	2019-09-12	2019-09-16	6110	Kontorsmaterial	10		Inköp Pärm styrIT 19/20		59,80		
+A41	2019-09-12	2019-09-16	1920	Bankkonto StyrIT	10		FB - Grant Thornton 19-08			1856,00	
+A41	2019-09-12	2019-09-16	2440	Leverantörsskulder	10		FB - Grant Thornton 19-08		1856,00		
+A42	2019-09-12	2019-09-16	1920	Bankkonto StyrIT	10		MB - Sektionsteambuilding brunch			976,83	
+A42	2019-09-12	2019-09-16	2918	Skulder medlemmar	10		MB - Sektionsteambuilding brunch		976,83		
+A43	2019-09-12	2019-09-16	1920	Bankkonto StyrIT	10		MB - Simkort Jourtelefon StyrIT			149,00	
+A43	2019-09-12	2019-09-16	2918	Skulder medlemmar	10		MB - Simkort Jourtelefon StyrIT		149,00		
+A44	2019-09-12	2019-09-16	1920	Bankkonto StyrIT	10		MB - StyrIT Teambuilding 1 Erik FEL			834,00	
+A44	2019-09-12	2019-09-16	2918	Skulder medlemmar	10		MB - StyrIT Teambuilding 1 Erik FEL		540,00		
+A44	2019-09-12	2019-09-16	1618	Fordringar Medlemmar	10		MB - StyrIT Teambuilding 1 Erik FEL		294,00		
+A45	2019-09-12	2019-09-16	1920	Bankkonto StyrIT	10		MB - StyrIT Teambuilding 2			664,87	
+A45	2019-09-12	2019-09-16	2918	Skulder medlemmar	10		MB - StyrIT Teambuilding 2		664,87		
+A46	2019-09-12	2019-09-16	1920	Bankkonto StyrIT	10		MB - FikIT äskning Chokladbollar Liten			217,60	
+A46	2019-09-12	2019-09-16	2918	Skulder medlemmar	10		MB - FikIT äskning Chokladbollar Liten		217,60		
+A47	2019-09-12	2019-09-16	2918	Skulder medlemmar	10		MB - FikIT äskning Chokladbollar Hoidi		23,90		
+A47	2019-09-12	2019-09-16	1920	Bankkonto StyrIT	10		MB - FikIT äskning Chokladbollar Hoidi			23,90	
+A48	2019-09-12	2019-09-16	1920	Bankkonto StyrIT	10		MB - Sektionsteambuilding tacos			1105,42	
+A48	2019-09-12	2019-09-16	2918	Skulder medlemmar	10		MB - Sektionsteambuilding tacos		1105,42		
+A49	2019-09-12	2019-09-16	1920	Bankkonto StyrIT	10		MB - Sektionsmöte 0 Extra Mat Putte			660,00	
+A49	2019-09-12	2019-09-16	2918	Skulder medlemmar	10		MB - Sektionsmöte 0 Extra Mat Putte		660,00		
+A50	2019-09-12	2019-09-16	1920	Bankkonto StyrIT	10		MB - 8/4H Revisorer + Latte			190,00	
+A50	2019-09-12	2019-09-16	2918	Skulder medlemmar	10		MB - 8/4H Revisorer + Latte		190,00		
+A51	2019-09-12	2019-09-16	1920	Bankkonto StyrIT	10		MB - StyrIT Teambuilding 3			430,00	
+A51	2019-09-12	2019-09-16	2918	Skulder medlemmar	10		MB - StyrIT Teambuilding 3		430,00		
+A52	2019-09-12	2019-09-16	1920	Bankkonto StyrIT	10		MB - Mat 4H (Ouei/Tubas)			85,00	
+A52	2019-09-12	2019-09-16	2918	Skulder medlemmar	10		MB - Mat 4H (Ouei/Tubas)		85,00		
+A53	2019-09-12	2019-09-16	1920	Bankkonto StyrIT	10		MB - Styrit Teambuilding 1 Li FEl			139,00	
+A53	2019-09-12	2019-09-16	1618	Fordringar Medlemmar	10		MB - Styrit Teambuilding 1 Li FEl		49,00		
+A53	2019-09-12	2019-09-16	2918	Skulder medlemmar	10		MB - Styrit Teambuilding 1 Li FEl		90,00		
+A54	2019-09-13	2019-09-16	1920	Bankkonto StyrIT	10		Bokföring Mat 2x4H Erik & William			90,00	
+A54	2019-09-13	2019-09-16	4273	Matbidrag sektionsarbete	10		Bokföring Mat 2x4H Erik & William		90,00		
+A55	2019-08-31	2019-09-22	2440	Leverantörsskulder	10		FM - Sunfleet Augusti			2150,00	
+A55	2019-08-31	2019-09-22	1610	Fordringar PRIT	10		FM - Sunfleet Augusti		352,00		
+A55	2019-08-31	2019-09-22	5610	Kostnader bil	10		FM - Sunfleet Augusti		625,00		
+A55	2019-08-31	2019-09-22	1612	Fordringar NollKIT	10		FM - Sunfleet Augusti		1173,00		
+A56	2019-09-14	2019-09-19	2918	Skulder medlemmar	10		MU - Mat Sektionsarbete 5x4H (S, Y, G, V, N)			201,05	
+A56	2019-09-14	2019-09-19	4273	Matbidrag sektionsarbete	10		MU - Mat Sektionsarbete 5x4H (S, Y, G, V, N)		81,45		
+A56	2019-09-14	2019-09-19	4273	Matbidrag sektionsarbete	10		MU - Mat Sektionsarbete 5x4H (S, Y, G, V, N)		119,60		
+A57	2019-09-16	2019-10-09	2440	Leverantörsskulder	10		MU - Aspinfo fika DPO/Revisorer/Kand. Middag			78,60	
+A57	2019-09-16	2019-10-09	4242	Kostnader Aspning	10		MU - Aspinfo fika DPO/Revisorer/Kand. Middag		78,60		
+A58	2019-09-17	2019-09-19	2918	Skulder medlemmar	10		MU - ValleB Överlämning			1575,00	
+A58	2019-09-17	2019-09-19	4241	Kostnader överlämningar	10		MU - ValleB Överlämning		1575,00		
+A59	2019-09-17	2019-09-19	2918	Skulder medlemmar	10		MU - Fika Ordf. Möte LP1			166,85	
+A59	2019-09-17	2019-09-19	4522	Kostnader Kassörskväll och Ordförandemöten	10		MU - Fika Ordf. Möte LP1		166,85		
+A60	2019-09-17	2019-09-19	2918	Skulder medlemmar	10		MU - Sektionsarbete 4h NaN			45,00	
+A60	2019-09-17	2019-09-19	4273	Matbidrag sektionsarbete	10		MU - Sektionsarbete 4h NaN		45,00		
+A61	2019-09-17	2019-09-19	2918	Skulder medlemmar	10		MB - Sektionsmöte 0 Mat Yeti		4420,00		
+A61	2019-09-17	2019-09-19	1920	Bankkonto StyrIT	10		MB - Sektionsmöte 0 Mat Yeti			4420,00	
+A62	2019-09-17	2019-09-19	1920	Bankkonto StyrIT	10		Kunskapsprov Ordförande			1300,00	
+A62	2019-09-17	2019-09-19	4521	Kostnader Kunskapsprov Ordförande	10		Kunskapsprov Ordförande		1300,00		
+A63	2019-09-17	2019-09-19	1920	Bankkonto StyrIT	10		IZettle Inbetalning MV4		15488,51		
+A63	2019-09-17	2019-09-19	2910	Skulder PRIT	10		IZettle Inbetalning MV4			1816,93	
+A63	2019-09-17	2019-09-19	2912	Skulder NollKIT	10		IZettle Inbetalning MV4			10642,78	
+A63	2019-09-17	2019-09-19	2914	Skulder armIT	10		IZettle Inbetalning MV4			531,83	
+A63	2019-09-17	2019-09-19	2921	Skulder FanbärerIT	10		IZettle Inbetalning MV4			2496,97	
+A64	2019-09-17	2019-09-19	1920	Bankkonto StyrIT	10		IZettle Utb. NollKIT Hela Mottagningen			82314,63	
+A64	2019-09-17	2019-09-19	2912	Skulder NollKIT	10		IZettle Utb. NollKIT Hela Mottagningen		82314,63		
+A65	2019-09-18	2019-10-04	1920	Bankkonto StyrIT	10		Digit Budget Extra 1			25040,00	
+A65	2019-09-18	2019-10-04	1926	Bankkonto digIT	70		Digit Budget Extra 1		25040,00		
+A66	2019-09-18	2019-09-19	1920	Bankkonto StyrIT	10		Serveringstillstånd LP1			800,00	
+A66	2019-09-18	2019-09-19	4213	Kostnader Serveringstillstånd	10		Serveringstillstånd LP1		800,00		
+A67	2019-09-19	2019-09-30	2918	Skulder medlemmar	10		MU - Mat Kassörskväll LP1			720,00	
+A67	2019-09-19	2019-09-30	4522	Kostnader Kassörskväll och Ordförandemöten	10		MU - Mat Kassörskväll LP1		720,00		
+A68	2019-09-21	2019-09-30	2918	Skulder medlemmar	10		MU - Kunskapsprov Utbildning			618,75	
+A68	2019-09-21	2019-09-30	4521	Kostnader Kunskapsprov Ordförande	10		MU - Kunskapsprov Utbildning		618,75		
+A69	2019-09-23	2019-09-30	2910	Skulder PRIT	10		IZettle Utbetalning PRIT Mottagningen		26366,16		
+A69	2019-09-23	2019-09-30	1920	Bankkonto StyrIT	10		IZettle Utbetalning PRIT Mottagningen			26366,16	
+A70	2019-09-23	2019-09-30	2911	Skulder sexIT	10		IZettle Utbetalning SexIT Sittning		1334,66		
+A70	2019-09-23	2019-09-30	1920	Bankkonto StyrIT	10		IZettle Utbetalning SexIT Sittning			1334,66	
+A71	2019-09-23	2019-10-09	2918	Skulder medlemmar	10		MU - DPO Aspning 2			425,00	
+A71	2019-09-23	2019-10-09	4242	Kostnader Aspning	10		MU - DPO Aspning 2		425,00		
+A72	2019-09-24	2019-09-30	2918	Skulder medlemmar	10		MU - Engagemangsmässa Dryck & Fika			1211,70	
+A72	2019-09-24	2019-09-30	4210	Kostnader arrangemang	10		MU - Engagemangsmässa Dryck & Fika		1211,70		
+A73	2019-09-24	2019-09-30	1920	Bankkonto StyrIT	10		IZettle Inbetalning Pins		206,85		
+A73	2019-09-24	2019-09-30	2921	Skulder FanbärerIT	10		IZettle Inbetalning Pins			206,85	
+A74	2019-09-25	2019-09-30	2440	Leverantörsskulder	10		FB - Grant Thornton 19-09		2356,00		
+A74	2019-09-25	2019-09-30	1920	Bankkonto StyrIT	10		FB - Grant Thornton 19-09			2356,00	
+A75	2019-09-25	2019-09-30	1920	Bankkonto StyrIT	10		Mat Engagemangsmässa			4840,00	
+A75	2019-09-25	2019-09-30	4210	Kostnader arrangemang	10		Mat Engagemangsmässa		4840,00		
+A76	2019-09-26	2019-09-30	1510	Kundfordringar	10		FI - Google pengar			18400,00	
+A76	2019-09-26	2019-09-30	1920	Bankkonto StyrIT	10		FI - Google pengar		18400,00		
+A77	2019-09-27	2019-09-30	1920	Bankkonto StyrIT	10		MRCIT Lån Innan Budget			20000,00	
+A77	2019-09-27	2019-09-30	1616	Fordringar MRCIT	10		MRCIT Lån Innan Budget		20000,00		
+A78	2019-09-30	2019-09-30	1920	Bankkonto StyrIT	10		Inköp Frimärke			9,00	
+A78	2019-09-30	2019-09-30	6110	Kontorsmaterial	10		Inköp Frimärke		9,00		
+A79	2019-09-30	2019-09-30	1920	Bankkonto StyrIT	10		FB - Sunfleet Augusti			2150,00	
+A79	2019-09-30	2019-09-30	2440	Leverantörsskulder	10		FB - Sunfleet Augusti		2150,00		
+A80	2019-09-27	2019-10-09	4242	Kostnader Aspning	10		MU - Aspning Revisorer		190,00		
+A80	2019-09-27	2019-10-09	2918	Skulder medlemmar	10		MU - Aspning Revisorer			190,00	
+A81	2019-09-30	2019-10-09	2440	Leverantörsskulder	10		FM - Sunfleet September			4620,00	
+A81	2019-09-30	2019-10-09	1612	Fordringar NollKIT	10		FM - Sunfleet September		2930,25		
+A81	2019-09-30	2019-10-09	1610	Fordringar PRIT	10		FM - Sunfleet September		622,00		
+A81	2019-09-30	2019-10-09	1611	Fordringar sexIT	10		FM - Sunfleet September		442,75		
+A81	2019-09-30	2019-10-09	5610	Kostnader bil	10		FM - Sunfleet September		625,00		
+A82	2019-09-30	2019-10-09	2918	Skulder medlemmar	10		MU - 4H Sektionsarbete (S/G)			90,00	
+A82	2019-09-30	2019-10-09	4273	Matbidrag sektionsarbete	10		MU - 4H Sektionsarbete (S/G)		90,00		
+A83	2019-10-01	2019-10-09	4273	Matbidrag sektionsarbete	10		MU - 4H Sektionsarbete (N/Y)		90,00		
+A83	2019-10-01	2019-10-09	2918	Skulder medlemmar	10		MU - 4H Sektionsarbete (N/Y)			90,00	
+A84	2019-10-01	2019-10-09	4273	Matbidrag sektionsarbete	10		MU - 4H Sektionsarbete (B/V/S)		135,00		
+A84	2019-10-01	2019-10-09	2918	Skulder medlemmar	10		MU - 4H Sektionsarbete (B/V/S)			135,00	
+A85	2019-10-01	2019-10-09	1920	Bankkonto StyrIT	10		IZettle Inbetalning Sittning		6107,00		
+A85	2019-10-01	2019-10-09	2911	Skulder sexIT	10		IZettle Inbetalning Sittning			6107,00	
+A86	2019-10-02	2019-10-09	4310	Äskningar	10		MU - FikIT äskning kanelbullens dag		237,10		
+A86	2019-10-02	2019-10-09	2918	Skulder medlemmar	10		MU - FikIT äskning kanelbullens dag			237,10	
+A87	2019-10-07	2019-10-09	4242	Kostnader Aspning	10		MU - DPO/Revisor Aspnings Avslut		888,12		
+A87	2019-10-07	2019-10-09	2918	Skulder medlemmar	10		MU - DPO/Revisor Aspnings Avslut			888,12	
+A88	2019-10-08	2019-10-09	4273	Matbidrag sektionsarbete	10		MU - 4H Sektionsarbete (B)		45,00		
+A88	2019-10-08	2019-10-09	2918	Skulder medlemmar	10		MU - 4H Sektionsarbete (B)			45,00	
+A89	2019-10-09	2019-10-09	2918	Skulder medlemmar	10		MB - Mat Sektionsarbete 5x4H (S, Y, G, V, N)		201,05		
+A89	2019-10-09	2019-10-09	1920	Bankkonto StyrIT	10		MB - Mat Sektionsarbete 5x4H (S, Y, G, V, N)			201,05	
+A90	2019-10-09	2019-10-09	2440	Leverantörsskulder	10		MB - Aspinfo fika DPO/Revisorer/Kand. Middag		78,60		
+A90	2019-10-09	2019-10-09	1920	Bankkonto StyrIT	10		MB - Aspinfo fika DPO/Revisorer/Kand. Middag			78,60	
+A91	2019-10-09	2019-10-09	2918	Skulder medlemmar	10		MB - ValleB Överlämning		1575,00		
+A91	2019-10-09	2019-10-09	1920	Bankkonto StyrIT	10		MB - ValleB Överlämning			1575,00	
+A92	2019-10-09	2019-10-09	2918	Skulder medlemmar	10		MB - Fika Ordf. Möte LP1		166,85		
+A92	2019-10-09	2019-10-09	1920	Bankkonto StyrIT	10		MB - Fika Ordf. Möte LP1			166,85	
+A93	2019-10-09	2019-10-09	2918	Skulder medlemmar	10		MB - Sektionsarbete 4h NaN		45,00		
+A93	2019-10-09	2019-10-09	1920	Bankkonto StyrIT	10		MB - Sektionsarbete 4h NaN			45,00	
+A94	2019-10-09	2019-10-09	2918	Skulder medlemmar	10		MB - Mat Kassörskväll LP1		720,00		
+A94	2019-10-09	2019-10-09	1920	Bankkonto StyrIT	10		MB - Mat Kassörskväll LP1			720,00	
+A95	2019-10-09	2019-10-09	2918	Skulder medlemmar	10		MB - Kunskapsprov Utbildning		618,75		
+A95	2019-10-09	2019-10-09	1920	Bankkonto StyrIT	10		MB - Kunskapsprov Utbildning			618,75	
+A96	2019-10-09	2019-10-09	2918	Skulder medlemmar	10		MB - DPO Aspning 2		425,00		
+A96	2019-10-09	2019-10-09	1920	Bankkonto StyrIT	10		MB - DPO Aspning 2			425,00	
+A97	2019-10-09	2019-10-09	2918	Skulder medlemmar	10		MB - Engagemangsmässa Dryck & Fika		1211,70		
+A97	2019-10-09	2019-10-09	1920	Bankkonto StyrIT	10		MB - Engagemangsmässa Dryck & Fika			1211,70	
+A98	2019-10-09	2019-10-09	1920	Bankkonto StyrIT	10		MB - Aspning Revisorer			190,00	
+A98	2019-10-09	2019-10-09	2918	Skulder medlemmar	10		MB - Aspning Revisorer		190,00		
+A99	2019-10-09	2019-10-09	2918	Skulder medlemmar	10		MB - 4H Sektionsarbete (S/G)		90,00		
+A99	2019-10-09	2019-10-09	1920	Bankkonto StyrIT	10		MB - 4H Sektionsarbete (S/G)			90,00	
+A100	2019-10-09	2019-10-09	1920	Bankkonto StyrIT	10		MB - 4H Sektionsarbete (N/Y)			90,00	
+A100	2019-10-09	2019-10-09	2918	Skulder medlemmar	10		MB - 4H Sektionsarbete (N/Y)		90,00		
+A101	2019-10-09	2019-10-09	1920	Bankkonto StyrIT	10		MB - 4H Sektionsarbete (B/V/S)			135,00	
+A101	2019-10-09	2019-10-09	2918	Skulder medlemmar	10		MB - 4H Sektionsarbete (B/V/S)		135,00		
+A102	2019-10-09	2019-10-09	1920	Bankkonto StyrIT	10		MB - FikIT äskning kanelbullens dag			237,10	
+A102	2019-10-09	2019-10-09	2918	Skulder medlemmar	10		MB - FikIT äskning kanelbullens dag		237,10		
+A103	2019-10-09	2019-10-09	1920	Bankkonto StyrIT	10		MB - DPO/Revisor Aspnings Avslut			888,12	
+A103	2019-10-09	2019-10-09	2918	Skulder medlemmar	10		MB - DPO/Revisor Aspnings Avslut		888,12		
+A104	2019-10-09	2019-10-09	1920	Bankkonto StyrIT	10		MB - 4H Sektionsarbete (B)			45,00	
+A104	2019-10-09	2019-10-09	2918	Skulder medlemmar	10		MB - 4H Sektionsarbete (B)		45,00		
+A105	2019-10-08	2019-10-09	1920	Bankkonto StyrIT	10		IZettle 10-08		177,30		
+A105	2019-10-08	2019-10-09	2911	Skulder sexIT	10		IZettle 10-08			177,30	
+A106	2019-10-09	2019-10-21	2918	Skulder medlemmar	10		MU - Sekt. mötes fika LP1 1			187,30	
+A106	2019-10-09	2019-10-21	4330	Kostnader Sektionsmöten	10		MU - Sekt. mötes fika LP1 1		187,30		
+A107	2019-10-09	2019-10-21	2918	Skulder medlemmar	10		MU - Sekt. mötes fika LP1 2			107,30	
+A107	2019-10-09	2019-10-21	4330	Kostnader Sektionsmöten	10		MU - Sekt. mötes fika LP1 2		107,30		
+A108	2019-10-09	2019-10-21	2918	Skulder medlemmar	10		MU - Sekt. mötes mat LP1 Glutenfritt			100,00	
+A108	2019-10-09	2019-10-21	4331	Kostnader Sektionsmötesmat	10		MU - Sekt. mötes mat LP1 Glutenfritt		100,00		
+A109	2019-10-15	2019-10-21	2440	Leverantörsskulder	10		FM - Sektionsmötesmat LP1			4100,00	
+A109	2019-10-15	2019-10-21	4331	Kostnader Sektionsmötesmat	10		FM - Sektionsmötesmat LP1		4100,00		
+A110	2019-10-17	2019-10-21	2440	Leverantörsskulder	10		FM - Grant Thornton 10-19			2731,00	
+A110	2019-10-17	2019-10-21	6572	Kostnader Bokföringsprogram	10		FM - Grant Thornton 10-19		2731,00		
+A111	2019-10-17	2019-10-21	1920	Bankkonto StyrIT	10		SF Presentkort Sekt. Möte LP1			150,00	
+A111	2019-10-17	2019-10-21	4330	Kostnader Sektionsmöten	10		SF Presentkort Sekt. Möte LP1		150,00		
+A112	2019-10-14	2019-10-21	2918	Skulder medlemmar	10		MU - Orförandemöte LP1 Fika			147,99	
+A112	2019-10-14	2019-10-21	4522	Kostnader Kassörskväll och Ordförandemöten	10		MU - Orförandemöte LP1 Fika		147,99		
+A113	2019-10-15	2019-10-21	1920	Bankkonto StyrIT	10		IZettle 10-15		502,35		
+A113	2019-10-15	2019-10-21	2910	Skulder PRIT	10		IZettle 10-15			502,35	
+A114	2019-10-21	2019-10-21	1920	Bankkonto StyrIT	10		Felbetald Faktura snIT Inbetald		40000,00		
+A114	2019-10-21	2019-10-21	2922	Skulder snIT	10		Felbetald Faktura snIT Inbetald			40000,00	
+A115	2019-10-21	2019-10-21	2918	Skulder medlemmar	10		MB - StyrIT Teambuilding 2 Veganmat		65,90		
+A115	2019-10-21	2019-10-21	1920	Bankkonto StyrIT	10		MB - StyrIT Teambuilding 2 Veganmat			65,90	
+A116	2019-10-21	2019-10-21	2918	Skulder medlemmar	10		MB - Sekt. mötes fika LP1 1		187,30		
+A116	2019-10-21	2019-10-21	1920	Bankkonto StyrIT	10		MB - Sekt. mötes fika LP1 1			187,30	
+A117	2019-10-21	2019-10-21	2918	Skulder medlemmar	10		MB - Sekt. mötes fika LP1 2		107,30		
+A117	2019-10-21	2019-10-21	1920	Bankkonto StyrIT	10		MB - Sekt. mötes fika LP1 2			107,30	
+A118	2019-10-21	2019-10-21	2918	Skulder medlemmar	10		MB - Sekt. mötes mat LP1 Glutenfritt		100,00		
+A118	2019-10-21	2019-10-21	1920	Bankkonto StyrIT	10		MB - Sekt. mötes mat LP1 Glutenfritt			100,00	
+A119	2019-10-21	2019-10-21	2918	Skulder medlemmar	10		MB - Orförandemöte LP1 Fika		147,99		
+A119	2019-10-21	2019-10-21	1920	Bankkonto StyrIT	10		MB - Orförandemöte LP1 Fika			147,99	
+A120	2019-10-21	2019-10-21	1920	Bankkonto StyrIT	10		Felbetald Faktura snIT Utbetald			40000,00	
+A120	2019-10-21	2019-10-21	2922	Skulder snIT	10		Felbetald Faktura snIT Utbetald		40000,00		
+A121	2019-10-21	2019-10-21	1920	Bankkonto StyrIT	10		Rust- & Aspbidrag P.R.I.T. 			81540,00	
+A121	2019-10-21	2019-10-21	1921	Bankkonto PRIT	40		Rust- & Aspbidrag P.R.I.T. 		81540,00		
+A122	2019-10-21	2019-10-21	1920	Bankkonto StyrIT	10		Lån Rustbidrag P.R.I.T. Återbetalning		35000,00		
+A122	2019-10-21	2019-10-21	1610	Fordringar PRIT	10		Lån Rustbidrag P.R.I.T. Återbetalning			35000,00	
+A123	2019-10-18	2019-10-21	4273	Matbidrag sektionsarbete	10		MU - Sektionsarbete 4H (B)		45,00		
+A123	2019-10-18	2019-10-21	2918	Skulder medlemmar	10		MU - Sektionsarbete 4H (B)			45,00	
+A124	2019-10-10	2019-10-21	2918	Skulder medlemmar	10		MU - Kortlekar Sektionsmöte			130,00	
+A124	2019-10-10	2019-10-21	4330	Kostnader Sektionsmöten	10		MU - Kortlekar Sektionsmöte		130,00		
+B1	2019-08-12	2019-09-19	1922	Bankkonto SexIT	20		Dekor Afterski Stoff och Still			19,95	
+B1	2019-08-12	2019-09-19	4214	Kostnader Gasque	20		Dekor Afterski Stoff och Still		19,95		
+B2	2019-08-14	2019-09-19	1922	Bankkonto SexIT	20		Dekor Afterski Normal Partille			90,00	
+B2	2019-08-14	2019-09-19	4214	Kostnader Gasque	20		Dekor Afterski Normal Partille		90,00		
+B3	2019-08-14	2019-09-19	1922	Bankkonto SexIT	20		Dekor Afterski ICA MAXI 			76,65	
+B3	2019-08-14	2019-09-19	4214	Kostnader Gasque	20		Dekor Afterski ICA MAXI 		76,65		
+B4	2019-08-14	2019-09-19	3212	Intäkter Gasque	20		FS Fakturering utjämning CM			13596,77	
+B4	2019-08-14	2019-09-19	1510	Kundfordringar	20		FS Fakturering utjämning CM		13596,77		
+B5	2019-08-16	2019-09-19	1922	Bankkonto SexIT	20		TEAM BUILDING ICA MAXI 			532,26	
+B5	2019-08-16	2019-09-19	4510	Kostnader Intern Representation	20		TEAM BUILDING ICA MAXI 		532,26		
+B6	2019-08-19	2019-09-19	1922	Bankkonto SexIT	20		TEAM BUILDING VÄSTTRAFIK			548,00	
+B6	2019-08-19	2019-09-19	4510	Kostnader Intern Representation	20		TEAM BUILDING VÄSTTRAFIK		548,00		
+B7	2019-08-22	2019-09-19	1922	Bankkonto SexIT	20		EftersläppsMat AfterSki Snabbgross			1518,18	
+B7	2019-08-22	2019-09-19	4214	Kostnader Gasque	20		EftersläppsMat AfterSki Snabbgross		1354,13		
+B7	2019-08-22	2019-09-19	2641	Ingående moms	20		EftersläppsMat AfterSki Snabbgross		164,05		
+B8	2019-08-22	2019-09-19	1922	Bankkonto SexIT	20		Dekor Afterski Snabbgross			529,56	
+B8	2019-08-22	2019-09-19	4214	Kostnader Gasque	20		Dekor Afterski Snabbgross		529,56		
+B9	2019-08-22	2019-09-19	1922	Bankkonto SexIT	20		Blandbös AfterSki Snabbgross			1204,02	
+B9	2019-08-22	2019-09-19	4214	Kostnader Gasque	20		Blandbös AfterSki Snabbgross		1073,40		
+B9	2019-08-22	2019-09-19	2641	Ingående moms	20		Blandbös AfterSki Snabbgross		130,62		
+B10	2019-08-22	2019-09-19	1922	Bankkonto SexIT	20		Fördrink AfterSki Snabbgross			249,09	
+B10	2019-08-22	2019-09-19	4214	Kostnader Gasque	20		Fördrink AfterSki Snabbgross		222,40		
+B10	2019-08-22	2019-09-19	2641	Ingående moms	20		Fördrink AfterSki Snabbgross		26,69		
+B11	2019-08-22	2019-09-19	1922	Bankkonto SexIT	20		Mat AfterSki Snabbgross			2872,29	
+B11	2019-08-22	2019-09-19	4214	Kostnader Gasque	20		Mat AfterSki Snabbgross		2546,06		
+B11	2019-08-22	2019-09-19	2641	Ingående moms	20		Mat AfterSki Snabbgross		326,23		
+B12	2019-08-22	2019-09-19	3212	Intäkter Gasque	20		IFU Afterski biljetter swish			1355,00	
+B12	2019-08-22	2019-09-19	3212	Intäkter Gasque	20		IFU Afterski biljetter swish		20,34		
+B12	2019-08-22	2019-09-19	1617	Fordringar StyrIT	20		IFU Afterski biljetter swish		1334,66		
+B13	2019-08-23	2019-09-19	1922	Bankkonto SexIT	20		Förbrukningsmaterial PQ 			300,00	
+B13	2019-08-23	2019-09-19	5410	Inköp förbrukningsinventarier	20		Förbrukningsmaterial PQ 		300,00		
+B14	2019-08-26	2019-09-19	1922	Bankkonto SexIT	20		Puffmat Sittande Afterski (Snabbgross)			540,00	
+B14	2019-08-26	2019-09-19	4273	Matbidrag sektionsarbete	20		Puffmat Sittande Afterski (Snabbgross)		540,00		
+B15	2019-08-26	2019-09-19	1922	Bankkonto SexIT	20		Mat AfterSki GASQUEN			2816,00	
+B15	2019-08-26	2019-09-19	4214	Kostnader Gasque	20		Mat AfterSki GASQUEN		2514,29		
+B15	2019-08-26	2019-09-19	2641	Ingående moms	20		Mat AfterSki GASQUEN		301,71		
+B16	2019-08-26	2019-09-19	1922	Bankkonto SexIT	20		Sittningsdryck AfterSki GASQUEN			2466,00	
+B16	2019-08-26	2019-09-19	4214	Kostnader Gasque	20		Sittningsdryck AfterSki GASQUEN		1982,27		
+B16	2019-08-26	2019-09-19	2641	Ingående moms	20		Sittningsdryck AfterSki GASQUEN		483,73		
+B17	2019-08-29	2019-09-19	2440	Leverantörsskulder	20		FM LOB TEJP			500,00	
+B17	2019-08-29	2019-09-19	5410	Inköp förbrukningsinventarier	20		FM LOB TEJP		500,00		
+B18	2019-08-29	2019-09-19	1922	Bankkonto SexIT	20		Tivoli Tier			108,00	
+B18	2019-08-29	2019-09-19	4210	Kostnader arrangemang	20		Tivoli Tier		108,00		
+B19	2019-08-31	2019-09-19	2440	Leverantörsskulder	20		FM Hyra Mottagnings Gasque 			3300,00	
+B19	2019-08-31	2019-09-19	4214	Kostnader Gasque	20		FM Hyra Mottagnings Gasque 		3300,00		
+B20	2019-08-22	2019-09-19	2918	Skulder medlemmar	20		MU sittningsmat Afterski Gasque			86,80	
+B20	2019-08-22	2019-09-19	4214	Kostnader Gasque	20		MU sittningsmat Afterski Gasque		86,80		
+B21	2019-09-09	2019-09-19	3212	Intäkter Gasque	20		FS Marknadsföringsbidrag Afterski			43026,13	
+B21	2019-09-09	2019-09-19	1510	Kundfordringar	20		FS Marknadsföringsbidrag Afterski		43026,13		
+B22	2019-09-13	2019-09-19	1510	Kundfordringar	20		FI Afterski(Del inbetalning saknade momsatsen)			34421,00	
+B22	2019-09-13	2019-09-19	1922	Bankkonto SexIT	20		FI Afterski(Del inbetalning saknade momsatsen)		34421,00		
+B23	2019-07-01	2019-10-07	3210	Intäkter arrangemang	20		Bidrag från snit			6900,00	
+B23	2019-07-01	2019-10-07	1922	Bankkonto SexIT	20		Bidrag från snit		6900,00		
+C1	2019-07-04	2019-09-18	1510	Kundfordringar	30		FI 19204002 Cybercom			20000,00	
+C1	2019-07-04	2019-09-18	1925	Bankkonto armIT	30		FI 19204002 Cybercom		20000,00		
+C2	2019-07-05	2019-09-18	1510	Kundfordringar	30		FI 19204003 Spinit			7000,00	
+C2	2019-07-05	2019-09-18	1925	Bankkonto armIT	30		FI 19204003 Spinit		7000,00		
+C3	2019-07-15	2019-09-19	1510	Kundfordringar	30		FS 19204005 Emerson eventsponsring		2000,00		
+C3	2019-07-15	2019-09-19	2912	Skulder NollKIT	30		FS 19204005 Emerson eventsponsring			2000,00	
+C4	2019-07-15	2019-09-18	3261	Intäkter annonsering	30		FS 19204006 ÅF			2500,00	
+C4	2019-07-15	2019-09-18	1510	Kundfordringar	30		FS 19204006 ÅF		2500,00		
+C5	2019-08-08	2019-09-18	1510	Kundfordringar	30		FI 19204005 Emerson			2000,00	
+C5	2019-08-08	2019-09-18	1925	Bankkonto armIT	30		FI 19204005 Emerson		2000,00		
+C6	2019-08-15	2019-09-19	1510	Kundfordringar	30		FI 19204006 ÅF			2500,00	
+C6	2019-08-15	2019-09-19	1925	Bankkonto armIT	30		FI 19204006 ÅF		2500,00		
+C7	2019-08-18	2019-09-19	1510	Kundfordringar	30		FS 19204008 Decerno		4000,00		
+C7	2019-08-18	2019-09-19	2912	Skulder NollKIT	30		FS 19204008 Decerno			4000,00	
+C8	2019-07-11	2019-09-19	4220	Kostnader för mat och dryck	30		Mat kvällsevent Ericsson		9017,00		
+C8	2019-07-11	2019-09-19	1925	Bankkonto armIT	30		Mat kvällsevent Ericsson			9017,00	
+C9	2019-07-16	2019-09-19	2918	Skulder medlemmar	30		MB kostnad mat teambuilding		482,14		
+C9	2019-07-16	2019-09-19	1925	Bankkonto armIT	30		MB kostnad mat teambuilding			482,14	
+C10	2019-07-16	2019-09-19	2912	Skulder NollKIT	30		IFB 19052201 Nollkit		4000,00		
+C10	2019-07-16	2019-09-19	1925	Bankkonto armIT	30		IFB 19052201 Nollkit			4000,00	
+C11	2019-07-16	2019-09-19	5920	Profilkläder och material	30		Kostnad profilering		4059,00		
+C11	2019-07-16	2019-09-19	1925	Bankkonto armIT	30		Kostnad profilering			4059,00	
+D1	2019-07-01	2019-08-13	4320	Kostnader Hubben	40		FM - Högtalarreparation		1129,00		
+D1	2019-07-01	2019-08-13	2440	Leverantörsskulder	40		FM - Högtalarreparation			1129,00	
+D2	2019-07-02	2019-08-13	1921	Bankkonto PRIT	40		FB - Högtalarrepparation			1129,00	
+D2	2019-07-02	2019-08-13	2440	Leverantörsskulder	40		FB - Högtalarrepparation		1129,00		
+D3	2019-07-09	2019-08-14	4510	Kostnader Intern Representation	40		MU - Teambuilding Mat		290,20		
+D3	2019-07-09	2019-08-14	2918	Skulder medlemmar	40		MU - Teambuilding Mat			290,20	
+D4	2019-08-08	2019-08-19	5410	Inköp förbrukningsinventarier	40		MU - Vinkelslip Kapskiva		21,90		
+D4	2019-08-08	2019-08-19	2918	Skulder medlemmar	40		MU - Vinkelslip Kapskiva			21,90	
+D5	2019-08-08	2019-08-19	2918	Skulder medlemmar	40		MU - Vinkelslip, Partytält			1477,95	
+D5	2019-08-08	2019-08-19	4216	Kostnader pubrunda	40		MU - Vinkelslip, Partytält		799,00		
+D5	2019-08-08	2019-08-19	5410	Inköp förbrukningsinventarier	40		MU - Vinkelslip, Partytält		678,95		
+D6	2019-08-12	2019-08-19	1921	Bankkonto PRIT	40		MB - Utbetalning Liten			5686,09	
+D6	2019-08-12	2019-08-19	2918	Skulder medlemmar	40		MB - Utbetalning Liten		5686,09		
+D7	2019-08-12	2019-08-19	2918	Skulder medlemmar	40		MB - Utbetalning LP		1382,97		
+D7	2019-08-12	2019-08-19	1921	Bankkonto PRIT	40		MB - Utbetalning LP			1382,97	
+D8	2019-08-12	2019-08-19	1921	Bankkonto PRIT	40		MB - Lamineringsficka			95,45	
+D8	2019-08-12	2019-08-19	2918	Skulder medlemmar	40		MB - Lamineringsficka		95,45		
+D9	2019-08-12	2019-08-19	1921	Bankkonto PRIT	40		MB - Pubrunda Mat			46,80	
+D9	2019-08-12	2019-08-19	2918	Skulder medlemmar	40		MB - Pubrunda Mat		46,80		
+D10	2019-08-12	2019-08-19	1921	Bankkonto PRIT	40		MB - Pubrunda Mat			52,50	
+D10	2019-08-12	2019-08-19	2918	Skulder medlemmar	40		MB - Pubrunda Mat		52,50		
+D11	2019-08-12	2019-08-19	1921	Bankkonto PRIT	40		MB - Medeltidpub Krydda			9,90	
+D11	2019-08-12	2019-08-19	2918	Skulder medlemmar	40		MB - Medeltidpub Krydda		9,90		
+D12	2019-08-18	2019-08-19	5630	Parkeringsavgifter	40		MU - Parkering		66,00		
+D12	2019-08-18	2019-08-19	2918	Skulder medlemmar	40		MU - Parkering			66,00	
+D13	2019-08-18	2019-09-19	5610	Kostnader bil	40		IFU - Sunfleet Fordran Juni		1305,75		
+D13	2019-08-18	2019-09-19	2917	Skulder StyrIT	40		IFU - Sunfleet Fordran Juni			1305,75	
+D14	2019-08-19	2019-09-19	1921	Bankkonto PRIT	40		Lån StyrIT		35000,00		
+D14	2019-08-19	2019-09-19	2917	Skulder StyrIT	40		Lån StyrIT			35000,00	
+D15	2019-08-19	2019-09-19	5920	Profilkläder och material	40		Profilering Hoodies & T-shirts		1193,21		
+D15	2019-08-19	2019-09-19	2918	Skulder medlemmar	40		Profilering Hoodies & T-shirts			1193,21	
+D16	2019-08-19	2019-09-19	4222	Kostnader Mat Arrangörer	40		Städa-Hubben-Dag Mat		147,33		
+D16	2019-08-19	2019-09-19	1921	Bankkonto PRIT	40		Städa-Hubben-Dag Mat			147,33	
+D17	2019-08-19	2019-09-19	1921	Bankkonto PRIT	40		MB - D240, D241, D242, D248, D322, D327			15654,98	
+D17	2019-08-19	2019-09-19	2918	Skulder medlemmar	40		MB - D240, D241, D242, D248, D322, D327		15654,98		
+D18	2019-08-19	2019-09-19	2918	Skulder medlemmar	40		MB - D324, D325, D328, D329		640,81		
+D18	2019-08-19	2019-09-19	1921	Bankkonto PRIT	40		MB - D324, D325, D328, D329			640,81	
+D19	2019-08-19	2019-09-19	1921	Bankkonto PRIT	40		MB - D250, D288, D295, D304, D313, D332, D15			3532,58	
+D19	2019-08-19	2019-09-19	2918	Skulder medlemmar	40		MB - D250, D288, D295, D304, D313, D332, D15		3532,58		
+D20	2019-08-19	2019-09-19	1921	Bankkonto PRIT	40		MB - D334, D3			769,33	
+D20	2019-08-19	2019-09-19	2918	Skulder medlemmar	40		MB - D334, D3		769,33		
+D21	2019-08-19	2019-09-19	2917	Skulder StyrIT	40		IFB - Sunfleet Juni		1305,75		
+D21	2019-08-19	2019-09-19	1921	Bankkonto PRIT	40		IFB - Sunfleet Juni			1305,75	
+D22	2019-08-19	2019-09-19	1921	Bankkonto PRIT	40		MB - D301, D306, D307, D333			2160,90	
+D22	2019-08-19	2019-09-19	2918	Skulder medlemmar	40		MB - D301, D306, D307, D333		2160,90		
+D23	2019-08-19	2019-09-19	4210	Kostnader arrangemang	40		MU - Första-Dagen Ansiktsfärg		202,30		
+D23	2019-08-19	2019-09-19	2918	Skulder medlemmar	40		MU - Första-Dagen Ansiktsfärg			202,30	
+D24	2019-08-24	2019-09-19	5410	Inköp förbrukningsinventarier	40		MU - Städ, Kaffe, Te		3557,57		
+D24	2019-08-24	2019-09-19	2918	Skulder medlemmar	40		MU - Städ, Kaffe, Te			3557,57	
+D25	2019-08-24	2019-09-19	2918	Skulder medlemmar	40		MU - Mottagning, Pubrunda			250,75	
+D25	2019-08-24	2019-09-19	4216	Kostnader pubrunda	40		MU - Mottagning, Pubrunda		179,85		
+D25	2019-08-24	2019-09-19	5420	Inköp förbrukningsmaterial	40		MU - Mottagning, Pubrunda		70,90		
+D26	2019-08-28	2019-09-19	3210	Intäkter arrangemang	40		IFU - Tivolit Våfflor Försäljning			1620,00	
+D26	2019-08-28	2019-09-19	4312	Kostnader iZettle	40		IFU - Tivolit Våfflor Försäljning		24,71		
+D26	2019-08-28	2019-09-19	1617	Fordringar StyrIT	40		IFU - Tivolit Våfflor Försäljning		1595,29		
+D27	2019-08-28	2019-09-19	2918	Skulder medlemmar	40		MU - Tivolit Gräddesfärg			49,90	
+D27	2019-08-28	2019-09-19	4210	Kostnader arrangemang	40		MU - Tivolit Gräddesfärg		49,90		
+D28	2019-08-29	2019-09-19	3210	Intäkter arrangemang	40		IFU - Nollanlunch			1000,00	
+D28	2019-08-29	2019-09-19	4312	Kostnader iZettle	40		IFU - Nollanlunch		15,19		
+D28	2019-08-29	2019-09-19	1617	Fordringar StyrIT	40		IFU - Nollanlunch		984,81		
+D29	2019-08-29	2019-09-19	1921	Bankkonto PRIT	40		Låder våffelsmet			199,00	
+D29	2019-08-29	2019-09-19	5410	Inköp förbrukningsinventarier	40		Låder våffelsmet		199,00		
+D30	2019-08-29	2019-09-19	4210	Kostnader arrangemang	40		MU - Nollanlunch		1168,16		
+D30	2019-08-29	2019-09-19	2918	Skulder medlemmar	40		MU - Nollanlunch			1168,16	
+D31	2019-08-31	2019-09-19	1612	Fordringar NollKIT	40		IFU - Gulgaffa		36,00		
+D31	2019-08-31	2019-09-19	5410	Inköp förbrukningsinventarier	40		IFU - Gulgaffa			36,00	
+D32	2019-09-01	2019-09-19	4216	Kostnader pubrunda	40		MU - Pubrunda Barbös		63,29		
+D32	2019-09-01	2019-09-19	2918	Skulder medlemmar	40		MU - Pubrunda Barbös			63,29	
+D33	2019-09-02	2019-09-19	4216	Kostnader pubrunda	40		MU - Pubrunda Räknare		129,99		
+D33	2019-09-02	2019-09-19	2918	Skulder medlemmar	40		MU - Pubrunda Räknare			129,99	
+D34	2019-09-02	2019-09-19	4216	Kostnader pubrunda	40		MU - Pubrunda Dekor		384,00		
+D34	2019-09-02	2019-09-19	2918	Skulder medlemmar	40		MU - Pubrunda Dekor			384,00	
+D35	2019-09-04	2019-09-19	4216	Kostnader pubrunda	40		MU - Pubrunda Färg		507,30		
+D35	2019-09-04	2019-09-19	2918	Skulder medlemmar	40		MU - Pubrunda Färg			507,30	
+D36	2019-09-04	2019-09-19	4216	Kostnader pubrunda	40		MU - Pubrunda Mat		232,90		
+D36	2019-09-04	2019-09-19	2918	Skulder medlemmar	40		MU - Pubrunda Mat			232,90	
+D37	2019-09-04	2019-09-19	4216	Kostnader pubrunda	40		MU - Pubrunda Mat		350,29		
+D37	2019-09-04	2019-09-19	2918	Skulder medlemmar	40		MU - Pubrunda Mat			350,29	
+D38	2019-09-04	2019-09-19	4216	Kostnader pubrunda	40		MU - Pubrunda Dekor PQ		50,00		
+D38	2019-09-04	2019-09-19	1921	Bankkonto PRIT	40		MU - Pubrunda Dekor PQ			50,00	
+D39	2019-09-05	2019-09-19	4216	Kostnader pubrunda	40		MU - Pubrunda Ris		117,00		
+D39	2019-09-05	2019-09-19	1921	Bankkonto PRIT	40		MU - Pubrunda Ris			117,00	
+D40	2019-09-05	2019-09-19	4216	Kostnader pubrunda	40		MU - Pubrunda Systemet		18554,20		
+D40	2019-09-05	2019-09-19	2918	Skulder medlemmar	40		MU - Pubrunda Systemet			18554,20	
+D41	2019-09-07	2019-09-19	4216	Kostnader pubrunda	40		MB - Pubrunda Systemet Retur			6556,90	
+D41	2019-09-07	2019-09-19	2918	Skulder medlemmar	40		MB - Pubrunda Systemet Retur		6556,90		
+D42	2019-09-07	2019-09-19	3216	Intäkter pubrunda	40		IFU - September			26770,00	
+D42	2019-09-07	2019-09-19	4312	Kostnader iZettle	40		IFU - September		403,84		
+D42	2019-09-07	2019-09-19	1617	Fordringar StyrIT	40		IFU - September		26366,16		
+D43	2019-09-04	2019-09-19	1921	Bankkonto PRIT	40		IFB - Tivoli Våfflor		1595,29		
+D43	2019-09-04	2019-09-19	1617	Fordringar StyrIT	40		IFB - Tivoli Våfflor			1595,29	
+D44	2019-09-04	2019-09-19	1921	Bankkonto PRIT	40		IFB - Nollanlunch		984,81		
+D44	2019-09-04	2019-09-19	1617	Fordringar StyrIT	40		IFB - Nollanlunch			984,81	
+D45	2019-07-01	2019-09-19	4222	Kostnader Mat Arrangörer	40		Rustvecka Mat		42,70		
+D45	2019-07-01	2019-09-19	1921	Bankkonto PRIT	40		Rustvecka Mat			42,70	
+D46	2019-08-26	2019-10-16	4210	Kostnader arrangemang	40		MU - Tivolit Våfflor		1773,17		
+D46	2019-08-26	2019-10-16	2918	Skulder medlemmar	40		MU - Tivolit Våfflor			1773,17	
+D47	2019-09-20	2019-10-16	2918	Skulder medlemmar	40		MB - Pubrunda Systemet		11997,30		
+D47	2019-09-20	2019-10-16	1921	Bankkonto PRIT	40		MB - Pubrunda Systemet			11997,30	
+D48	2019-09-23	2019-10-16	1617	Fordringar StyrIT	40		IFB -  September			26366,16	
+D48	2019-09-23	2019-10-16	1921	Bankkonto PRIT	40		IFB -  September		26366,16		
+D49	2019-10-08	2019-10-16	2918	Skulder medlemmar	40		MU - Myskväll Snacks			219,96	
+D49	2019-10-08	2019-10-16	4210	Kostnader arrangemang	40		MU - Myskväll Snacks		219,96		
+D50	2019-10-08	2019-10-16	4210	Kostnader arrangemang	40		MU - Myskväll Mat		460,00		
+D50	2019-10-08	2019-10-16	2918	Skulder medlemmar	40		MU - Myskväll Mat			460,00	
+D51	2019-10-16	2019-10-16	4210	Kostnader arrangemang	40		MU - Oktobersittning Toast, Material		634,12		
+D51	2019-10-16	2019-10-16	2918	Skulder medlemmar	40		MU - Oktobersittning Toast, Material			634,12	
+D52	2019-10-16	2019-10-16	4210	Kostnader arrangemang	40		MU - Oktobersittning Mat		1045,77		
+D52	2019-10-16	2019-10-16	2918	Skulder medlemmar	40		MU - Oktobersittning Mat			1045,77	
+D53	2019-10-16	2019-10-16	5420	Inköp förbrukningsmaterial	40		MU - Material		2749,27		
+D53	2019-10-16	2019-10-16	2918	Skulder medlemmar	40		MU - Material			2749,27	
+E1	2019-07-15	2019-08-05	1923	Bankkonto NollkIT	50		Kontoladdning Jourtelefon			100,00	
+E1	2019-07-15	2019-08-05	6120	Telefonkostnader	50		Kontoladdning Jourtelefon		100,00		
+E2	2019-07-16	2019-08-05	1614	Fordringar armIT	50		IFB - Modulsida Ericsson			4000,00	
+E2	2019-07-16	2019-08-05	1923	Bankkonto NollkIT	50		IFB - Modulsida Ericsson		4000,00		
+E3	2019-07-04	2019-08-05	2440	Leverantörsskulder	50		FM - Moduler			6784,00	
+E3	2019-07-04	2019-08-05	4010	Inköp material och varor	50		FM - Moduler		6784,00		
+E4	2019-07-19	2019-09-19	1923	Bankkonto NollkIT	50		FB - Moduler			6784,00	
+E4	2019-07-19	2019-09-19	2440	Leverantörsskulder	50		FB - Moduler		6784,00		
+E5	2019-08-05	2019-08-05	2918	Skulder medlemmar	50		MU - Mat Herman/Viktor			80,00	
+E5	2019-08-05	2019-08-05	4273	Matbidrag sektionsarbete	50		MU - Mat Herman/Viktor		80,00		
+E6	2019-08-06	2019-08-24	1923	Bankkonto NollkIT	50		Nollbricksfärg			1357,00	
+E6	2019-08-06	2019-08-24	4010	Inköp material och varor	50		Nollbricksfärg		1357,00		
+E7	2019-08-06	2019-08-06	1923	Bankkonto NollkIT	50		MB - Mat Herman/Viktor			80,00	
+E7	2019-08-06	2019-08-06	2918	Skulder medlemmar	50		MB - Mat Herman/Viktor		80,00		
+E8	2019-08-06	2019-08-24	1923	Bankkonto NollkIT	50		Första Hjälpen Kit			698,00	
+E8	2019-08-06	2019-08-24	4010	Inköp material och varor	50		Första Hjälpen Kit		698,00		
+E9	2019-08-06	2019-08-24	1617	Fordringar StyrIT	50		IFU - Första Hjälpen KIT		698,00		
+E9	2019-08-06	2019-08-24	4010	Inköp material och varor	50		IFU - Första Hjälpen KIT			698,00	
+E10	2019-08-09	2019-08-24	1923	Bankkonto NollkIT	50		Teambuilding med StyrIT			545,00	
+E10	2019-08-09	2019-08-24	4510	Kostnader Intern Representation	50		Teambuilding med StyrIT		545,00		
+E11	2019-08-13	2019-08-24	1923	Bankkonto NollkIT	50		Mentos och Cola			208,14	
+E11	2019-08-13	2019-08-24	4210	Kostnader arrangemang	50		Mentos och Cola		208,14		
+E12	2019-08-14	2019-08-25	1923	Bankkonto NollkIT	50		IFB - Första Hjälpen Kit			698,00	
+E12	2019-08-14	2019-08-25	2917	Skulder StyrIT	50		IFB - Första Hjälpen Kit		698,00		
+E13	2019-08-16	2019-08-25	1923	Bankkonto NollkIT	50		Teambuilding Liseberg Mat			178,00	
+E13	2019-08-16	2019-08-25	4510	Kostnader Intern Representation	50		Teambuilding Liseberg Mat		178,00		
+E14	2019-08-14	2019-08-25	2918	Skulder medlemmar	50		MU - Teambuilding Liseberg Mat			450,00	
+E14	2019-08-14	2019-08-25	4510	Kostnader Intern Representation	50		MU - Teambuilding Liseberg Mat		450,00		
+E15	2019-08-19	2019-08-25	1923	Bankkonto NollkIT	50		Inköp PhadderKickoff/NBtillverkning/Första Dagen			4490,75	
+E15	2019-08-19	2019-08-25	4210	Kostnader arrangemang	50		Inköp PhadderKickoff/NBtillverkning/Första Dagen		4490,75		
+E16	2019-08-19	2019-08-25	1923	Bankkonto NollkIT	50		Inköp Phaddermys flaggor			212,00	
+E16	2019-08-19	2019-08-25	4210	Kostnader arrangemang	50		Inköp Phaddermys flaggor		212,00		
+E17	2019-08-19	2019-08-25	1923	Bankkonto NollkIT	50		Inköp Phadderhäng/Första dagen			250,95	
+E17	2019-08-19	2019-08-25	4210	Kostnader arrangemang	50		Inköp Phadderhäng/Första dagen		250,95		
+E18	2019-08-19	2019-08-25	1923	Bankkonto NollkIT	50		Inköp Färg till phadderflaggor			179,00	
+E18	2019-08-19	2019-08-25	4210	Kostnader arrangemang	50		Inköp Färg till phadderflaggor		179,00		
+E19	2019-08-19	2019-08-25	2918	Skulder medlemmar	50		MU - Mat R/C/M			162,00	
+E19	2019-08-19	2019-08-25	4273	Matbidrag sektionsarbete	50		MU - Mat R/C/M		162,00		
+E20	2019-08-20	2019-08-25	1923	Bankkonto NollkIT	50		Inköp Phadderflaggor/NBtillverkning			620,50	
+E20	2019-08-20	2019-08-25	4210	Kostnader arrangemang	50		Inköp Phadderflaggor/NBtillverkning		620,50		
+E21	2019-08-20	2019-08-25	2918	Skulder medlemmar	50		MU - Phadderhäng Hubbens Änglar			418,70	
+E21	2019-08-20	2019-08-25	4210	Kostnader arrangemang	50		MU - Phadderhäng Hubbens Änglar		418,70		
+E22	2019-08-20	2019-08-25	2918	Skulder medlemmar	50		MU - Phadderhäng Banderos			460,00	
+E22	2019-08-20	2019-08-25	4210	Kostnader arrangemang	50		MU - Phadderhäng Banderos		460,00		
+E23	2019-08-20	2019-08-25	2918	Skulder medlemmar	50		MU - Phadderhäng Draknästet			443,00	
+E23	2019-08-20	2019-08-25	4210	Kostnader arrangemang	50		MU - Phadderhäng Draknästet		443,00		
+E24	2019-08-20	2019-08-25	2918	Skulder medlemmar	50		MU - Phadderhäng Styggingarna			410,75	
+E24	2019-08-20	2019-08-25	4210	Kostnader arrangemang	50		MU - Phadderhäng Styggingarna		410,75		
+E25	2019-08-21	2019-08-25	1923	Bankkonto NollkIT	50		Mat R/N/G/C/M			405,00	
+E25	2019-08-21	2019-08-25	4273	Matbidrag sektionsarbete	50		Mat R/N/G/C/M		405,00		
+E26	2019-08-21	2019-08-25	2918	Skulder medlemmar	50		MU - Mat C/R			80,00	
+E26	2019-08-21	2019-08-25	4273	Matbidrag sektionsarbete	50		MU - Mat C/R		80,00		
+E27	2019-08-21	2019-08-25	2918	Skulder medlemmar	50		MU - Mat H			40,00	
+E27	2019-08-21	2019-08-25	4273	Matbidrag sektionsarbete	50		MU - Mat H		40,00		
+E28	2019-08-21	2019-08-25	2918	Skulder medlemmar	50		MU - Nollbricksmaterial			581,90	
+E28	2019-08-21	2019-08-25	4210	Kostnader arrangemang	50		MU - Nollbricksmaterial		581,90		
+E29	2019-08-22	2019-08-25	1923	Bankkonto NollkIT	50		Inköp Chalmersvandringen			1136,05	
+E29	2019-08-22	2019-08-25	4210	Kostnader arrangemang	50		Inköp Chalmersvandringen		1136,05		
+E30	2019-08-22	2019-08-25	1923	Bankkonto NollkIT	50		Inköp Chalmersvandringen			191,70	
+E30	2019-08-22	2019-08-25	4210	Kostnader arrangemang	50		Inköp Chalmersvandringen		191,70		
+E31	2019-08-22	2019-08-25	1923	Bankkonto NollkIT	50		Inköp Chalmersvandringen			113,50	
+E31	2019-08-22	2019-08-25	4210	Kostnader arrangemang	50		Inköp Chalmersvandringen		113,50		
+E32	2019-08-22	2019-08-25	1923	Bankkonto NollkIT	50		Inköp Phaddersittning			6211,53	
+E32	2019-08-22	2019-08-25	4210	Kostnader arrangemang	50		Inköp Phaddersittning		6211,53		
+E33	2019-08-23	2019-08-25	1923	Bankkonto NollkIT	50		Inköp Nollbrickstillverkningen			127,25	
+E33	2019-08-23	2019-08-25	4210	Kostnader arrangemang	50		Inköp Nollbrickstillverkningen		127,25		
+E34	2019-08-23	2019-08-25	2918	Skulder medlemmar	50		MU - Mat C/S/R			251,00	
+E34	2019-08-23	2019-08-25	4273	Matbidrag sektionsarbete	50		MU - Mat C/S/R		251,00		
+E35	2019-08-23	2019-08-25	2912	Skulder NollKIT	50		MU - Hyra Winden			1000,00	
+E35	2019-08-23	2019-08-25	4210	Kostnader arrangemang	50		MU - Hyra Winden		1000,00		
+E36	2019-08-23	2019-08-25	1923	Bankkonto NollkIT	50		MB - Hyra Winden			1000,00	
+E36	2019-08-23	2019-08-25	2918	Skulder medlemmar	50		MB - Hyra Winden		1000,00		
+E37	2019-08-24	2019-08-25	2918	Skulder medlemmar	50		MU - Mat SåpIT			1781,22	
+E37	2019-08-24	2019-08-25	4210	Kostnader arrangemang	50		MU - Mat SåpIT		1781,22		
+E38	2019-08-23	2019-09-04	1923	Bankkonto NollkIT	50		Hyra och Deposition tågvagnen			1800,00	
+E38	2019-08-23	2019-09-04	1700	Utlämnade depositioner	50		Hyra och Deposition tågvagnen		1500,00		
+E38	2019-08-23	2019-09-04	4210	Kostnader arrangemang	50		Hyra och Deposition tågvagnen		300,00		
+E39	2019-08-25	2019-09-19	2918	Skulder medlemmar	50		MU - SåpIT			576,00	
+E39	2019-08-25	2019-09-19	4210	Kostnader arrangemang	50		MU - SåpIT		576,00		
+E40	2019-08-12	2019-08-25	2440	Leverantörsskulder	50		FM - Mottagningskampen			2050,00	
+E40	2019-08-12	2019-08-25	4210	Kostnader arrangemang	50		FM - Mottagningskampen		2050,00		
+E41	2019-08-26	2019-08-26	1923	Bankkonto NollkIT	50		MB - Mat H			40,00	
+E41	2019-08-26	2019-08-26	2918	Skulder medlemmar	50		MB - Mat H		40,00		
+E42	2019-08-26	2019-08-26	1923	Bankkonto NollkIT	50		MB - Mat C/R			80,00	
+E42	2019-08-26	2019-08-26	2918	Skulder medlemmar	50		MB - Mat C/R		80,00		
+E43	2019-08-26	2019-08-26	1923	Bankkonto NollkIT	50		MB - Mat C/R/M			162,00	
+E43	2019-08-26	2019-08-26	2918	Skulder medlemmar	50		MB - Mat C/R/M		162,00		
+E44	2019-08-26	2019-08-26	1923	Bankkonto NollkIT	50		MB -Mat C/S/R			251,00	
+E44	2019-08-26	2019-08-26	2918	Skulder medlemmar	50		MB -Mat C/S/R		251,00		
+E45	2019-08-26	2019-08-26	1923	Bankkonto NollkIT	50		MB - Phadderhäng Styggingarna			410,75	
+E45	2019-08-26	2019-08-26	2918	Skulder medlemmar	50		MB - Phadderhäng Styggingarna		410,75		
+E46	2019-08-26	2019-08-26	1923	Bankkonto NollkIT	50		MB - Phadderhäng Hubbens Änglar			418,70	
+E46	2019-08-26	2019-08-26	2918	Skulder medlemmar	50		MB - Phadderhäng Hubbens Änglar		418,70		
+E47	2019-08-26	2019-09-04	1923	Bankkonto NollkIT	50		MB - Phadderhäng Draknästet			443,00	
+E47	2019-08-26	2019-09-04	2918	Skulder medlemmar	50		MB - Phadderhäng Draknästet		443,00		
+E48	2019-08-26	2019-08-26	1923	Bankkonto NollkIT	50		MB - Teambuilding Liseberg Mat			450,00	
+E48	2019-08-26	2019-08-26	2918	Skulder medlemmar	50		MB - Teambuilding Liseberg Mat		450,00		
+E49	2019-08-26	2019-08-26	1923	Bankkonto NollkIT	50		MB - Phaddermys Banderos			460,00	
+E49	2019-08-26	2019-08-26	2918	Skulder medlemmar	50		MB - Phaddermys Banderos		460,00		
+E50	2019-08-26	2019-08-26	1923	Bankkonto NollkIT	50		MB - SåpIT			576,00	
+E50	2019-08-26	2019-08-26	2918	Skulder medlemmar	50		MB - SåpIT		576,00		
+E51	2019-08-26	2019-08-26	1923	Bankkonto NollkIT	50		MB - Nollbricksmaterial			581,90	
+E51	2019-08-26	2019-08-26	2918	Skulder medlemmar	50		MB - Nollbricksmaterial		581,90		
+E52	2019-08-26	2019-08-26	1923	Bankkonto NollkIT	50		MB - Mat SåpIT			1781,22	
+E52	2019-08-26	2019-08-26	2918	Skulder medlemmar	50		MB - Mat SåpIT		1781,22		
+E53	2019-08-26	2019-09-19	1923	Bankkonto NollkIT	50		FB - Mottagningskampen			2050,00	
+E53	2019-08-26	2019-09-19	2440	Leverantörsskulder	50		FB - Mottagningskampen		2050,00		
+E54	2019-08-16	2019-09-19	2918	Skulder medlemmar	50		MU - SåpIT Bandyklubbor			545,00	
+E54	2019-08-16	2019-09-19	4210	Kostnader arrangemang	50		MU - SåpIT Bandyklubbor		545,00		
+E55	2019-08-25	2019-08-26	2918	Skulder medlemmar	50		MU - Ballonger Rundvandringen			57,00	
+E55	2019-08-25	2019-08-26	4210	Kostnader arrangemang	50		MU - Ballonger Rundvandringen		57,00		
+E56	2019-08-26	2019-08-29	3210	Intäkter arrangemang	50		IFU - iZettle Mottagningsvecka 1			41083,00	
+E56	2019-08-26	2019-08-29	4312	Kostnader iZettle	50		IFU - iZettle Mottagningsvecka 1		616,77		
+E56	2019-08-26	2019-08-29	1617	Fordringar StyrIT	50		IFU - iZettle Mottagningsvecka 1		40466,23		
+E57	2019-08-16	2019-09-04	2918	Skulder medlemmar	50		MU - Mat (B)			67,00	
+E57	2019-08-16	2019-09-04	4273	Matbidrag sektionsarbete	50		MU - Mat (B)		67,00		
+E58	2019-08-19	2019-09-04	2918	Skulder medlemmar	50		MU - Phaddermys Deca			331,70	
+E58	2019-08-19	2019-09-04	4210	Kostnader arrangemang	50		MU - Phaddermys Deca		331,70		
+E59	2019-08-20	2019-09-04	2918	Skulder medlemmar	50		MU - Phadderhäng Deca			81,86	
+E59	2019-08-20	2019-09-04	4210	Kostnader arrangemang	50		MU - Phadderhäng Deca		81,86		
+E60	2019-08-26	2019-09-04	1923	Bankkonto NollkIT	50		Mat (C/R)			114,00	
+E60	2019-08-26	2019-09-04	4273	Matbidrag sektionsarbete	50		Mat (C/R)		114,00		
+E61	2019-08-26	2019-09-04	1923	Bankkonto NollkIT	50		Mat (M)			57,00	
+E61	2019-08-26	2019-09-04	4273	Matbidrag sektionsarbete	50		Mat (M)		57,00		
+E62	2019-08-26	2019-09-04	1923	Bankkonto NollkIT	50		Mat (G)			57,00	
+E62	2019-08-26	2019-09-04	4273	Matbidrag sektionsarbete	50		Mat (G)		57,00		
+E63	2019-08-26	2019-09-04	2918	Skulder medlemmar	50		MU - Mat (C/R/S)			120,00	
+E63	2019-08-26	2019-09-04	4273	Matbidrag sektionsarbete	50		MU - Mat (C/R/S)		120,00		
+E64	2019-08-30	2019-09-04	1923	Bankkonto NollkIT	50		Laserdome			4000,00	
+E64	2019-08-30	2019-09-04	4210	Kostnader arrangemang	50		Laserdome		4000,00		
+E65	2019-08-27	2019-09-04	2918	Skulder medlemmar	50		MU - Batterier till Mic			35,00	
+E65	2019-08-27	2019-09-04	4210	Kostnader arrangemang	50		MU - Batterier till Mic		35,00		
+E66	2019-09-02	2019-09-04	1923	Bankkonto NollkIT	50		Mat (C/R)			158,00	
+E66	2019-09-02	2019-09-04	4273	Matbidrag sektionsarbete	50		Mat (C/R)		158,00		
+E67	2019-08-29	2019-09-04	2918	Skulder medlemmar	50		MU - Mat pluggkväll			300,00	
+E67	2019-08-29	2019-09-04	4210	Kostnader arrangemang	50		MU - Mat pluggkväll		300,00		
+E68	2019-08-30	2019-09-04	1923	Bankkonto NollkIT	50		Inköp Testtenta			1184,24	
+E68	2019-08-30	2019-09-04	4210	Kostnader arrangemang	50		Inköp Testtenta		1184,24		
+E69	2019-09-02	2019-09-04	1923	Bankkonto NollkIT	50		Mat (C/R/N/B/S/G)			480,00	
+E69	2019-09-02	2019-09-04	4273	Matbidrag sektionsarbete	50		Mat (C/R/N/B/S/G)		480,00		
+E70	2019-08-31	2019-09-04	2918	Skulder medlemmar	50		MU - Mat (N/M/G/S)			355,00	
+E70	2019-08-31	2019-09-04	4273	Matbidrag sektionsarbete	50		MU - Mat (N/M/G/S)		355,00		
+E71	2019-09-01	2019-09-04	2918	Skulder medlemmar	50		MU - Mat Bastu			108,30	
+E71	2019-09-01	2019-09-04	4210	Kostnader arrangemang	50		MU - Mat Bastu		108,30		
+E72	2019-09-01	2019-09-04	2918	Skulder medlemmar	50		MU - Mat (R/B/M)			237,00	
+E72	2019-09-01	2019-09-04	4273	Matbidrag sektionsarbete	50		MU - Mat (R/B/M)		237,00		
+E73	2019-09-01	2019-09-04	2918	Skulder medlemmar	50		MU - Mat (N)			55,00	
+E73	2019-09-01	2019-09-04	4273	Matbidrag sektionsarbete	50		MU - Mat (N)		55,00		
+E74	2019-09-01	2019-09-04	2918	Skulder medlemmar	50		MU - Inköp Spökfortet			644,21	
+E74	2019-09-01	2019-09-04	4210	Kostnader arrangemang	50		MU - Inköp Spökfortet		644,21		
+E75	2019-09-01	2019-09-04	2918	Skulder medlemmar	50		MU - Inköp Bastu			988,22	
+E75	2019-09-01	2019-09-04	4210	Kostnader arrangemang	50		MU - Inköp Bastu		988,22		
+E76	2019-09-03	2019-09-04	1923	Bankkonto NollkIT	50		Glowsticks Spökfortet			118,00	
+E76	2019-09-03	2019-09-04	4210	Kostnader arrangemang	50		Glowsticks Spökfortet		118,00		
+E77	2019-09-03	2019-09-04	1923	Bankkonto NollkIT	50		Godis Spökfortet			190,00	
+E77	2019-09-03	2019-09-04	4210	Kostnader arrangemang	50		Godis Spökfortet		190,00		
+E78	2019-09-04	2019-09-04	1700	Utlämnade depositioner	50		Deposition återfått Tågvagnen			1500,00	
+E78	2019-09-04	2019-09-04	1923	Bankkonto NollkIT	50		Deposition återfått Tågvagnen		1500,00		
+E79	2019-09-04	2019-09-04	1923	Bankkonto NollkIT	50		Mat (B/C)			111,00	
+E79	2019-09-04	2019-09-04	4273	Matbidrag sektionsarbete	50		Mat (B/C)		111,00		
+E80	2019-09-05	2019-09-04	1923	Bankkonto NollkIT	50		MB - Mat (C/R/S)			120,00	
+E80	2019-09-05	2019-09-04	2918	Skulder medlemmar	50		MB - Mat (C/R/S)		120,00		
+E81	2019-09-03	2019-09-04	1923	Bankkonto NollkIT	50		MB - Batterier till Mic			35,00	
+E81	2019-09-03	2019-09-04	2918	Skulder medlemmar	50		MB - Batterier till Mic		35,00		
+E82	2019-09-03	2019-09-04	1923	Bankkonto NollkIT	50		MB - Mat pluggkväll			300,00	
+E82	2019-09-03	2019-09-04	2918	Skulder medlemmar	50		MB - Mat pluggkväll		300,00		
+E83	2019-09-03	2019-09-04	1923	Bankkonto NollkIT	50		MB - Mat (N/M/G/S)			355,00	
+E83	2019-09-03	2019-09-04	2912	Skulder NollKIT	50		MB - Mat (N/M/G/S)		355,00		
+E84	2019-09-03	2019-09-04	1923	Bankkonto NollkIT	50		MB - Mat Bastu			108,30	
+E84	2019-09-03	2019-09-04	2918	Skulder medlemmar	50		MB - Mat Bastu		108,30		
+E85	2019-09-03	2019-09-04	1923	Bankkonto NollkIT	50		MB - Mat (R/B/M)			237,00	
+E85	2019-09-03	2019-09-04	2918	Skulder medlemmar	50		MB - Mat (R/B/M)		237,00		
+E86	2019-09-03	2019-09-04	1923	Bankkonto NollkIT	50		MB - Mat (N)			55,00	
+E86	2019-09-03	2019-09-04	2918	Skulder medlemmar	50		MB - Mat (N)		55,00		
+E87	2019-09-03	2019-09-04	1923	Bankkonto NollkIT	50		MB - Inköp Spökfortet			644,21	
+E87	2019-09-03	2019-09-04	2918	Skulder medlemmar	50		MB - Inköp Spökfortet		644,21		
+E88	2019-09-03	2019-09-04	1923	Bankkonto NollkIT	50		MB - Inköp Bastu			988,22	
+E88	2019-09-03	2019-09-04	2918	Skulder medlemmar	50		MB - Inköp Bastu		988,22		
+E89	2019-09-03	2019-09-04	2918	Skulder medlemmar	50		MU - Lekar till Bastun			37,90	
+E89	2019-09-03	2019-09-04	4210	Kostnader arrangemang	50		MU - Lekar till Bastun		37,90		
+E90	2019-09-05	2019-09-04	1923	Bankkonto NollkIT	50		MB - Lekar till bastun			37,90	
+E90	2019-09-05	2019-09-04	2918	Skulder medlemmar	50		MB - Lekar till bastun		37,90		
+E91	2019-08-25	2019-09-04	1614	Fordringar armIT	50		IFU - Sponsring under mottagningen		14000,00		
+E91	2019-08-25	2019-09-04	3310	Intäkter Sponsring	50		IFU - Sponsring under mottagningen			14000,00	
+E92	2019-09-04	2019-09-04	1614	Fordringar armIT	50		IFB - Sponsring mottagningen			14000,00	
+E92	2019-09-04	2019-09-04	1923	Bankkonto NollkIT	50		IFB - Sponsring mottagningen		14000,00		
+E93	2019-08-11	2019-09-19	2918	Skulder medlemmar	50		MU - Pingisbollar Mottagningen			156,00	
+E93	2019-08-11	2019-09-19	4210	Kostnader arrangemang	50		MU - Pingisbollar Mottagningen		156,00		
+E94	2019-08-14	2019-09-19	2440	Leverantörsskulder	50		FM - Stuga Hajk			4500,00	
+E94	2019-08-14	2019-09-19	4210	Kostnader arrangemang	50		FM - Stuga Hajk		4500,00		
+E95	2019-08-19	2019-09-19	2918	Skulder medlemmar	50		MU - Phaddermys VasaSkeppIT			414,58	
+E95	2019-08-19	2019-09-19	4210	Kostnader arrangemang	50		MU - Phaddermys VasaSkeppIT		414,58		
+E96	2019-08-26	2019-09-19	2918	Skulder medlemmar	50		MU - Inköp Spårvagnsfest			1958,80	
+E96	2019-08-26	2019-09-19	4210	Kostnader arrangemang	50		MU - Inköp Spårvagnsfest		1958,80		
+E97	2019-09-03	2019-09-19	2918	Skulder medlemmar	50		MU - Bastu Mat			97,30	
+E97	2019-09-03	2019-09-19	4210	Kostnader arrangemang	50		MU - Bastu Mat		97,30		
+E98	2019-09-03	2019-09-19	2918	Skulder medlemmar	50		MU - Mat (M)			47,00	
+E98	2019-09-03	2019-09-19	4273	Matbidrag sektionsarbete	50		MU - Mat (M)		47,00		
+E99	2019-09-03	2019-09-19	2918	Skulder medlemmar	50		MU - Mat (S/G)			150,00	
+E99	2019-09-03	2019-09-19	4273	Matbidrag sektionsarbete	50		MU - Mat (S/G)		150,00		
+E100	2019-09-04	2019-09-19	2918	Skulder medlemmar	50		MU - Nolluppdrag			191,70	
+E100	2019-09-04	2019-09-19	4210	Kostnader arrangemang	50		MU - Nolluppdrag		191,70		
+E101	2019-09-04	2019-09-19	1923	Bankkonto NollkIT	50		Deposition Bastu			2000,00	
+E101	2019-09-04	2019-09-19	1700	Utlämnade depositioner	50		Deposition Bastu		2000,00		
+E102	2019-09-04	2019-09-19	2918	Skulder medlemmar	50		MU - Pluggkväll 2			300,00	
+E102	2019-09-04	2019-09-19	4210	Kostnader arrangemang	50		MU - Pluggkväll 2		300,00		
+E103	2019-09-05	2019-09-19	2918	Skulder medlemmar	50		MU - Mat (N)		45,00		
+E103	2019-09-05	2019-09-19	4273	Matbidrag sektionsarbete	50		MU - Mat (N)			45,00	
+E104	2019-09-06	2019-09-19	2918	Skulder medlemmar	50		MU - Hajk/Oscarssittning			7532,06	
+E104	2019-09-06	2019-09-19	4210	Kostnader arrangemang	50		MU - Hajk/Oscarssittning		7532,06		
+E105	2019-09-06	2019-09-19	2918	Skulder medlemmar	50		MU - Mat (M/R)			158,00	
+E105	2019-09-06	2019-09-19	4273	Matbidrag sektionsarbete	50		MU - Mat (M/R)		158,00		
+E106	2019-09-06	2019-09-19	2918	Skulder medlemmar	50		MU - Hajk/Oscarssittning			520,05	
+E106	2019-09-06	2019-09-19	4210	Kostnader arrangemang	50		MU - Hajk/Oscarssittning		520,05		
+E107	2019-09-08	2019-09-19	2918	Skulder medlemmar	50		MU - Mat (G/M/H/N)			350,00	
+E107	2019-09-08	2019-09-19	4273	Matbidrag sektionsarbete	50		MU - Mat (G/M/H/N)		350,00		
+E108	2019-09-09	2019-09-19	1923	Bankkonto NollkIT	50		Mat (C/B)			178,00	
+E108	2019-09-09	2019-09-19	4273	Matbidrag sektionsarbete	50		Mat (C/B)		178,00		
+E109	2019-09-10	2019-09-19	2918	Skulder medlemmar	50		MU - Alkohol Oscarssittning			2711,10	
+E109	2019-09-10	2019-09-19	4210	Kostnader arrangemang	50		MU - Alkohol Oscarssittning		2711,10		
+E110	2019-09-09	2019-09-19	2918	Skulder medlemmar	50		MU - Batterier			70,00	
+E110	2019-09-09	2019-09-19	4210	Kostnader arrangemang	50		MU - Batterier		70,00		
+E111	2019-09-09	2019-09-19	1923	Bankkonto NollkIT	50		Inköp FattenKrigIT			20,50	
+E111	2019-09-09	2019-09-19	4210	Kostnader arrangemang	50		Inköp FattenKrigIT		20,50		
+E112	2019-09-09	2019-09-19	1923	Bankkonto NollkIT	50		Inköp FattenKrigIT			296,35	
+E112	2019-09-09	2019-09-19	4210	Kostnader arrangemang	50		Inköp FattenKrigIT		296,35		
+E113	2019-09-09	2019-09-19	1923	Bankkonto NollkIT	50		Inköp Hajk			102,90	
+E113	2019-09-09	2019-09-19	4210	Kostnader arrangemang	50		Inköp Hajk		102,90		
+E114	2019-09-09	2019-09-19	2918	Skulder medlemmar	50		MU - Hyra kylskåp Oscarssittning			300,00	
+E114	2019-09-09	2019-09-19	4210	Kostnader arrangemang	50		MU - Hyra kylskåp Oscarssittning		300,00		
+E115	2019-09-09	2019-09-19	2918	Skulder medlemmar	50		MU - Mat (M/S)			103,00	
+E115	2019-09-09	2019-09-19	4273	Matbidrag sektionsarbete	50		MU - Mat (M/S)		103,00		
+E116	2019-09-09	2019-09-19	2918	Skulder medlemmar	50		MU - Inköp Oscarssittningen			122,30	
+E116	2019-09-09	2019-09-19	4210	Kostnader arrangemang	50		MU - Inköp Oscarssittningen		122,30		
+E117	2019-09-09	2019-09-19	1923	Bankkonto NollkIT	50		Inköp Oscarssittningen			831,21	
+E117	2019-09-09	2019-09-19	4210	Kostnader arrangemang	50		Inköp Oscarssittningen		831,21		
+E118	2019-09-09	2019-09-19	2918	Skulder medlemmar	50		MU - Oscarssittningen			292,70	
+E118	2019-09-09	2019-09-19	4210	Kostnader arrangemang	50		MU - Oscarssittningen		292,70		
+E119	2019-09-09	2019-09-19	2918	Skulder medlemmar	50		MU - Mat (N)			80,00	
+E119	2019-09-09	2019-09-19	4273	Matbidrag sektionsarbete	50		MU - Mat (N)		80,00		
+E120	2019-09-09	2019-09-19	2440	Leverantörsskulder	50		FM - Bussar Mottagningen			8289,00	
+E120	2019-09-09	2019-09-19	5611	Kostnader Buss	50		FM - Bussar Mottagningen		8289,00		
+E121	2019-09-10	2019-09-19	1923	Bankkonto NollkIT	50		Kalle Glader Deposition & Hyra			3000,00	
+E121	2019-09-10	2019-09-19	1700	Utlämnade depositioner	50		Kalle Glader Deposition & Hyra		1500,00		
+E121	2019-09-10	2019-09-19	4210	Kostnader arrangemang	50		Kalle Glader Deposition & Hyra		1500,00		
+E122	2019-09-10	2019-09-19	1923	Bankkonto NollkIT	50		Alkoholfritt Oscarssittning			260,98	
+E122	2019-09-10	2019-09-19	4210	Kostnader arrangemang	50		Alkoholfritt Oscarssittning		260,98		
+E123	2019-09-10	2019-09-19	2440	Leverantörsskulder	50		FM - LoB Oscarssittningen			500,00	
+E123	2019-09-10	2019-09-19	4210	Kostnader arrangemang	50		FM - LoB Oscarssittningen		500,00		
+E124	2019-09-11	2019-09-19	2918	Skulder medlemmar	50		MU - Mat (S)			45,00	
+E124	2019-09-11	2019-09-19	4273	Matbidrag sektionsarbete	50		MU - Mat (S)		45,00		
+E125	2019-09-11	2019-09-19	1923	Bankkonto NollkIT	50		Inköp FattenKrigIT			89,90	
+E125	2019-09-11	2019-09-19	4210	Kostnader arrangemang	50		Inköp FattenKrigIT		89,90		
+E126	2019-09-11	2019-09-19	2918	Skulder medlemmar	50		MU - Mat (B)			35,00	
+E126	2019-09-11	2019-09-19	4273	Matbidrag sektionsarbete	50		MU - Mat (B)		35,00		
+E127	2019-09-11	2019-09-19	2918	Skulder medlemmar	50		MU - Nolluppdrag			109,00	
+E127	2019-09-11	2019-09-19	4210	Kostnader arrangemang	50		MU - Nolluppdrag		109,00		
+E128	2019-09-12	2019-09-19	1923	Bankkonto NollkIT	50		Mat (C/R)			170,00	
+E128	2019-09-12	2019-09-19	4273	Matbidrag sektionsarbete	50		Mat (C/R)		170,00		
+E129	2019-09-13	2019-09-19	2918	Skulder medlemmar	50		MU - Mat (S)			40,00	
+E129	2019-09-13	2019-09-19	4273	Matbidrag sektionsarbete	50		MU - Mat (S)		40,00		
+E130	2019-09-13	2019-09-19	2918	Skulder medlemmar	50		MU - Mat (G/B)			120,00	
+E130	2019-09-13	2019-09-19	4273	Matbidrag sektionsarbete	50		MU - Mat (G/B)		120,00		
+E131	2019-09-13	2019-09-19	2918	Skulder medlemmar	50		MU - Mat (N)			80,00	
+E131	2019-09-13	2019-09-19	4273	Matbidrag sektionsarbete	50		MU - Mat (N)		80,00		
+E132	2019-09-13	2019-09-19	2918	Skulder medlemmar	50		MU - Parkering Finsittning			91,00	
+E132	2019-09-13	2019-09-19	4210	Kostnader arrangemang	50		MU - Parkering Finsittning		91,00		
+E133	2019-09-19	2019-09-19	1923	Bankkonto NollkIT	50		FB - Stuga Hajk			4500,00	
+E133	2019-09-19	2019-09-19	2440	Leverantörsskulder	50		FB - Stuga Hajk		4500,00		
+E134	2019-09-17	2019-09-19	3210	Intäkter arrangemang	50		IFU - iZettle Mottagningen			82314,63	
+E134	2019-09-17	2019-09-19	1617	Fordringar StyrIT	50		IFU - iZettle Mottagningen		82314,63		
+E135	2019-09-17	2019-09-25	1923	Bankkonto NollkIT	50		IFB - iZettle Mottagningen		82314,63		
+E135	2019-09-17	2019-09-25	2917	Skulder StyrIT	50		IFB - iZettle Mottagningen			82314,63	
+E136	2019-09-19	2019-09-19	2440	Leverantörsskulder	50		FM - LoB Finsittningen			950,00	
+E136	2019-09-19	2019-09-19	4210	Kostnader arrangemang	50		FM - LoB Finsittningen		950,00		
+E137	2019-09-11	2019-09-19	1923	Bankkonto NollkIT	50		Deposition Bastu åter		1800,00		
+E137	2019-09-11	2019-09-19	1700	Utlämnade depositioner	50		Deposition Bastu åter			2000,00	
+E137	2019-09-11	2019-09-19	4210	Kostnader arrangemang	50		Deposition Bastu åter		200,00		
+E138	2019-09-23	2019-10-18	1700	Utlämnade depositioner	50		Deposition återfått Kalle Glader			1500,00	
+E138	2019-09-23	2019-10-18	1923	Bankkonto NollkIT	50		Deposition återfått Kalle Glader		1500,00		
+E139	2019-08-27	2019-09-19	1923	Bankkonto NollkIT	50		MB - Spårvagnsfest			1958,80	
+E139	2019-08-27	2019-09-19	2918	Skulder medlemmar	50		MB - Spårvagnsfest		1958,80		
+E140	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Pingisbollar Mottagningen			156,00	
+E140	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Pingisbollar Mottagningen		156,00		
+E141	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Phaddermys VasaSkeppIT			414,58	
+E141	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Phaddermys VasaSkeppIT		414,58		
+E142	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Bastu Mat			97,30	
+E142	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Bastu Mat		97,30		
+E143	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Mat (M)			47,00	
+E143	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Mat (M)		47,00		
+E144	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Mat (S/G)			150,00	
+E144	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Mat (S/G)		150,00		
+E145	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Nolluppdrag			191,70	
+E145	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Nolluppdrag		191,70		
+E146	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Pluggkväll 2			300,00	
+E146	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Pluggkväll 2		300,00		
+E147	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Mat (M)			45,00	
+E147	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Mat (M)		45,00		
+E148	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Mat (M/R)			158,00	
+E148	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Mat (M/R)		158,00		
+E149	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Hajk/Oscarssittning			520,05	
+E149	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Hajk/Oscarssittning		520,05		
+E150	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Mat (G/M/H/N)			350,00	
+E150	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Mat (G/M/H/N)		350,00		
+E151	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Alkohol Oscarssittning			2711,10	
+E151	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Alkohol Oscarssittning		2711,10		
+E152	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Batterier			70,00	
+E152	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Batterier		70,00		
+E153	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Hyra kylskåp Oscarssittning			300,00	
+E153	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Hyra kylskåp Oscarssittning		300,00		
+E154	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Mat (M/S)			103,00	
+E154	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Mat (M/S)		103,00		
+E155	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Inköp Oscarssittningen			122,30	
+E155	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Inköp Oscarssittningen		122,30		
+E156	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Oscarssittningen			292,70	
+E156	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Oscarssittningen		292,70		
+E157	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Mat (N)			80,00	
+E157	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Mat (N)		80,00		
+E158	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Mat (S)			45,00	
+E158	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Mat (S)		45,00		
+E159	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Mat (B)			35,00	
+E159	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Mat (B)		35,00		
+E160	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Nolluppdrag			109,00	
+E160	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Nolluppdrag		109,00		
+E161	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Mat (S)			40,00	
+E161	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Mat (S)		40,00		
+E162	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Mat (G/B)			120,00	
+E162	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Mat (G/B)		120,00		
+E163	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Mat (N)			80,00	
+E163	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Mat (N)		80,00		
+E164	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		MB - Parkering Finsittning			91,00	
+E164	2019-09-20	2019-09-19	2918	Skulder medlemmar	50		MB - Parkering Finsittning		91,00		
+E165	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		FB - Bussar Mottagningen			8289,00	
+E165	2019-09-20	2019-09-19	2440	Leverantörsskulder	50		FB - Bussar Mottagningen		8289,00		
+E166	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		FB - LoB Oscarssittningen			500,00	
+E166	2019-09-20	2019-09-19	2440	Leverantörsskulder	50		FB - LoB Oscarssittningen		500,00		
+E167	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		FB - LoB Finsittningen			950,00	
+E167	2019-09-20	2019-09-19	2440	Leverantörsskulder	50		FB - LoB Finsittningen		950,00		
+E168	2019-09-16	2019-09-19	1923	Bankkonto NollkIT	50		MB - Hajk/Oscarssittning			7532,06	
+E168	2019-09-16	2019-09-19	2918	Skulder medlemmar	50		MB - Hajk/Oscarssittning		7532,06		
+E169	2019-09-14	2019-09-19	2440	Leverantörsskulder	50		FM - Finsittning			65727,00	
+E169	2019-09-14	2019-09-19	4210	Kostnader arrangemang	50		FM - Finsittning		65727,00		
+E170	2019-09-20	2019-09-19	1923	Bankkonto NollkIT	50		FB - Finsittning			65727,00	
+E170	2019-09-20	2019-09-19	2440	Leverantörsskulder	50		FB - Finsittning		65727,00		
+E171	2019-08-30	2019-09-19	2440	Leverantörsskulder	50		FM - Pyrot sprängning 			500,00	
+E171	2019-08-30	2019-09-19	4210	Kostnader arrangemang	50		FM - Pyrot sprängning 		500,00		
+E172	2019-09-03	2019-09-19	1923	Bankkonto NollkIT	50		FB - Pyrot sprängning			500,00	
+E172	2019-09-03	2019-09-19	2918	Skulder medlemmar	50		FB - Pyrot sprängning		500,00		
+E173	2019-09-06	2019-09-23	2440	Leverantörsskulder	50		FM - Spårvagn Spårvagnsfest			7738,00	
+E173	2019-09-06	2019-09-23	4210	Kostnader arrangemang	50		FM - Spårvagn Spårvagnsfest		7738,00		
+E174	2019-09-24	2019-09-23	1923	Bankkonto NollkIT	50		FB - Spårvagn Spårvagnsfest			7738,00	
+E174	2019-09-24	2019-09-23	2440	Leverantörsskulder	50		FB - Spårvagn Spårvagnsfest		7738,00		
+E175	2019-09-15	2019-09-30	2918	Skulder medlemmar	50		MU - Sunfleet WildKids			624,00	
+E175	2019-09-15	2019-09-30	4210	Kostnader arrangemang	50		MU - Sunfleet WildKids		624,00		
+E176	2019-10-01	2019-09-30	1923	Bankkonto NollkIT	50		MB - Sunfleet WildKids			624,00	
+E176	2019-10-01	2019-09-30	2918	Skulder medlemmar	50		MB - Sunfleet WildKids		624,00		
+E177	2019-09-25	2019-10-08	2440	Leverantörsskulder	50		FM - Nollanbild			335,00	
+E177	2019-09-25	2019-10-08	4210	Kostnader arrangemang	50		FM - Nollanbild		335,00		
+E178	2019-10-09	2019-10-08	1923	Bankkonto NollkIT	50		FB - Nollanbild			335,00	
+E178	2019-10-09	2019-10-08	2440	Leverantörsskulder	50		FB - Nollanbild		335,00		
+E179	2019-10-10	2019-10-18	1923	Bankkonto NollkIT	50		Inköp ram Nollanbild			128,00	
+E179	2019-10-10	2019-10-18	4210	Kostnader arrangemang	50		Inköp ram Nollanbild		128,00		
+E180	2019-10-17	2019-10-18	1923	Bankkonto NollkIT	50		Inköp Sykit och tillbehör			438,70	
+E180	2019-10-17	2019-10-18	4010	Inköp material och varor	50		Inköp Sykit och tillbehör		438,70		
+E181	2019-10-16	2019-10-18	2440	Leverantörsskulder	50		FM - FestU Mottagningen			13360,00	
+E181	2019-10-16	2019-10-18	4210	Kostnader arrangemang	50		FM - FestU Mottagningen		13360,00		
+E182	2019-10-21	2019-10-18	1923	Bankkonto NollkIT	50		FB - FestU Mottagningen			13360,00	
+E182	2019-10-21	2019-10-18	2440	Leverantörsskulder	50		FB - FestU Mottagningen		13360,00		
+F1	2019-07-01	2019-09-19	1790	Övriga förutbetalda kostnader och upplupna intäkter	60		Interimfordran 18/19	Avser F73, F75, F79 och F80 från 18/19		2400,00	
+F1	2019-07-01	2019-09-19	5920	Profilkläder och material	60		Interimfordran 18/19		2400,00		
+F1	2019-07-01	2019-09-19	1790	Övriga förutbetalda kostnader och upplupna intäkter	60		Interimfordran 18/19	Avser F74 från 18/19		354,59	
+F1	2019-07-01	2019-09-19	4510	Kostnader Intern Representation	60		Interimfordran 18/19		354,59		
+F2	2019-08-23	2019-09-16	2918	Skulder medlemmar	60		MU - NollanLunch			1107,84	
+F2	2019-08-23	2019-09-16	4210	Kostnader arrangemang	60		MU - NollanLunch		1107,84		
+F3	2019-08-23	2019-09-17	3210	Intäkter arrangemang	60		IFU - NollanLunch iZettle			1260,00	
+F3	2019-08-23	2019-09-17	1617	Fordringar StyrIT	60		IFU - NollanLunch iZettle		1241,10		
+F3	2019-08-23	2019-09-17	4312	Kostnader iZettle	60		IFU - NollanLunch iZettle		18,90		
+F4	2019-08-28	2019-09-19	1924	Bankkonto FrITid	60		IFB - NollanLunch iZettle	Avser F3	1241,10		
+F4	2019-08-28	2019-09-19	1617	Fordringar StyrIT	60		IFB - NollanLunch iZettle			1241,10	
+F5	2019-09-16	2019-09-17	2918	Skulder medlemmar	60		MU - Pärm bokföring			39,00	
+F5	2019-09-16	2019-09-17	6110	Kontorsmaterial	60		MU - Pärm bokföring		39,00		
+F6	2019-09-18	2019-09-17	1924	Bankkonto FrITid	60		MB - Pärm bokföring	Betalar F5		39,00	
+F6	2019-09-18	2019-09-17	2918	Skulder medlemmar	60		MB - Pärm bokföring		39,00		
+F7	2019-09-18	2019-09-17	1924	Bankkonto FrITid	60		MB - NollanLunch	Betalar F2		1107,84	
+F7	2019-09-18	2019-09-17	2918	Skulder medlemmar	60		MB - NollanLunch		1107,84		
+F8	2019-09-18	2019-09-19	1924	Bankkonto FrITid	60		MB - Teambuilding - Mat	Avser F1		354,59	
+F8	2019-09-18	2019-09-19	2918	Skulder medlemmar	60		MB - Teambuilding - Mat	Teambuilding - Mat	354,59		
+F9	2019-09-18	2019-09-19	1924	Bankkonto FrITid	60		MB - Profilering	Avser F1		2400,00	
+F9	2019-09-18	2019-09-19	2918	Skulder medlemmar	60		MB - Profilering	Matchställ	1632,13		
+F9	2019-09-18	2019-09-19	2918	Skulder medlemmar	60		MB - Profilering	Hoodies	767,87		
+F10	2019-09-27	2019-09-28	2918	Skulder medlemmar	60		MU - Arrangemang - Fjäderborgen			1200,00	
+F10	2019-09-27	2019-09-28	4210	Kostnader arrangemang	60		MU - Arrangemang - Fjäderborgen		1200,00		
+F11	2019-10-01	2019-10-01	2918	Skulder medlemmar	60		MB - Arrangemang - Fjäderborgen		1200,00		
+F11	2019-10-01	2019-10-01	1924	Bankkonto FrITid	60		MB - Arrangemang - Fjäderborgen	Betalar F10		1200,00	
+F12	2019-09-30	2019-10-01	2918	Skulder medlemmar	60		MU - Teambuilding			331,00	
+F12	2019-09-30	2019-10-01	4510	Kostnader Intern Representation	60		MU - Teambuilding	Teambuilding - Mat	331,00		
+F13	2019-09-09	2019-10-01	2917	Skulder StyrIT	60		Lån innan budget			15000,00	
+F13	2019-09-09	2019-10-01	1924	Bankkonto FrITid	60		Lån innan budget		15000,00		
+F14	2019-10-02	2019-10-03	2918	Skulder medlemmar	60		MB - Teambuilding		331,00		
+F14	2019-10-02	2019-10-03	1924	Bankkonto FrITid	60		MB - Teambuilding	Betalar F12		331,00	
+F15	2019-10-02	2019-10-08	2918	Skulder medlemmar	60		MU - Inventarier - First Aid Kit			485,00	
+F15	2019-10-02	2019-10-08	5410	Inköp förbrukningsinventarier	60		MU - Inventarier - First Aid Kit		485,00		
+F16	2019-10-09	2019-10-08	1924	Bankkonto FrITid	60		MB - Inventarier - First Aid Kit	Betalar F15		485,00	
+F16	2019-10-09	2019-10-08	2918	Skulder medlemmar	60		MB - Inventarier - First Aid Kit		485,00		
+F17	2019-10-10	2019-10-15	2918	Skulder medlemmar	60		MU - Överlämning			12,00	
+F17	2019-10-10	2019-10-15	4241	Kostnader överlämningar	60		MU - Överlämning		12,00		
+F18	2019-10-11	2019-10-15	2918	Skulder medlemmar	60		MU - Överlämning			799,00	
+F18	2019-10-11	2019-10-15	2918	Skulder medlemmar	60		MU - Överlämning			1171,00	
+F18	2019-10-11	2019-10-15	4241	Kostnader överlämningar	60		MU - Överlämning		1970,00		
+F19	2019-10-11	2019-10-15	2918	Skulder medlemmar	60		MU - Arrangemang - Beach Center			1600,00	
+F19	2019-10-11	2019-10-15	4210	Kostnader arrangemang	60		MU - Arrangemang - Beach Center		1600,00		
+F20	2019-10-10	2019-10-16	2918	Skulder medlemmar	60		MU - Överlämning			121,78	
+F20	2019-10-10	2019-10-16	4241	Kostnader överlämningar	60		MU - Överlämning		121,78		
+F21	2019-10-16	2019-10-21	2918	Skulder medlemmar	60		MB - Arrangemang - Beach Center		1600,00		
+F21	2019-10-16	2019-10-21	1924	Bankkonto FrITid	60		MB - Arrangemang - Beach Center	Betalar F19		1600,00	
+F22	2019-10-17	2019-10-21	2918	Skulder medlemmar	60		MB - Överlämning		799,00		
+F22	2019-10-17	2019-10-21	1924	Bankkonto FrITid	60		MB - Överlämning	Betalar hälften av F18		799,00	
+F23	2019-10-17	2019-10-21	2918	Skulder medlemmar	60		MB - Överlämning		1304,78		
+F23	2019-10-17	2019-10-21	1924	Bankkonto FrITid	60		MB - Överlämning	Betalar hälften av F18 samt hela F17 och F20		1304,78	
+G1	2019-09-03	2019-09-03	2918	Skulder medlemmar	70		MU - Nollanlunch färs			122,90	
+G1	2019-09-03	2019-09-03	4210	Kostnader arrangemang	70		MU - Nollanlunch färs		122,90		
+G2	2019-09-03	2019-09-03	2918	Skulder medlemmar	70		MU - Nollanlunch sås			251,40	
+G2	2019-09-03	2019-09-03	4210	Kostnader arrangemang	70		MU - Nollanlunch sås		251,40		
+G3	2019-09-03	2019-09-03	2918	Skulder medlemmar	70		MU - Nollanlunch mat			722,33	
+G3	2019-09-03	2019-09-03	4210	Kostnader arrangemang	70		MU - Nollanlunch mat		722,33		
+G4	2019-08-02	2019-09-04	2918	Skulder medlemmar	70		MU - Kardborrband			159,80	
+G4	2019-08-02	2019-09-04	4010	Inköp material och varor	70		MU - Kardborrband		159,80		
+G5	2019-09-06	2019-09-10	2918	Skulder medlemmar	70		MU - arr - codeIT			134,00	
+G5	2019-09-06	2019-09-10	4210	Kostnader arrangemang	70		MU - arr - codeIT		134,00		
+G6	2019-09-03	2019-09-10	3210	Intäkter arrangemang	70		IFU - Nollanlunch iZettle			1280,00	
+G6	2019-09-03	2019-09-10	4312	Kostnader iZettle	70		IFU - Nollanlunch iZettle		19,20		
+G6	2019-09-03	2019-09-10	1617	Fordringar StyrIT	70		IFU - Nollanlunch iZettle		1260,80		
+G7	2019-09-04	2019-09-10	1926	Bankkonto digIT	70		IFB - Nollanlunch iZettle		1260,80		
+G7	2019-09-04	2019-09-10	1617	Fordringar StyrIT	70		IFB - Nollanlunch iZettle			1260,80	
+G8	2019-09-10	2019-09-18	1926	Bankkonto digIT	70		MB - Överlämning - läsk	Betalar G43		84,50	
+G8	2019-09-10	2019-09-18	2918	Skulder medlemmar	70		MB - Överlämning - läsk		84,50		
+G9	2019-09-10	2019-09-10	1926	Bankkonto digIT	70		MB - Klistermärken	Betalar G49		205,00	
+G9	2019-09-10	2019-09-10	2918	Skulder medlemmar	70		MB - Klistermärken		205,00		
+G10	2019-09-10	2019-09-10	1926	Bankkonto digIT	70		MB - Färg, fika & Nollanlunch	Betalar G51, G52, G1		907,70	
+G10	2019-09-10	2019-09-10	2918	Skulder medlemmar	70		MB - Färg, fika & Nollanlunch		907,70		
+G11	2019-09-10	2019-09-18	1926	Bankkonto digIT	70		MB - NollanLunch & tårta	Betalar G42 ,G3		826,69	
+G11	2019-09-10	2019-09-18	2918	Skulder medlemmar	70		MB - NollanLunch & tårta		826,69		
+G12	2019-09-06	2019-09-18	2918	Skulder medlemmar	70		MU - CodeIT fika			134,00	
+G12	2019-09-06	2019-09-18	4210	Kostnader arrangemang	70		MU - CodeIT fika		134,00		
+G13	2019-09-18	2019-09-19	1926	Bankkonto digIT	70		MB - Profilering, Nollanlunch	Betalar G2, G53, G48		5551,56	
+G13	2019-09-18	2019-09-19	2918	Skulder medlemmar	70		MB - Profilering, Nollanlunch		5551,56		
+G14	2019-09-18	2019-09-19	1926	Bankkonto digIT	70		MB - Karborrband, CodeIT fika	Betalar G4, G12		293,80	
+G14	2019-09-18	2019-09-19	2918	Skulder medlemmar	70		MB - Karborrband, CodeIT fika		293,80		
+G15	2019-09-18	2019-09-30	1926	Bankkonto digIT	70		MB - Överlämning	Betalar G44, G45, G46		2440,47	
+G15	2019-09-18	2019-09-30	2918	Skulder medlemmar	70		MB - Överlämning		2440,47		
+G16	2019-09-05	2019-09-30	2918	Skulder medlemmar	70		MU - Adaptrar			947,00	
+G16	2019-09-05	2019-09-30	4010	Inköp material och varor	70		MU - Adaptrar		947,00		
+G17	2019-09-30	2019-09-30	1926	Bankkonto digIT	70		MB - Överlämning	Betalar G54		173,70	
+G17	2019-09-30	2019-09-30	2918	Skulder medlemmar	70		MB - Överlämning		173,70		
+G18	2019-10-04	2019-10-15	2918	Skulder medlemmar	70		MU - Teambuilding			606,34	
+G18	2019-10-04	2019-10-15	4510	Kostnader Intern Representation	70		MU - Teambuilding		606,34		
+G19	2019-09-06	2019-10-15	2918	Skulder medlemmar	70		MU - arr - CodeIT saft			17,90	
+G19	2019-09-06	2019-10-15	4210	Kostnader arrangemang	70		MU - arr - CodeIT saft		17,90		
+G20	2019-10-13	2019-10-15	2918	Skulder medlemmar	70		MU - arr - hacktoberfest			114,60	
+G20	2019-10-13	2019-10-15	4210	Kostnader arrangemang	70		MU - arr - hacktoberfest		114,60		
+G21	2019-10-15	2019-10-15	1926	Bankkonto digIT	70		MB - arr - CodeIT	Betalar G19		17,90	
+G21	2019-10-15	2019-10-15	2918	Skulder medlemmar	70		MB - arr - CodeIT		17,90		
+G22	2019-10-15	2019-10-15	1926	Bankkonto digIT	70		MB - arr, teambuilding	Betalar G18, G20		720,94	
+G22	2019-10-15	2019-10-15	2918	Skulder medlemmar	70		MB - arr, teambuilding		720,94		
+H1	2019-09-10	2019-09-16	4220	Kostnader för mat och dryck	80		BBQ Evening		412,80		
+H1	2019-09-10	2019-09-16	1927	Bankkonto MRCIT	80		BBQ Evening			412,80	
+H2	2019-09-13	2019-09-16	4210	Kostnader arrangemang	80		Sittningstillbehör		1627,45		
+H2	2019-09-13	2019-09-16	1927	Bankkonto MRCIT	80		Sittningstillbehör			1627,45	
+H3	2019-09-02	2019-09-16	4220	Kostnader för mat och dryck	80		MU - Speedmeeting - Fika		213,20		
+H3	2019-09-02	2019-09-16	2918	Skulder medlemmar	80		MU - Speedmeeting - Fika			213,20	
+H4	2019-07-01	2019-09-26	5920	Profilkläder och material	80		MU - Profiltröjor		599,00		
+H4	2019-07-01	2019-09-26	1790	Övriga förutbetalda kostnader och upplupna intäkter	80		MU - Profiltröjor			599,00	
+H5	2019-07-01	2019-09-26	1790	Övriga förutbetalda kostnader och upplupna intäkter	80		MU - Profiltryck Tröjor			1106,00	
+H5	2019-07-01	2019-09-26	5920	Profilkläder och material	80		MU - Profiltryck Tröjor		1106,00		
+H6	2019-09-19	2019-09-19	3210	Intäkter arrangemang	80		IFU - Sittningsbiljetter iZettle			3650,00	
+H6	2019-09-19	2019-09-19	4312	Kostnader iZettle	80		IFU - Sittningsbiljetter iZettle		54,75		
+H6	2019-09-19	2019-09-19	1610	Fordringar PRIT	80		IFU - Sittningsbiljetter iZettle	MRCIT Sittningsbiljetter iZettle konfigurerades till PRITs konto	3595,25		
+H7	2019-09-10	2019-09-26	4220	Kostnader för mat och dryck	80		BBQ Evening		40,00		
+H7	2019-09-10	2019-09-26	1927	Bankkonto MRCIT	80		BBQ Evening			40,00	
+H8	2019-10-01	2019-10-01	4210	Kostnader arrangemang	80		Sittning - Catering		14560,00		
+H8	2019-10-01	2019-10-01	2440	Leverantörsskulder	80		Sittning - Catering			14560,00	
+H9	2019-10-03	2019-10-03	4210	Kostnader arrangemang	80		LOB Equipment for sittning		600,00		
+H9	2019-10-03	2019-10-03	2440	Leverantörsskulder	80		LOB Equipment for sittning			600,00	
+I1	2019-07-01	2019-09-19	2990	Övriga upplupna kostnader och förutbetalda intäkter	90		Upplupna kostnader Pedagogiska Priset		6900,00		
+I1	2019-07-01	2019-09-19	1928	Bankkonto snIT	90		Upplupna kostnader Pedagogiska Priset			6900,00	
+I2	2019-08-15	2019-09-23	5920	Profilkläder och material	90		MU Profilering profilkläder snIT		3000,00		
+I2	2019-08-15	2019-09-23	2918	Skulder medlemmar	90		MU Profilering profilkläder snIT			3000,00	
+I3	2019-09-19	2019-09-23	1928	Bankkonto snIT	90		MB Profilering profilkläder snIT			4875,00	
+I3	2019-09-19	2019-09-23	2918	Skulder medlemmar	90		MB Profilering profilkläder snIT		3000,00		
+I3	2019-09-19	2019-09-23	1618	Fordringar Medlemmar	90		MB Profilering profilkläder snIT		1875,00		
+I4	2019-08-29	2019-09-19	4210	Kostnader arrangemang	90		MU Pluggfrukost Mottagning snIT		734,90		
+I4	2019-08-29	2019-09-19	2918	Skulder medlemmar	90		MU Pluggfrukost Mottagning snIT			734,90	
+I5	2019-09-19	2019-09-19	1928	Bankkonto snIT	90		MB Pluggfrukost Mottagning snIT			734,90	
+I5	2019-09-19	2019-09-19	2918	Skulder medlemmar	90		MB Pluggfrukost Mottagning snIT		734,90		
+I6	2019-09-04	2019-09-19	4210	Kostnader arrangemang	90		MU Pluggkväll Mottagningen snIT		474,90		
+I6	2019-09-04	2019-09-19	2918	Skulder medlemmar	90		MU Pluggkväll Mottagningen snIT			474,90	
+I7	2019-09-19	2019-09-19	1928	Bankkonto snIT	90		MB Pluggkväll Mottagningen snIT			474,90	
+I7	2019-09-19	2019-09-19	2918	Skulder medlemmar	90		MB Pluggkväll Mottagningen snIT		474,90		
+I8	2019-09-19	2019-09-23	1928	Bankkonto snIT	90		Tillbakabetalning av för stor utbetalning		1875,00		
+I8	2019-09-19	2019-09-23	1618	Fordringar Medlemmar	90		Tillbakabetalning av för stor utbetalning			1875,00	
+I9	2019-09-26	2019-10-14	4510	Kostnader Intern Representation	90		MU - Teambuilding mat LP1 snIT		392,70		
+I9	2019-09-26	2019-10-14	2918	Skulder medlemmar	90		MU - Teambuilding mat LP1 snIT			392,70	
+I10	2019-10-14	2019-10-14	2918	Skulder medlemmar	90		MB - Teambuilding mat LP1 snIT		392,70		
+I10	2019-10-14	2019-10-14	1928	Bankkonto snIT	90		MB - Teambuilding mat LP1 snIT			392,70	
+I11	2019-10-07	2019-10-14	4511	Kostnader Extern Representation	90		MU - Mat klassrepresentantsmöte LP1 kandidat snIT		735,00		
+I11	2019-10-07	2019-10-14	2918	Skulder medlemmar	90		MU - Mat klassrepresentantsmöte LP1 kandidat snIT			735,00	
+I12	2019-10-14	2019-10-14	1928	Bankkonto snIT	90		MB - Mat klassrepresentantsmöte LP1 kandidat snIT			735,00	
+I12	2019-10-14	2019-10-14	2918	Skulder medlemmar	90		MB - Mat klassrepresentantsmöte LP1 kandidat snIT		735,00		
+I13	2019-10-14	2019-10-18	4511	Kostnader Extern Representation	90		MU - Mat klassrepresentantmöte LP1 master snIT		140,00		
+I13	2019-10-14	2019-10-18	2918	Skulder medlemmar	90		MU - Mat klassrepresentantmöte LP1 master snIT			140,00	
+I14	2019-10-18	2019-10-18	1928	Bankkonto snIT	90		MB - Mat klassrepresentantmöte LP1 master snIT			140,00	
+I14	2019-10-18	2019-10-18	2918	Skulder medlemmar	90		MB - Mat klassrepresentantmöte LP1 master snIT		140,00		
+I15	2019-10-16	2019-10-18	4210	Kostnader arrangemang	90		MU Pluggfrukost LP1 snIT		1615,49		
+I15	2019-10-16	2019-10-18	2918	Skulder medlemmar	90		MU Pluggfrukost LP1 snIT			1615,49	
+I16	2019-10-18	2019-10-18	1928	Bankkonto snIT	90		MB Pluggfrukost LP1 snIT			1615,49	
+I16	2019-10-18	2019-10-18	2918	Skulder medlemmar	90		MB Pluggfrukost LP1 snIT		1615,49		
+I17	2019-10-18	2019-10-18	5410	Inköp förbrukningsinventarier	90		MU Inköp Stekpanna		2195,00		
+I17	2019-10-18	2019-10-18	2918	Skulder medlemmar	90		MU Inköp Stekpanna			2195,00	
+I18	2019-10-18	2019-10-18	1928	Bankkonto snIT	90		MB Inköp Stekpanna			2195,00	
+I18	2019-10-18	2019-10-18	2918	Skulder medlemmar	90		MB Inköp Stekpanna		2195,00		
+J1	2019-08-24	2019-09-13	2918	Skulder medlemmar	100		MU - profilering			105,00	
+J1	2019-08-24	2019-09-13	5920	Profilkläder och material	100		MU - profilering		105,00		
+J2	2019-09-06	2019-09-19	2918	Skulder medlemmar	100		MU - Överlämning 18/19/20			1290,00	
+J2	2019-09-06	2019-09-19	4241	Kostnader överlämningar	100		MU - Överlämning 18/19/20		1290,00		
+J3	2019-09-19	2019-09-19	1617	Fordringar StyrIT	100		IFU - Izettle pinförsäljning		2703,81		
+J3	2019-09-19	2019-09-19	4312	Kostnader iZettle	100		IFU - Izettle pinförsäljning		41,19		
+J3	2019-09-19	2019-09-19	3210	Intäkter arrangemang	100		IFU - Izettle pinförsäljning			2745,00	
+J4	2019-09-20	2019-10-10	1929	Bankkonto FanbärerIT	100		MB - Profilering			105,00	
+J4	2019-09-20	2019-10-10	2918	Skulder medlemmar	100		MB - Profilering		105,00		
+J5	2019-09-20	2019-10-10	1929	Bankkonto FanbärerIT	100		MB - Överlämning 18/19/20			1290,00	
+J5	2019-09-20	2019-10-10	2918	Skulder medlemmar	100		MB - Överlämning 18/19/20		1290,00		
+J6	2019-09-24	2019-10-10	2918	Skulder medlemmar	100		MU - Teambuildning mat + dricka			270,00	
+J6	2019-09-24	2019-10-10	4510	Kostnader Intern Representation	100		MU - Teambuildning mat + dricka		255,00		
+J6	2019-09-24	2019-10-10	4510	Kostnader Intern Representation	100		MU - Teambuildning mat + dricka		15,00		
